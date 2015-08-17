@@ -1,14 +1,21 @@
 #!/bin/bash
-awk  -F'" "' '
+awk  -F'" "|"$' '
 BEGIN{
     print "男比例|男|女|故事"
     print "---|---|---|---"
 }{
     if($5!="NULL"){
+        split($7, ts, ",")
         if($5==1){
-            boy[$6" - "$7]++;
+            boy[$6" - "$7]++
+            for(t in ts){
+                taxoboy[t]++
+            }
         }else{
-            girl[$6" - "$7]++;
+            girl[$6" - "$7]++
+            for(t in ts){
+                taxogirl[t]++
+            }
         }
     }
 }END{
@@ -18,4 +25,9 @@ BEGIN{
         if(girl[i]==""||boy[i]/girl[i]>1.4||boy[i]==""||girl[i]/boy[i]>1.4)
             print boy[i] / (boy[i] + girl[i])  " | " boy[i]" | "girl[i]" | "  i | "sort -r -n -k1";
     }
-}' event_3.index > report-boygirl.md
+    print ""
+    print "taxo | taxogirl"
+    for(taxo in taxogirl){
+        print taxo " | " taxogirl[taxo]
+    }
+}' event_3.index #> report-boygirl.md
