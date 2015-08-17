@@ -5,29 +5,41 @@ BEGIN{
     print "---|---|---|---"
 }{
     if($5!="NULL"){
-        split($7, ts, ",")
         if($5==1){
-            boy[$6" - "$7]++
-            for(t in ts){
-                taxoboy[t]++
-            }
+            boy[$6]++
         }else{
-            girl[$6" - "$7]++
-            for(t in ts){
-                taxogirl[t]++
-            }
+            girl[$6]++
         }
+        taxo[$6]=$7
     }
 }END{
     for(i in boy){
         if(boy[i]<20&&girl[i]<20)
             continue;
-        if(girl[i]==""||boy[i]/girl[i]>1.4||boy[i]==""||girl[i]/boy[i]>1.4)
-            print boy[i] / (boy[i] + girl[i])  " | " boy[i]" | "girl[i]" | "  i | "sort -r -n -k1";
+        boymark = boy[i] / (boy[i] + girl[i])
+        if(girl[i]==""||boy[i]/girl[i]>1.4||boy[i]==""||girl[i]/boy[i]>1.4){
+            print  boymark " | " boy[i]" | "girl[i]" | "  i | "sort -r -n -k1";
+            split(taxo[i], ts, ",")
+            if(boymark > 0.5){
+                for(t in ts){
+                    taxoboy[ts[t]]++
+                }
+            }else{
+                for(t in ts){
+                    taxogirl[ts[t]]++
+                }
+            }
+        }
     }
-    print ""
+}END{
     print "taxo | taxogirl"
-    for(taxo in taxogirl){
-        print taxo " | " taxogirl[taxo]
+    for(t in taxogirl){
+        if(taxogirl[t])
+            print taxogirl[t] " | " t | "sort -rnk1"
     }
-}' event_3.index #> report-boygirl.md
+    # print "taxo | taxoboy"
+    # for(t in taxoboy){
+    #     if(taxoboy[t])
+    #         print taxoboy[t] " | " t | "sort -rnk1"
+    # }
+}' event_3.index >> report-boygirl.md
