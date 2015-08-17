@@ -1,6 +1,9 @@
 #!/bin/bash
 awk  -F'" "' '
-{
+BEGIN{
+    print "男|女|故事"
+    print "---|---|---"
+}{
     if($5!="NULL"){
         if($5==1){
             boy[$6" - "$7]++;
@@ -8,8 +11,6 @@ awk  -F'" "' '
             girl[$6" - "$7]++;
         }
     }
-    print "男|女|故事"
-    print "---|---|---"
 }END{
     for(i in boy){
         if(boy[i]<10&&girl[i]<10)
