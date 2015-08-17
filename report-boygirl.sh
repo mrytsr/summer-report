@@ -1,8 +1,8 @@
 #!/bin/bash
 awk  -F'" "' '
 BEGIN{
-    print "男|女|故事"
-    print "---|---|---"
+    print "男|女|比例|故事"
+    print "---|---|---|---"
 }{
     if($5!="NULL"){
         if($5==1){
