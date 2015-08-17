@@ -8,6 +8,8 @@ awk  -F'" "' '
             girl[$6" - "$7]++;
         }
     }
+    print "男|女|故事"
+    print "---|---|---"
 }END{
     for(i in boy){
         if(boy[i]<10&&girl[i]<10)
