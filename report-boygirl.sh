@@ -13,7 +13,7 @@ BEGIN{
     }
 }END{
     for(i in boy){
-        if(boy[i]<10&&girl[i]<10)
+        if(boy[i]<20&&girl[i]<20)
             continue;
         if(girl[i]==""||boy[i]/girl[i]>1.4||boy[i]==""||girl[i]/boy[i]>1.4)
             print boy[i]" | "girl[i]" | "i;
