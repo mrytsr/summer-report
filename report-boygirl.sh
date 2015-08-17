@@ -15,7 +15,7 @@ BEGIN{
     for(i in boy){
         if(boy[i]<10&&girl[i]<10)
             continue;
-        if(girl[i]==""||boy[i]/girl[i]>1.2||boy[i]==""||girl[i]/boy[i]>1.2)
+        if(girl[i]==""||boy[i]/girl[i]>1.4||boy[i]==""||girl[i]/boy[i]>1.4)
             print boy[i]" | "girl[i]" | "i;
     }
 }' event_3.index > report-boygirl.md
