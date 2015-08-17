@@ -13,7 +13,6 @@ BEGIN{
     }
 }END{
     for(i in boy){
-        print i
         mark[i] = boy[i] / (boy[i] + girl[i])
     }
     for(i in mark){
