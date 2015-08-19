@@ -125,7 +125,7 @@ for prefer in prefer_dict:
     print "\n## " + prefer
     for reason in prefer_dict[prefer].keys():
         print "\n### " + prefer + ": " + reason
-        print reason + "|weight|count"
+        print "\n" + reason + "|weight|count"
         print "--|--|--"
         title_dict = sorted(prefer_dict[prefer][reason].iteritems(), cmp_weight, key=lambda d:d[1], reverse = True)
         for title,detail in title_dict:
