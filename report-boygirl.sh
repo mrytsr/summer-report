@@ -22,26 +22,31 @@ BEGIN{
             split(taxo[i], ts, ",")
             if(boymark > 0.5){
                 for(t in ts){
-                    taxoboy[ts[t]]++
+                    taxoboy[ts[t]]+=boy[i]
                 }
             }else{
                 for(t in ts){
-                    taxogirl[ts[t]]++
+                    taxogirl[ts[t]]+=girl[i]
                 }
             }
         }
     }
 }END{
-    print "taxo | taxogirl"
-    print "---|---"
-    for(t in taxogirl){
-        if(taxogirl[t] > 8)
-            print taxogirl[t] " | " t | "sort -rnk1"
-    }
-    # print "taxo | taxoboy"
+    # print ""
+    # print "女孩故事类型分布"
+    # print "taxo | taxogirl"
     # print "---|---"
-    # for(t in taxoboy){
-    #     if(taxoboy[t] > 8)
-    #         print taxoboy[t] " | " t | "sort -rnk1"
+    # for(t in taxogirl){
+    #     if(taxogirl[t] > 8)
+    #         print taxogirl[t] " | " t | "sort -rnk1"
     # }
+
+    print ""
+    print "男孩故事类型分布"
+    print "taxo | taxoboy"
+    print "---|---"
+    for(t in taxoboy){
+        if(taxoboy[t] > 8)
+            print taxoboy[t] " | " t | "sort -rnk1"
+    }
 }' event_3.index >> report-boygirl.md
