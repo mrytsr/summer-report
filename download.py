@@ -3,7 +3,7 @@
 import sys
 import time
 
-n = 1000000#0000
+n = 10000000000
 title_dict = {}
 global_dict = {}
 global_dict = {
