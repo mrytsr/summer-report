@@ -86,7 +86,7 @@ for line in open("event_3.index"):
     if(n == 0):
         break
 
-print '## ' + str(daytime)
+print '## ' + 'addr和时间的相关性'
 for addr in addr_dict:
     print '\n### ' + addr + '\naddr|count|count*\n---|---|---'
     for daytime in addr_dict[addr]:
