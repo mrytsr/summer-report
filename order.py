@@ -75,7 +75,8 @@ for addr,detail in addr_list:
 	 detail['total'], "|",\
 	 detail['count'], "|",\
 	 1.0 * detail['total'] / detail['count'], "|",\
-     detail['total'] / addrs[addr]
+     detail['total'] / addrs[addr],\
+     'I' * int(detail['total'] / addrs[addr] / 5)
 
 print '\n## age\ntotal|count|total/count|total/占比\n---|---|---|---'
 def cmp_age(val1, val2):
@@ -86,7 +87,8 @@ for age,detail in age_list:
 	 detail['total'], "|",\
 	 detail['count'], "|",\
 	 1.0 * detail['total'] / detail['count'], "|",\
-     detail['total'] / ages[age]
+     detail['total'] / ages[age],\
+     'I' * int(detail['total'] / ages[age] / 5)
 
 print '\n## gender\ntotal|count|total/count|total/占比\n---|---|---|---'
 def cmp_total_gender(val1, val2):
@@ -99,4 +101,5 @@ for gender,detail in gender_list:
 	 detail['total'], "|",\
 	 detail['count'], "|",\
 	 1.0 * detail['total'] / detail['count'], "|",\
-     detail['total'] / genders[gender]
+     detail['total'] / genders[gender],\
+     'I' * int(detail['total'] / genders[gender] / 5)
