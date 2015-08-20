@@ -38,6 +38,7 @@ for line in open("order.index"):
     if gender != 'NULL':
         if not gender in gender_dict:
             gender_dict[gender] = {
+                        'key' : gender,
                         'total' : 0,
                         'count' : 0
                     }
@@ -46,6 +47,7 @@ for line in open("order.index"):
     if age != 'NULL':
         if not age in age_dict:
             age_dict[age] = {
+                        'key' : age,
                         'total' : 0,
                         'count' : 0
                     }
@@ -54,6 +56,7 @@ for line in open("order.index"):
     if addr != 'NULL' and addr != '0':
         if not addr in addr_dict:
             addr_dict[addr] = {
+                        'key' : addr,
                         'total' : 0,
                         'count' : 0
                     }
@@ -61,25 +64,37 @@ for line in open("order.index"):
         addr_dict[addr]['count'] += 1
 
 print '\n### addr\ntotal|count|total/count|total/占比\n---|---|---|---'
-for addr in addr_dict:
+
+def cmp_total_addr(val1, val2):
+    return cmp(val1['total'] / addrs[val1['key']], val2['total'] / addrs[val2['key']])
+
+addr_list = sorted(addr_dict.iteritems(), cmp_total_addr, key=lambda d:d[1], reverse = True)
+
+for addr,detail in addr_list:
     print addr, "|",\
-	 addr_dict[addr]['total'], "|",\
-	 addr_dict[addr]['count'], "|",\
-	 1.0 * addr_dict[addr]['total'] / addr_dict[addr]['count'], "|",\
-     addr_dict[addr]['total'] / addrs[addr]
+	 detail['total'], "|",\
+	 detail['count'], "|",\
+	 1.0 * detail['total'] / detail['count'], "|",\
+     detail['total'] / addrs[addr]
 
 print '\n### age\ntotal|count|total/count|total/占比\n---|---|---|---'
-for age in age_dict:
-    print age, "|",\
-	 age_dict[age]['total'], "|",\
-	 age_dict[age]['count'], "|",\
-	 1.0 * age_dict[age]['total'] / age_dict[age]['count'], "|",\
-     age_dict[age]['total'] / ages[age]
+def cmp_age(val1, val2):
+    return cmp(val1,val2)
+age_list = sorted(age_dict.iteritems(), cmp_age, key=lambda d:d[0], reverse = True)
+for age,detail in age_list:
+    print 2015 - int(age), "|",\
+	 detail['total'], "|",\
+	 detail['count'], "|",\
+	 1.0 * detail['total'] / detail['count'], "|",\
+     detail['total'] / ages[age]
 
 print '\n### gender\ntotal|count|total/count|total/占比\n---|---|---|---'
-for gender in gender_dict:
+def cmp_total_gender(val1, val2):
+    return cmp(val1['total'] / genders[val1['key']], val2['total'] / genders[val2['key']])
+gender_list = sorted(gender_dict.iteritems(), cmp_total_gender, key=lambda d:d[1], reverse = True)
+for gender,detail in gender_list:
     print gender, "|",\
-	 gender_dict[gender]['total'], "|",\
-	 gender_dict[gender]['count'], "|",\
-	 1.0 * gender_dict[gender]['total'] / gender_dict[gender]['count'], "|",\
-     gender_dict[gender]['total'] / genders[gender]
+	 detail['total'], "|",\
+	 detail['count'], "|",\
+	 1.0 * detail['total'] / detail['count'], "|",\
+     detail['total'] / genders[gender]
