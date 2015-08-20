@@ -151,7 +151,7 @@ for prefer in prefer_dict:
         print "---|---|---|---"
         title_dict = sorted(prefer_dict[prefer][reason].iteritems(), cmp_weight, key=lambda d:d[1], reverse = True)
         for title,detail in title_dict:
-            print title, '|', detail['weight'], '|', detail['count'], '|', 'I' * int(detail['weight'] / 2 * 100)
+            print title, '|', detail['weight'], '|', detail['count'], '|', 'I' * int(detail['weight'] / 2 * 50)
 
 
 # age_dict = sorted(global_dict['age'].iteritems(), key=lambda d:d[1], reverse = True)
