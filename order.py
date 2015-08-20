@@ -60,8 +60,7 @@ for line in open("order.index"):
         addr_dict[addr]['total'] += cost
         addr_dict[addr]['count'] += 1
 
-print '\n### addr\n---|---'
-print 'total|count|total/count|total/占比'
+print '\n### addr\ntotal|count|total/count|total/占比\n---|---|---|---'
 for addr in addr_dict:
     print addr, "|",\
 	 addr_dict[addr]['total'], "|",\
@@ -69,8 +68,7 @@ for addr in addr_dict:
 	 1.0 * addr_dict[addr]['total'] / addr_dict[addr]['count'], "|",\
      addr_dict[addr]['total'] / addrs[addr]
 
-print '\n### age\n---|---'
-print 'total|count|total/count|total/占比'
+print '\n### age\ntotal|count|total/count|total/占比\n---|---|---|---'
 for age in age_dict:
     print age, "|",\
 	 age_dict[age]['total'], "|",\
@@ -78,8 +76,7 @@ for age in age_dict:
 	 1.0 * age_dict[age]['total'] / age_dict[age]['count'], "|",\
      age_dict[age]['total'] / ages[age]
 
-print '\n### gender\n---|---'
-print 'total|count|total/count|total/占比'
+print '\n### gender\ntotal|count|total/count|total/占比\n---|---|---|---'
 for gender in gender_dict:
     print gender, "|",\
 	 gender_dict[gender]['total'], "|",\
