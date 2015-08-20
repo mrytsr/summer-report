@@ -1,3379 +1,3379 @@
 ## 18
 
 ### 山东省
-addr|count
----|---
-0 | *****
-1 | ***
-2 | **
-3 | *
-4 | *
-5 | **
-6 | ********
-7 | ********
-8 | *********
-9 | ********
-10 | ***********
-11 | ******************
-12 | *******************
-13 | *******************
-14 | ****************
-15 | ****************
-16 | **********************
-17 | ************
-18 | ******************
-19 | ************
-20 | ******************
-21 | ***********************
-22 | ************************
-23 | ************
+addr|count|count*
+---|---|---
+0 | 390 | IIIIIIIII
+1 | 261 | IIIIII
+2 | 177 | IIII
+3 | 99 | II
+4 | 121 | II
+5 | 173 | IIII
+6 | 558 | IIIIIIIIIIIII
+7 | 567 | IIIIIIIIIIIII
+8 | 652 | IIIIIIIIIIIIIII
+9 | 585 | IIIIIIIIIIIIII
+10 | 790 | IIIIIIIIIIIIIIIIIII
+11 | 1284 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+12 | 1347 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+13 | 1377 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+14 | 1166 | IIIIIIIIIIIIIIIIIIIIIIIIIIII
+15 | 1150 | IIIIIIIIIIIIIIIIIIIIIIIIIII
+16 | 1551 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+17 | 899 | IIIIIIIIIIIIIIIIIIIII
+18 | 1248 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+19 | 883 | IIIIIIIIIIIIIIIIIIIII
+20 | 1312 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+21 | 1600 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+22 | 1686 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+23 | 883 | IIIIIIIIIIIIIIIIIIIII
 
 ### 安徽省
-addr|count
----|---
-0 | *
-1 | **
-2 | 
-3 | 
-4 | 
-5 | **
-6 | ************
-7 | *****
-8 | ****************
-9 | ***********************
-10 | *************************
-11 | **************
-12 | ****************
-13 | **************
-14 | ***************
-15 | ***************
-16 | ******************
-17 | ************
-18 | *********
-19 | *********
-20 | **************************
-21 | *************************
-22 | ************************
-23 | ******
+addr|count|count*
+---|---|---
+0 | 55 | III
+1 | 66 | III
+2 | 28 | I
+3 | 10 | 
+4 | 22 | I
+5 | 82 | IIII
+6 | 358 | IIIIIIIIIIIIIIIIIIII
+7 | 173 | IIIIIIIII
+8 | 481 | IIIIIIIIIIIIIIIIIIIIIIIIII
+9 | 705 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+10 | 760 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+11 | 429 | IIIIIIIIIIIIIIIIIIIIIII
+12 | 485 | IIIIIIIIIIIIIIIIIIIIIIIIIII
+13 | 423 | IIIIIIIIIIIIIIIIIIIIIII
+14 | 474 | IIIIIIIIIIIIIIIIIIIIIIIIII
+15 | 476 | IIIIIIIIIIIIIIIIIIIIIIIIII
+16 | 538 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+17 | 369 | IIIIIIIIIIIIIIIIIIII
+18 | 269 | IIIIIIIIIIIIIII
+19 | 283 | IIIIIIIIIIIIIII
+20 | 790 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+21 | 746 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+22 | 732 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+23 | 191 | IIIIIIIIII
 
 ### 山西省
-addr|count
----|---
-0 | ********
-1 | 
-2 | 
-3 | 
-4 | *
-5 | ****
-6 | ***
-7 | ***********
-8 | ************
-9 | **********
-10 | ******************
-11 | *********************
-12 | ***********************
-13 | *****************
-14 | ************
-15 | *************************
-16 | ************************
-17 | ***********
-18 | ************
-19 | ************
-20 | ******
-21 | *********************
-22 | *************************
-23 | ***************
+addr|count|count*
+---|---|---
+0 | 169 | IIIIIIIIIIIII
+1 | 4 | 
+2 | 5 | 
+3 | 2 | 
+4 | 38 | III
+5 | 94 | IIIIIII
+6 | 73 | IIIII
+7 | 247 | IIIIIIIIIIIIIIIIIII
+8 | 258 | IIIIIIIIIIIIIIIIIIII
+9 | 219 | IIIIIIIIIIIIIIIII
+10 | 389 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+11 | 441 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+12 | 494 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+13 | 373 | IIIIIIIIIIIIIIIIIIIIIIIIIIIII
+14 | 252 | IIIIIIIIIIIIIIIIIIII
+15 | 525 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+16 | 520 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+17 | 240 | IIIIIIIIIIIIIIIIIII
+18 | 254 | IIIIIIIIIIIIIIIIIIII
+19 | 259 | IIIIIIIIIIIIIIIIIIII
+20 | 129 | IIIIIIIIII
+21 | 449 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+22 | 537 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+23 | 320 | IIIIIIIIIIIIIIIIIIIIIIIII
 
 ### 云南省
-addr|count
----|---
-0 | ***********
-1 | *****
-2 | 
-4 | 
-5 | 
-6 | 
-7 | ***
-8 | ******
-9 | ****
-10 | ****************
-11 | *******
-12 | ********************
-13 | ************************
-14 | *****************
-15 | ************
-16 | *********************
-17 | *************
-18 | ********************
-19 | *********
-20 | ********************
-21 | ******************************
-22 | ****************
-23 | *********************************
+addr|count|count*
+---|---|---
+0 | 243 | IIIIIIIIIIIIIIIIIII
+1 | 108 | IIIIIIII
+2 | 4 | 
+4 | 8 | 
+5 | 17 | I
+6 | 14 | I
+7 | 65 | IIIII
+8 | 140 | IIIIIIIIIII
+9 | 101 | IIIIIIII
+10 | 348 | IIIIIIIIIIIIIIIIIIIIIIIIIIII
+11 | 151 | IIIIIIIIIIII
+12 | 430 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+13 | 511 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+14 | 360 | IIIIIIIIIIIIIIIIIIIIIIIIIIIII
+15 | 250 | IIIIIIIIIIIIIIIIIIII
+16 | 447 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+17 | 278 | IIIIIIIIIIIIIIIIIIIIII
+18 | 426 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+19 | 201 | IIIIIIIIIIIIIIII
+20 | 419 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+21 | 634 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+22 | 337 | IIIIIIIIIIIIIIIIIIIIIIIIIII
+23 | 686 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### 陕西省
-addr|count
----|---
-0 | **
-1 | ***
-2 | 
-3 | 
-4 | 
-5 | 
-6 | *****
-7 | ************
-8 | ************
-9 | ***************
-10 | **************
-11 | ******************
-12 | ***************
-13 | *******************************
-14 | *****************
-15 | *********
-16 | **************
-17 | **********
-18 | ***************
-19 | *******
-20 | ***********************
-21 | ***************************
-22 | ***************************
-23 | **************
+addr|count|count*
+---|---|---
+0 | 108 | III
+1 | 168 | IIIIII
+2 | 9 | 
+3 | 20 | 
+4 | 2 | 
+5 | 24 | 
+6 | 270 | IIIIIIIII
+7 | 591 | IIIIIIIIIIIIIIIIIIIII
+8 | 555 | IIIIIIIIIIIIIIIIIIII
+9 | 708 | IIIIIIIIIIIIIIIIIIIIIIIII
+10 | 682 | IIIIIIIIIIIIIIIIIIIIIIII
+11 | 839 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+12 | 719 | IIIIIIIIIIIIIIIIIIIIIIIII
+13 | 1442 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+14 | 815 | IIIIIIIIIIIIIIIIIIIIIIIIIIIII
+15 | 436 | IIIIIIIIIIIIIII
+16 | 651 | IIIIIIIIIIIIIIIIIIIIIII
+17 | 471 | IIIIIIIIIIIIIIII
+18 | 714 | IIIIIIIIIIIIIIIIIIIIIIIII
+19 | 348 | IIIIIIIIIIII
+20 | 1067 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+21 | 1286 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+22 | 1286 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+23 | 657 | IIIIIIIIIIIIIIIIIIIIIII
 
 ### 上海市
-addr|count
----|---
-0 | ***
-1 | ****
-3 | 
-4 | 
-5 | *
-6 | **
-7 | ******
-8 | *******
-9 | ***************
-10 | ***********************
-11 | ***********
-12 | ************
-13 | **********
-14 | *****************
-15 | ****************************
-16 | *********
-17 | *********
-18 | *************************
-19 | ***********************
-20 | **************************
-21 | ***************************
-22 | ************************
-23 | *****
+addr|count|count*
+---|---|---
+0 | 44 | IIIII
+1 | 64 | IIIIIIII
+3 | 8 | I
+4 | 1 | 
+5 | 15 | I
+6 | 37 | IIII
+7 | 84 | IIIIIIIIII
+8 | 103 | IIIIIIIIIIII
+9 | 208 | IIIIIIIIIIIIIIIIIIIIIIIIII
+10 | 316 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+11 | 155 | IIIIIIIIIIIIIIIIIII
+12 | 172 | IIIIIIIIIIIIIIIIIIIII
+13 | 139 | IIIIIIIIIIIIIIIII
+14 | 238 | IIIIIIIIIIIIIIIIIIIIIIIIIIIII
+15 | 373 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+16 | 127 | IIIIIIIIIIIIIII
+17 | 127 | IIIIIIIIIIIIIII
+18 | 340 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+19 | 317 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+20 | 353 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+21 | 363 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+22 | 326 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+23 | 69 | IIIIIIII
 
 ### 广西壮族自治区
-addr|count
----|---
-0 | ********
-1 | ***
-2 | 
-3 | *
-4 | ***
-5 | ****
-6 | ******
-7 | **************
-8 | *****************
-9 | *********
-10 | ************
-11 | *********************
-12 | ***********************
-13 | *************
-14 | **************
-15 | ***********
-16 | ************
-17 | *************
-18 | *****
-19 | *******
-20 | ************
-21 | ******************************
-22 | ****************************
-23 | ********************
+addr|count|count*
+---|---|---
+0 | 175 | IIIIIIIIIIIIII
+1 | 74 | IIIIII
+2 | 19 | I
+3 | 37 | III
+4 | 70 | IIIII
+5 | 88 | IIIIIII
+6 | 128 | IIIIIIIIII
+7 | 301 | IIIIIIIIIIIIIIIIIIIIIIII
+8 | 365 | IIIIIIIIIIIIIIIIIIIIIIIIIIIII
+9 | 196 | IIIIIIIIIIIIIII
+10 | 248 | IIIIIIIIIIIIIIIIIIII
+11 | 437 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+12 | 488 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+13 | 278 | IIIIIIIIIIIIIIIIIIIIII
+14 | 292 | IIIIIIIIIIIIIIIIIIIIIII
+15 | 236 | IIIIIIIIIIIIIIIIIII
+16 | 265 | IIIIIIIIIIIIIIIIIIIII
+17 | 278 | IIIIIIIIIIIIIIIIIIIIII
+18 | 121 | IIIIIIIII
+19 | 157 | IIIIIIIIIIII
+20 | 260 | IIIIIIIIIIIIIIIIIIIII
+21 | 628 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+22 | 581 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+23 | 428 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### 重庆市
-addr|count
----|---
-0 | *****************************
-1 | *********
-4 | 
-5 | ***************
-6 | *****
-7 | *********************
-8 | **********************************
-9 | ************
-10 | ********
-11 | ******
-12 | ***********
-13 | ******
-14 | ******************
-15 | *******
-16 | *******
-17 | ******
-18 | **********
-19 | ***********
-20 | *******
-21 | ********************************
-22 | ******************************
-23 | ****
+addr|count|count*
+---|---|---
+0 | 355 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+1 | 115 | IIIIIIIIIIIIIIII
+4 | 2 | 
+5 | 178 | IIIIIIIIIIIIIIIIIIIIIIIII
+6 | 70 | IIIIIIIII
+7 | 255 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+8 | 411 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+9 | 153 | IIIIIIIIIIIIIIIIIIIII
+10 | 100 | IIIIIIIIIIIIII
+11 | 82 | IIIIIIIIIII
+12 | 137 | IIIIIIIIIIIIIIIIIII
+13 | 80 | IIIIIIIIIII
+14 | 217 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+15 | 85 | IIIIIIIIIII
+16 | 94 | IIIIIIIIIIIII
+17 | 74 | IIIIIIIIII
+18 | 129 | IIIIIIIIIIIIIIIIII
+19 | 134 | IIIIIIIIIIIIIIIIII
+20 | 93 | IIIIIIIIIIIII
+21 | 381 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+22 | 365 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+23 | 49 | IIIIII
 
 ### 江苏省
-addr|count
----|---
-0 | ***
-1 | **********
-2 | 
-3 | 
-4 | 
-5 | **
-6 | *******
-7 | *******
-8 | **************
-9 | *********
-10 | ****************
-11 | ******************
-12 | *****************
-13 | ****************
-14 | ***********
-15 | ***********
-16 | ***************
-17 | **************
-18 | *************
-19 | **************
-20 | **************************
-21 | ********************************
-22 | ***********************
-23 | *********
+addr|count|count*
+---|---|---
+0 | 185 | IIIII
+1 | 531 | IIIIIIIIIIIIIIIII
+2 | 12 | 
+3 | 46 | I
+4 | 23 | 
+5 | 135 | IIII
+6 | 385 | IIIIIIIIIIII
+7 | 377 | IIIIIIIIIIII
+8 | 771 | IIIIIIIIIIIIIIIIIIIIIIII
+9 | 505 | IIIIIIIIIIIIIIII
+10 | 868 | IIIIIIIIIIIIIIIIIIIIIIIIIIII
+11 | 933 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+12 | 885 | IIIIIIIIIIIIIIIIIIIIIIIIIIII
+13 | 861 | IIIIIIIIIIIIIIIIIIIIIIIIIII
+14 | 600 | IIIIIIIIIIIIIIIIIII
+15 | 602 | IIIIIIIIIIIIIIIIIII
+16 | 803 | IIIIIIIIIIIIIIIIIIIIIIIII
+17 | 751 | IIIIIIIIIIIIIIIIIIIIIIII
+18 | 711 | IIIIIIIIIIIIIIIIIIIIIII
+19 | 726 | IIIIIIIIIIIIIIIIIIIIIII
+20 | 1351 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+21 | 1683 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+22 | 1198 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+23 | 513 | IIIIIIIIIIIIIIII
 
 ### 黑龙江省
-addr|count
----|---
-0 | ***
-1 | 
-2 | *
-4 | 
-5 | ***
-6 | ************
-7 | *******
-8 | ***********
-9 | ******
-10 | *****************
-11 | ********************
-12 | ***********
-13 | *****************
-14 | *************
-15 | ************
-16 | ****************
-17 | **************
-18 | *********************************
-19 | ****************************
-20 | ***********************
-21 | *********************
-22 | ****************
-23 | ****
+addr|count|count*
+---|---|---
+0 | 48 | IIIII
+1 | 12 | I
+2 | 30 | III
+4 | 1 | 
+5 | 54 | IIIII
+6 | 194 | IIIIIIIIIIIIIIIIIIIII
+7 | 108 | IIIIIIIIIII
+8 | 181 | IIIIIIIIIIIIIIIIIII
+9 | 102 | IIIIIIIIIII
+10 | 271 | IIIIIIIIIIIIIIIIIIIIIIIIIIIII
+11 | 317 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+12 | 175 | IIIIIIIIIIIIIIIIIII
+13 | 259 | IIIIIIIIIIIIIIIIIIIIIIIIIIII
+14 | 198 | IIIIIIIIIIIIIIIIIIIII
+15 | 190 | IIIIIIIIIIIIIIIIIIII
+16 | 256 | IIIIIIIIIIIIIIIIIIIIIIIIIIII
+17 | 217 | IIIIIIIIIIIIIIIIIIIIIII
+18 | 513 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+19 | 436 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+20 | 351 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+21 | 329 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+22 | 244 | IIIIIIIIIIIIIIIIIIIIIIIIII
+23 | 66 | IIIIIII
 
 ### 江西省
-addr|count
----|---
-0 | ***
-1 | 
-2 | 
-3 | 
-4 | 
-5 | 
-6 | ***
-7 | ***************
-8 | *********************
-9 | **************************
-10 | *************************
-11 | *************************
-12 | *******************
-13 | ***************
-14 | *********
-15 | ************
-16 | **********
-17 | **********
-18 | ************
-19 | ********
-20 | ****************************
-21 | ***********************
-22 | ***************
-23 | ********
+addr|count|count*
+---|---|---
+0 | 86 | IIIIII
+1 | 17 | I
+2 | 13 | 
+3 | 2 | 
+4 | 9 | 
+5 | 13 | 
+6 | 90 | IIIIII
+7 | 345 | IIIIIIIIIIIIIIIIIIIIIIIII
+8 | 485 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+9 | 593 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+10 | 579 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+11 | 578 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+12 | 431 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+13 | 360 | IIIIIIIIIIIIIIIIIIIIIIIIII
+14 | 208 | IIIIIIIIIIIIIII
+15 | 281 | IIIIIIIIIIIIIIIIIIII
+16 | 244 | IIIIIIIIIIIIIIIIII
+17 | 228 | IIIIIIIIIIIIIIII
+18 | 285 | IIIIIIIIIIIIIIIIIIIII
+19 | 187 | IIIIIIIIIIIII
+20 | 647 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+21 | 535 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+22 | 354 | IIIIIIIIIIIIIIIIIIIIIIIIII
+23 | 190 | IIIIIIIIIIIIII
 
 ### 浙江省
-addr|count
----|---
-0 | *
-1 | ***
-2 | *****
-3 | ***
-4 | 
-5 | **
-6 | ************
-7 | ********
-8 | ******
-9 | *************
-10 | ********************
-11 | ****************
-12 | *********************
-13 | ****************
-14 | **************
-15 | ************
-16 | *****************
-17 | *************
-18 | ************
-19 | ********************
-20 | *********************
-21 | *****************************
-22 | ******************
-23 | *****
+addr|count|count*
+---|---|---
+0 | 68 | III
+1 | 113 | IIIII
+2 | 207 | IIIIIIIII
+3 | 127 | IIIIII
+4 | 26 | I
+5 | 96 | IIII
+6 | 439 | IIIIIIIIIIIIIIIIIIII
+7 | 301 | IIIIIIIIIIIIII
+8 | 235 | IIIIIIIIIII
+9 | 489 | IIIIIIIIIIIIIIIIIIIIIII
+10 | 701 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+11 | 578 | IIIIIIIIIIIIIIIIIIIIIIIIIII
+12 | 742 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+13 | 588 | IIIIIIIIIIIIIIIIIIIIIIIIIIII
+14 | 504 | IIIIIIIIIIIIIIIIIIIIIIII
+15 | 427 | IIIIIIIIIIIIIIIIIIII
+16 | 612 | IIIIIIIIIIIIIIIIIIIIIIIIIIIII
+17 | 457 | IIIIIIIIIIIIIIIIIIIII
+18 | 437 | IIIIIIIIIIIIIIIIIIII
+19 | 720 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+20 | 743 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+21 | 1033 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+22 | 634 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+23 | 202 | IIIIIIIII
 
 ### 天津市
-addr|count
----|---
-1 | 
-5 | 
-6 | *****
-7 | *****************************
-8 | ***********
-9 | ****
-10 | *******************************
-11 | *************************************
-12 | ************************************
-13 | ****************
-14 | *******
-15 | *****************
-16 | ***************
-17 | *******
-18 | *****
-19 | ***
-20 | *********************************
-21 | **************
-22 | *****************
-23 | *
+addr|count|count*
+---|---|---
+1 | 2 | 
+5 | 2 | 
+6 | 39 | IIIIIIIII
+7 | 200 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+8 | 78 | IIIIIIIIIIIIIIIIIII
+9 | 32 | IIIIIII
+10 | 217 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+11 | 257 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+12 | 245 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+13 | 112 | IIIIIIIIIIIIIIIIIIIIIIIIIII
+14 | 53 | IIIIIIIIIIIII
+15 | 121 | IIIIIIIIIIIIIIIIIIIIIIIIIIIII
+16 | 107 | IIIIIIIIIIIIIIIIIIIIIIIIII
+17 | 54 | IIIIIIIIIIIII
+18 | 36 | IIIIIIII
+19 | 23 | IIIII
+20 | 228 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+21 | 98 | IIIIIIIIIIIIIIIIIIIIIIII
+22 | 118 | IIIIIIIIIIIIIIIIIIIIIIIIIIII
+23 | 13 | III
 
 ### 西藏自治区
-addr|count
----|---
-0 | **********
-1 | ****************************************
-2 | ************************************************************
-3 | ************************************************************
-17 | ******************************************************************************************
-18 | **********
-21 | **********
-22 | ********************
+addr|count|count*
+---|---|---
+0 | 1 | IIIIIIIIIIIIIIII
+1 | 4 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+2 | 6 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+3 | 6 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+17 | 9 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+18 | 1 | IIIIIIIIIIIIIIII
+21 | 1 | IIIIIIIIIIIIIIII
+22 | 2 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### 香港特别行政区
-addr|count
----|---
-0 | *
-1 | *******
-5 | **
-6 | 
-7 | ***
-8 | ****
-9 | ***************************
-10 | ***************************
-11 | **
-12 | *************************
-13 | *******************************************************
-14 | *********
-15 | *********************
-16 | ***
-17 | ****************************************
-18 | *******
-19 | *
-20 | **************
-21 | ****
-22 | *****************
-23 | *********************
+addr|count|count*
+---|---|---
+0 | 2 | I
+1 | 15 | IIIIIIIIIIIII
+5 | 5 | IIII
+6 | 1 | 
+7 | 7 | IIIIII
+8 | 9 | IIIIIII
+9 | 52 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+10 | 52 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+11 | 4 | III
+12 | 49 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+13 | 106 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+14 | 18 | IIIIIIIIIIIIIII
+15 | 40 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+16 | 6 | IIIII
+17 | 77 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+18 | 14 | IIIIIIIIIIII
+19 | 2 | I
+20 | 28 | IIIIIIIIIIIIIIIIIIIIIIII
+21 | 8 | IIIIIII
+22 | 33 | IIIIIIIIIIIIIIIIIIIIIIIIIIII
+23 | 41 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### 宁夏回族自治区
-addr|count
----|---
-0 | ***********
-1 | 
-6 | ***
-7 | ***
-8 | ******
-9 | ********************************
-10 | *****
-11 | *****************
-12 | ********
-13 | *************************
-14 | **********
-15 | ******************
-16 | *******************
-17 | ***
-18 | **********
-19 | ***************************
-20 | ***********************
-21 | *****************************************
-22 | ****
-23 | ***************************
+addr|count|count*
+---|---|---
+0 | 62 | IIIIIIIIIIIIIIIIIII
+1 | 1 | 
+6 | 16 | IIIII
+7 | 20 | IIIIII
+8 | 32 | IIIIIIIIII
+9 | 175 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+10 | 28 | IIIIIIII
+11 | 94 | IIIIIIIIIIIIIIIIIIIIIIIIIIIII
+12 | 46 | IIIIIIIIIIIIII
+13 | 135 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+14 | 54 | IIIIIIIIIIIIIIII
+15 | 97 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+16 | 102 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+17 | 21 | IIIIII
+18 | 54 | IIIIIIIIIIIIIIII
+19 | 148 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+20 | 124 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+21 | 220 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+22 | 22 | IIIIII
+23 | 148 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### 湖北省
-addr|count
----|---
-0 | ******
-1 | *
-3 | 
-4 | 
-5 | 
-6 | ********
-7 | *********
-8 | ************
-9 | ******************
-10 | ********************
-11 | **************************
-12 | ***************
-13 | **************
-14 | ***************
-15 | **************
-16 | ****************
-17 | ****************
-18 | *************
-19 | ******
-20 | ********************
-21 | *********************
-22 | *************************
-23 | *************
+addr|count|count*
+---|---|---
+0 | 290 | IIIIIIIIIII
+1 | 85 | III
+3 | 25 | 
+4 | 7 | 
+5 | 20 | 
+6 | 364 | IIIIIIIIIIIII
+7 | 415 | IIIIIIIIIIIIIII
+8 | 536 | IIIIIIIIIIIIIIIIIIII
+9 | 785 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+10 | 894 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+11 | 1173 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+12 | 696 | IIIIIIIIIIIIIIIIIIIIIIIIII
+13 | 650 | IIIIIIIIIIIIIIIIIIIIIIII
+14 | 668 | IIIIIIIIIIIIIIIIIIIIIIIII
+15 | 628 | IIIIIIIIIIIIIIIIIIIIIIII
+16 | 713 | IIIIIIIIIIIIIIIIIIIIIIIIIII
+17 | 715 | IIIIIIIIIIIIIIIIIIIIIIIIIII
+18 | 576 | IIIIIIIIIIIIIIIIIIIIII
+19 | 280 | IIIIIIIIII
+20 | 897 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+21 | 943 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+22 | 1116 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+23 | 605 | IIIIIIIIIIIIIIIIIIIIIII
 
 ### 甘肃省
-addr|count
----|---
-0 | 
-1 | ***
-2 | 
-3 | 
-4 | 
-5 | ***
-6 | **
-7 | ***********
-8 | ******
-9 | *********
-10 | *********************
-11 | ******************
-12 | *****************************
-13 | ********************
-14 | ******************
-15 | ***********************************
-16 | *********************
-17 | ***********
-18 | ****************
-19 | ***********
-20 | **************
-21 | ***********
-22 | ***********************
-23 | ******
+addr|count|count*
+---|---|---
+0 | 1 | 
+1 | 81 | IIIIII
+2 | 8 | 
+3 | 20 | I
+4 | 2 | 
+5 | 65 | IIIII
+6 | 63 | IIII
+7 | 241 | IIIIIIIIIIIIIIIIIII
+8 | 130 | IIIIIIIIII
+9 | 211 | IIIIIIIIIIIIIIII
+10 | 461 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+11 | 386 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+12 | 628 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+13 | 427 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+14 | 388 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+15 | 752 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+16 | 462 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+17 | 244 | IIIIIIIIIIIIIIIIIII
+18 | 354 | IIIIIIIIIIIIIIIIIIIIIIIIIII
+19 | 235 | IIIIIIIIIIIIIIIIII
+20 | 303 | IIIIIIIIIIIIIIIIIIIIIII
+21 | 245 | IIIIIIIIIIIIIIIIIII
+22 | 501 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+23 | 133 | IIIIIIIIII
 
 ### 青海省
-addr|count
----|---
-4 | **
-5 | ************
-8 | 
-9 | ********************************************************************
-10 | **
-11 | ********
-12 | ******************
-13 | *********************
-14 | ****************
-15 | **************
-16 | 
-17 | **************************************************
-18 | 
-19 | ***********
-20 | *********
-21 | **************
-22 | **********************************************
+addr|count|count*
+---|---|---
+4 | 3 | III
+5 | 16 | IIIIIIIIIIIIIIIIIIII
+8 | 1 | I
+9 | 88 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+10 | 3 | III
+11 | 11 | IIIIIIIIIIIIII
+12 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+13 | 27 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+14 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIII
+15 | 18 | IIIIIIIIIIIIIIIIIIIIIII
+16 | 1 | I
+17 | 64 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+18 | 1 | I
+19 | 15 | IIIIIIIIIIIIIIIIIII
+20 | 12 | IIIIIIIIIIIIIII
+21 | 19 | IIIIIIIIIIIIIIIIIIIIIIII
+22 | 60 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### 四川省
-addr|count
----|---
-0 | ***
-1 | 
-2 | ***
-3 | 
-4 | *
-5 | 
-6 | **
-7 | ********
-8 | ******************
-9 | ******************
-10 | *******************************
-11 | ****************
-12 | ************
-13 | ******************
-14 | ********************
-15 | *****************
-16 | **************
-17 | ***********************
-18 | ***********
-19 | *******
-20 | **************
-21 | **********************
-22 | ********************
-23 | ***********
+addr|count|count*
+---|---|---
+0 | 115 | IIIII
+1 | 11 | 
+2 | 117 | IIIII
+3 | 21 | 
+4 | 45 | II
+5 | 17 | 
+6 | 74 | III
+7 | 305 | IIIIIIIIIIIIII
+8 | 679 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+9 | 686 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+10 | 1132 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+11 | 607 | IIIIIIIIIIIIIIIIIIIIIIIIIII
+12 | 453 | IIIIIIIIIIIIIIIIIIII
+13 | 665 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+14 | 760 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+15 | 631 | IIIIIIIIIIIIIIIIIIIIIIIIIIIII
+16 | 521 | IIIIIIIIIIIIIIIIIIIIIII
+17 | 833 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+18 | 408 | IIIIIIIIIIIIIIIIII
+19 | 264 | IIIIIIIIIIII
+20 | 531 | IIIIIIIIIIIIIIIIIIIIIIII
+21 | 809 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+22 | 752 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+23 | 425 | IIIIIIIIIIIIIIIIIII
 
 ### 辽宁省
-addr|count
----|---
-0 | *******
-1 | 
-2 | *******
-3 | *
-4 | 
-5 | ***
-6 | ********
-7 | *******
-8 | *******************
-9 | *********
-10 | ************
-11 | ************
-12 | *************************
-13 | **********************
-14 | **********************
-15 | *************************
-16 | **************
-17 | ***********
-18 | *************
-19 | *********
-20 | *******************
-21 | *************************
-22 | *************
-23 | ****
+addr|count|count*
+---|---|---
+0 | 175 | IIIIIIIIIIII
+1 | 9 | 
+2 | 183 | IIIIIIIIIIII
+3 | 30 | II
+4 | 5 | 
+5 | 94 | IIIIII
+6 | 218 | IIIIIIIIIIIIII
+7 | 185 | IIIIIIIIIIII
+8 | 467 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+9 | 230 | IIIIIIIIIIIIIII
+10 | 304 | IIIIIIIIIIIIIIIIIIII
+11 | 302 | IIIIIIIIIIIIIIIIIIII
+12 | 623 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+13 | 548 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+14 | 558 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+15 | 623 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+16 | 353 | IIIIIIIIIIIIIIIIIIIIIIII
+17 | 288 | IIIIIIIIIIIIIIIIIII
+18 | 319 | IIIIIIIIIIIIIIIIIIIII
+19 | 240 | IIIIIIIIIIIIIIII
+20 | 473 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+21 | 624 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+22 | 325 | IIIIIIIIIIIIIIIIIIIIII
+23 | 106 | IIIIIII
 
 ### 台湾省
-addr|count
----|---
-0 | **************************************
-1 | **************************
-7 | ************
-9 | ******************************
-10 | **
-11 | ****
-12 | ***************
-13 | *****************************************
-14 | 
-15 | ******
-16 | **
-17 | *
-18 | ***************
-19 | *
-20 | *****************************
-21 | *******
-22 | ***************************
-23 | ********************************
+addr|count|count*
+---|---|---
+0 | 59 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+1 | 41 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+7 | 19 | IIIIIIIIIIIIIIIIIIII
+9 | 46 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+10 | 4 | IIII
+11 | 7 | IIIIIII
+12 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIII
+13 | 63 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+14 | 1 | I
+15 | 10 | IIIIIIIIII
+16 | 4 | IIII
+17 | 3 | III
+18 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIII
+19 | 2 | II
+20 | 45 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+21 | 12 | IIIIIIIIIIIII
+22 | 42 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+23 | 50 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### 福建省
-addr|count
----|---
-0 | *
-1 | *
-2 | *
-3 | ****
-4 | 
-5 | *
-6 | **
-7 | ******
-8 | *******
-9 | ************
-10 | ************
-11 | ************
-12 | ************
-13 | *************************************
-14 | *************
-15 | ****************
-16 | ***********
-17 | *****
-18 | *************
-19 | ***************
-20 | ****************************
-21 | ******************************************
-22 | **************************
-23 | ***********
+addr|count|count*
+---|---|---
+0 | 42 | II
+1 | 43 | II
+2 | 47 | III
+3 | 125 | IIIIIIII
+4 | 19 | I
+5 | 29 | I
+6 | 51 | III
+7 | 167 | IIIIIIIIII
+8 | 192 | IIIIIIIIIIII
+9 | 325 | IIIIIIIIIIIIIIIIIIIII
+10 | 311 | IIIIIIIIIIIIIIIIIIII
+11 | 314 | IIIIIIIIIIIIIIIIIIII
+12 | 307 | IIIIIIIIIIIIIIIIIIII
+13 | 963 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+14 | 350 | IIIIIIIIIIIIIIIIIIIIII
+15 | 413 | IIIIIIIIIIIIIIIIIIIIIIIIIII
+16 | 293 | IIIIIIIIIIIIIIIIIII
+17 | 133 | IIIIIIII
+18 | 333 | IIIIIIIIIIIIIIIIIIIII
+19 | 399 | IIIIIIIIIIIIIIIIIIIIIIIIII
+20 | 718 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+21 | 1087 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+22 | 669 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+23 | 284 | IIIIIIIIIIIIIIIIII
 
 ### 吉林省
-addr|count
----|---
-0 | 
-4 | 
-5 | **
-6 | **
-7 | *************
-8 | ********
-9 | *************************
-10 | ***********************
-11 | *******************
-12 | ***************
-13 | ****************
-14 | **********************************
-15 | *****
-16 | **********
-17 | ******
-18 | *******
-19 | ****************
-20 | *************************************
-21 | ****************************
-22 | **********************
-23 | ***
+addr|count|count*
+---|---|---
+0 | 3 | 
+4 | 1 | 
+5 | 20 | III
+6 | 24 | IIII
+7 | 120 | IIIIIIIIIIIIIIIIIIIII
+8 | 75 | IIIIIIIIIIIII
+9 | 237 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+10 | 213 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+11 | 180 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+12 | 142 | IIIIIIIIIIIIIIIIIIIIIIIII
+13 | 156 | IIIIIIIIIIIIIIIIIIIIIIIIIIII
+14 | 313 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+15 | 48 | IIIIIIII
+16 | 94 | IIIIIIIIIIIIIIIII
+17 | 64 | IIIIIIIIIII
+18 | 70 | IIIIIIIIIIII
+19 | 148 | IIIIIIIIIIIIIIIIIIIIIIIIII
+20 | 340 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+21 | 259 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+22 | 211 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+23 | 35 | IIIIII
 
 ### 贵州省
-addr|count
----|---
-0 | *********
-1 | *****
-2 | 
-3 | *
-6 | 
-7 | ****
-8 | ********
-9 | ************************
-10 | ***********
-11 | *******************
-12 | ******
-13 | ***********
-14 | ****************
-15 | ***********************
-16 | ****************
-17 | ****************
-18 | *************************
-19 | ********************
-20 | *************
-21 | *******************************
-22 | ******************
-23 | ************
+addr|count|count*
+---|---|---
+0 | 94 | IIIIIIIIIIIIIII
+1 | 56 | IIIIIIIII
+2 | 2 | 
+3 | 18 | III
+6 | 7 | I
+7 | 44 | IIIIIII
+8 | 79 | IIIIIIIIIIIII
+9 | 242 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+10 | 112 | IIIIIIIIIIIIIIIIII
+11 | 196 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+12 | 67 | IIIIIIIIIII
+13 | 112 | IIIIIIIIIIIIIIIIII
+14 | 164 | IIIIIIIIIIIIIIIIIIIIIIIIIII
+15 | 236 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+16 | 167 | IIIIIIIIIIIIIIIIIIIIIIIIIIII
+17 | 158 | IIIIIIIIIIIIIIIIIIIIIIIIII
+18 | 250 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+19 | 203 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+20 | 135 | IIIIIIIIIIIIIIIIIIIIII
+21 | 309 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+22 | 185 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+23 | 122 | IIIIIIIIIIIIIIIIIIII
 
 ### 广东省
-addr|count
----|---
-0 | *****
-1 | ******
-2 | 
-3 | *
-4 | 
-5 | *
-6 | *****
-7 | ********
-8 | *********
-9 | ************
-10 | ********************
-11 | ***************
-12 | ************
-13 | *******************
-14 | ******************
-15 | ************************
-16 | ****************
-17 | ************
-18 | ****************
-19 | **************
-20 | ******************
-21 | ********************
-22 | ***********************
-23 | ****************
+addr|count|count*
+---|---|---
+0 | 472 | IIIIIIII
+1 | 558 | IIIIIIIIII
+2 | 48 | 
+3 | 126 | II
+4 | 64 | I
+5 | 181 | III
+6 | 474 | IIIIIIII
+7 | 807 | IIIIIIIIIIIIII
+8 | 834 | IIIIIIIIIIIIIII
+9 | 1121 | IIIIIIIIIIIIIIIIIIII
+10 | 1903 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+11 | 1421 | IIIIIIIIIIIIIIIIIIIIIIIII
+12 | 1159 | IIIIIIIIIIIIIIIIIIII
+13 | 1766 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+14 | 1670 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+15 | 2218 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+16 | 1493 | IIIIIIIIIIIIIIIIIIIIIIIIII
+17 | 1134 | IIIIIIIIIIIIIIIIIIII
+18 | 1527 | IIIIIIIIIIIIIIIIIIIIIIIIIII
+19 | 1346 | IIIIIIIIIIIIIIIIIIIIIIII
+20 | 1723 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+21 | 1921 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+22 | 2141 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+23 | 1548 | IIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### 新疆维吾尔自治区
-addr|count
----|---
-0 | *************
-1 | ******
-2 | **
-3 | ***
-4 | 
-5 | 
-6 | 
-7 | 
-8 | *****
-9 | ********
-10 | *********
-11 | ***********
-12 | ************************************
-13 | **********
-14 | *******
-15 | **********
-16 | *********************
-17 | ****************
-18 | *********
-19 | *********************
-20 | ***********
-21 | ***********************************
-22 | **********************
-23 | *********************************
+addr|count|count*
+---|---|---
+0 | 204 | IIIIIIIIIIIIIIIIIIIIIII
+1 | 94 | IIIIIIIIII
+2 | 39 | IIII
+3 | 48 | IIIII
+4 | 1 | 
+5 | 11 | I
+6 | 1 | 
+7 | 3 | 
+8 | 87 | IIIIIIIII
+9 | 126 | IIIIIIIIIIIIII
+10 | 138 | IIIIIIIIIIIIIII
+11 | 173 | IIIIIIIIIIIIIIIIIII
+12 | 532 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+13 | 149 | IIIIIIIIIIIIIIIII
+14 | 106 | IIIIIIIIIIII
+15 | 156 | IIIIIIIIIIIIIIIII
+16 | 307 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+17 | 240 | IIIIIIIIIIIIIIIIIIIIIIIIIII
+18 | 137 | IIIIIIIIIIIIIII
+19 | 317 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+20 | 172 | IIIIIIIIIIIIIIIIIII
+21 | 515 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+22 | 327 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+23 | 491 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### 湖南省
-addr|count
----|---
-0 | ***
-1 | *
-2 | ***
-3 | 
-4 | 
-5 | *
-6 | ********
-7 | **********
-8 | ************
-9 | **************
-10 | ***********************
-11 | **************
-12 | ***************
-13 | *************************
-14 | *****************
-15 | *************
-16 | **************
-17 | ************
-18 | ***********
-19 | ***************
-20 | ************************
-21 | ************************
-22 | ********************
-23 | ***********
+addr|count|count*
+---|---|---
+0 | 138 | IIIII
+1 | 46 | I
+2 | 138 | IIIII
+3 | 10 | 
+4 | 3 | 
+5 | 60 | II
+6 | 375 | IIIIIIIIIIIIII
+7 | 472 | IIIIIIIIIIIIIIIIII
+8 | 522 | IIIIIIIIIIIIIIIIIIII
+9 | 616 | IIIIIIIIIIIIIIIIIIIIIII
+10 | 1031 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+11 | 637 | IIIIIIIIIIIIIIIIIIIIIIII
+12 | 678 | IIIIIIIIIIIIIIIIIIIIIIIIII
+13 | 1090 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+14 | 736 | IIIIIIIIIIIIIIIIIIIIIIIIIIII
+15 | 582 | IIIIIIIIIIIIIIIIIIIIII
+16 | 625 | IIIIIIIIIIIIIIIIIIIIIIII
+17 | 551 | IIIIIIIIIIIIIIIIIIIII
+18 | 484 | IIIIIIIIIIIIIIIIII
+19 | 651 | IIIIIIIIIIIIIIIIIIIIIIIII
+20 | 1062 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+21 | 1061 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+22 | 888 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+23 | 488 | IIIIIIIIIIIIIIIIII
 
 ### 河南省
-addr|count
----|---
-0 | **
-1 | 
-2 | 
-3 | *
-4 | 
-5 | *
-6 | *****
-7 | *********
-8 | **********
-9 | ***************
-10 | ****************
-11 | ******************
-12 | **************
-13 | *********************
-14 | **********************
-15 | *******************
-16 | ***************
-17 | ****************
-18 | ***************
-19 | ***********
-20 | *****************
-21 | *************************
-22 | *************************
-23 | **********
+addr|count|count*
+---|---|---
+0 | 166 | III
+1 | 39 | 
+2 | 28 | 
+3 | 89 | I
+4 | 76 | I
+5 | 146 | III
+6 | 416 | IIIIIIII
+7 | 764 | IIIIIIIIIIIIIII
+8 | 824 | IIIIIIIIIIIIIIIII
+9 | 1212 | IIIIIIIIIIIIIIIIIIIIIIIII
+10 | 1320 | IIIIIIIIIIIIIIIIIIIIIIIIIII
+11 | 1470 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+12 | 1175 | IIIIIIIIIIIIIIIIIIIIIIII
+13 | 1744 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+14 | 1762 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+15 | 1579 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+16 | 1267 | IIIIIIIIIIIIIIIIIIIIIIIIII
+17 | 1289 | IIIIIIIIIIIIIIIIIIIIIIIIII
+18 | 1219 | IIIIIIIIIIIIIIIIIIIIIIIII
+19 | 948 | IIIIIIIIIIIIIIIIIII
+20 | 1402 | IIIIIIIIIIIIIIIIIIIIIIIIIIIII
+21 | 2047 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+22 | 2038 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+23 | 875 | IIIIIIIIIIIIIIIIII
 
 ### 海南省
-addr|count
----|---
-0 | ****************
-1 | ******
-2 | *****
-6 | 
-7 | *
-8 | **********************
-9 | *****************
-10 | ******************************
-11 | ********************
-12 | *******
-13 | *******
-14 | ************
-15 | ***********************
-16 | ***************************
-17 | *****
-18 | *************
-19 | **********
-20 | *****
-21 | **********
-22 | *****************************************
-23 | *************
+addr|count|count*
+---|---|---
+0 | 98 | IIIIIIIIIIIIIIIIIIIIIIIIIII
+1 | 38 | IIIIIIIIII
+2 | 32 | IIIIIIII
+6 | 2 | 
+7 | 11 | III
+8 | 134 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+9 | 102 | IIIIIIIIIIIIIIIIIIIIIIIIIIII
+10 | 184 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+11 | 121 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+12 | 44 | IIIIIIIIIIII
+13 | 43 | IIIIIIIIIIII
+14 | 74 | IIIIIIIIIIIIIIIIIIII
+15 | 137 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+16 | 163 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+17 | 31 | IIIIIIII
+18 | 79 | IIIIIIIIIIIIIIIIIIIIII
+19 | 65 | IIIIIIIIIIIIIIIIII
+20 | 34 | IIIIIIIII
+21 | 65 | IIIIIIIIIIIIIIIIII
+22 | 248 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+23 | 78 | IIIIIIIIIIIIIIIIIIIII
 
 ### 内蒙古自治区
-addr|count
----|---
-0 | *
-1 | ****
-3 | 
-4 | 
-5 | ***
-6 | ***
-7 | **********
-8 | ***********
-9 | ********************
-10 | *****************
-11 | ****************
-12 | **************************
-13 | *****************
-14 | ****************
-15 | *****************
-16 | ****
-17 | ******************
-18 | ***************
-19 | *******
-20 | *******
-21 | *********************************
-22 | ************************
-23 | ********************
+addr|count|count*
+---|---|---
+0 | 21 | II
+1 | 67 | IIIIIII
+3 | 14 | I
+4 | 4 | 
+5 | 46 | IIIII
+6 | 50 | IIIII
+7 | 149 | IIIIIIIIIIIIIIII
+8 | 169 | IIIIIIIIIIIIIIIIII
+9 | 311 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+10 | 254 | IIIIIIIIIIIIIIIIIIIIIIIIIIII
+11 | 241 | IIIIIIIIIIIIIIIIIIIIIIIIII
+12 | 391 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+13 | 267 | IIIIIIIIIIIIIIIIIIIIIIIIIIIII
+14 | 249 | IIIIIIIIIIIIIIIIIIIIIIIIIII
+15 | 265 | IIIIIIIIIIIIIIIIIIIIIIIIIIIII
+16 | 64 | IIIIIII
+17 | 279 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+18 | 233 | IIIIIIIIIIIIIIIIIIIIIIIIII
+19 | 110 | IIIIIIIIIIII
+20 | 108 | IIIIIIIIIIII
+21 | 506 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+22 | 367 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+23 | 301 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### 北京市
-addr|count
----|---
-0 | *
-1 | ***
-2 | 
-3 | 
-4 | 
-5 | *
-6 | *****
-7 | ********
-8 | ********
-9 | *******
-10 | *************
-11 | ****************
-12 | ************
-13 | ************
-14 | ***************
-15 | ***********************
-16 | **********
-17 | **********************************
-18 | ****************
-19 | ************
-20 | *************************
-21 | ******************************
-22 | *************************
-23 | *************
+addr|count|count*
+---|---|---
+0 | 36 | I
+1 | 111 | IIIII
+2 | 22 | I
+3 | 21 | I
+4 | 2 | 
+5 | 59 | III
+6 | 164 | IIIIIIII
+7 | 273 | IIIIIIIIIIIIII
+8 | 268 | IIIIIIIIIIIIII
+9 | 250 | IIIIIIIIIIIII
+10 | 416 | IIIIIIIIIIIIIIIIIIIIII
+11 | 524 | IIIIIIIIIIIIIIIIIIIIIIIIIII
+12 | 377 | IIIIIIIIIIIIIIIIIIII
+13 | 379 | IIIIIIIIIIIIIIIIIIII
+14 | 481 | IIIIIIIIIIIIIIIIIIIIIIIII
+15 | 737 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+16 | 327 | IIIIIIIIIIIIIIIII
+17 | 1079 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+18 | 530 | IIIIIIIIIIIIIIIIIIIIIIIIIIII
+19 | 383 | IIIIIIIIIIIIIIIIIIII
+20 | 785 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+21 | 969 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+22 | 809 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+23 | 410 | IIIIIIIIIIIIIIIIIIIII
 
 ### 河北省
-addr|count
----|---
-0 | *****
-1 | ***
-2 | 
-3 | *
-4 | *
-5 | *
-6 | ****
-7 | *************
-8 | ***********
-9 | **************
-10 | *****************
-11 | ***************
-12 | *************
-13 | *******************
-14 | *******************
-15 | *************
-16 | ***************
-17 | *************
-18 | **************
-19 | *************
-20 | *******************
-21 | ******************************
-22 | **********************
-23 | *************
+addr|count|count*
+---|---|---
+0 | 201 | IIIIIIII
+1 | 144 | IIIIII
+2 | 1 | 
+3 | 48 | II
+4 | 61 | II
+5 | 70 | II
+6 | 191 | IIIIIIII
+7 | 509 | IIIIIIIIIIIIIIIIIIIII
+8 | 464 | IIIIIIIIIIIIIIIIIII
+9 | 548 | IIIIIIIIIIIIIIIIIIIIIII
+10 | 693 | IIIIIIIIIIIIIIIIIIIIIIIIIIIII
+11 | 616 | IIIIIIIIIIIIIIIIIIIIIIIIII
+12 | 513 | IIIIIIIIIIIIIIIIIIIII
+13 | 779 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+14 | 778 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+15 | 542 | IIIIIIIIIIIIIIIIIIIIIII
+16 | 611 | IIIIIIIIIIIIIIIIIIIIIIIIII
+17 | 542 | IIIIIIIIIIIIIIIIIIIIIII
+18 | 550 | IIIIIIIIIIIIIIIIIIIIIII
+19 | 531 | IIIIIIIIIIIIIIIIIIIIII
+20 | 742 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+21 | 1172 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+22 | 890 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+23 | 517 | IIIIIIIIIIIIIIIIIIIIII
 
 ## gender
 
 ### gender: 1
 
-1|weight|count
----|---|---
-吹牛大王历险记 | 2.17658669906 | 41
-神奇小火车 | 1.91006587877 | 43
-会变的汽车 | 1.88829707004 | 131
-可爱的男孩 | 1.73637815318 | 71
-小恐龙是从什么地方来的？ | 1.69952660063 | 57
-小蚂蚁坐汽车 | 1.66444865222 | 91
-黑猫警长之地道擒贼 | 1.61689297644 | 104
-真假孙悟空 | 1.51299319325 | 57
-妈妈抱爸爸抱 | 1.46239418843 | 43
-三个和尚 | 1.45105779937 | 48
-孙悟空三借芭蕉扇 | 1.44231648733 | 55
-宝宝吃饭  | 1.4083796288 | 44
+1|weight|count|weight*
+---|---|---|---
+吹牛大王历险记 | 2.17658669906 | 41 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+神奇小火车 | 1.91006587877 | 43 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+会变的汽车 | 1.88829707004 | 131 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+可爱的男孩 | 1.73637815318 | 71 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小恐龙是从什么地方来的？ | 1.69952660063 | 57 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小蚂蚁坐汽车 | 1.66444865222 | 91 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+黑猫警长之地道擒贼 | 1.61689297644 | 104 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+真假孙悟空 | 1.51299319325 | 57 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈妈抱爸爸抱 | 1.46239418843 | 43 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+三个和尚 | 1.45105779937 | 48 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+孙悟空三借芭蕉扇 | 1.44231648733 | 55 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+宝宝吃饭  | 1.4083796288 | 44 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### gender: 2
 
-2|weight|count
----|---|---
-少儿版西游记（下） | 1.84991611821 | 51
-美丽的露珠项链 | 1.72658837699 | 42
-苏莱曼公主阿伊达 | 1.66720835345 | 73
-花仙子 | 1.65311653117 | 42
-玛琳姑娘 | 1.64436988285 | 48
-百花仙子 | 1.62246741515 | 107
-漂亮的春姑娘 | 1.60141992323 | 58
-豌豆上的公主 | 1.59147195464 | 117
-妈妈的白头发 | 1.57439669635 | 40
-雪女王 | 1.56161750238 | 65
-金发公主 | 1.55627863913 | 106
-十二个跳舞的公主 | 1.549304749 | 134
-睡美人 | 1.54159676517 | 130
-苹果姑娘 | 1.54159676517 | 120
-小美人鱼 | 1.53805286456 | 217
-丑小鸭-狄菲菲演绎 | 1.5327876408 | 58
-小公主不生气 | 1.52691489122 | 52
-仙女们 | 1.49697159566 | 123
-灰姑娘（女声版） | 1.49591982398 | 131
-红蜡烛与美人鱼 | 1.47993289457 | 40
-玛丽莎和小精灵 | 1.43553490773 | 97
-野天鹅 | 1.43106718578 | 82
-虎姑婆 | 1.42707814833 | 54
-七色花 | 1.42534520583 | 47
-雪花仙后 | 1.4159851769 | 62
+2|weight|count|weight*
+---|---|---|---
+少儿版西游记（下） | 1.84991611821 | 51 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+美丽的露珠项链 | 1.72658837699 | 42 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+苏莱曼公主阿伊达 | 1.66720835345 | 73 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+花仙子 | 1.65311653117 | 42 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+玛琳姑娘 | 1.64436988285 | 48 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+百花仙子 | 1.62246741515 | 107 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+漂亮的春姑娘 | 1.60141992323 | 58 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+豌豆上的公主 | 1.59147195464 | 117 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈妈的白头发 | 1.57439669635 | 40 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+雪女王 | 1.56161750238 | 65 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+金发公主 | 1.55627863913 | 106 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+十二个跳舞的公主 | 1.549304749 | 134 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+睡美人 | 1.54159676517 | 130 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+苹果姑娘 | 1.54159676517 | 120 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小美人鱼 | 1.53805286456 | 217 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+丑小鸭-狄菲菲演绎 | 1.5327876408 | 58 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小公主不生气 | 1.52691489122 | 52 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+仙女们 | 1.49697159566 | 123 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+灰姑娘（女声版） | 1.49591982398 | 131 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+红蜡烛与美人鱼 | 1.47993289457 | 40 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+玛丽莎和小精灵 | 1.43553490773 | 97 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+野天鹅 | 1.43106718578 | 82 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+虎姑婆 | 1.42707814833 | 54 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+七色花 | 1.42534520583 | 47 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+雪花仙后 | 1.4159851769 | 62 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ## age
 
 ### age: 2007
 
-2007|weight|count
----|---|---
-梦想起航 | 2.55958792579 | 23
-驴皮公主 | 1.82118095933 | 31
+2007|weight|count|weight*
+---|---|---|---
+梦想起航 | 2.55958792579 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+驴皮公主 | 1.82118095933 | 31 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### age: 2014
 
-2014|weight|count
----|---|---
-小宝宝打电话 | 5.64330660165 | 31
-卖报歌 | 4.18696941413 | 23
-卡哇伊 | 4.04036909989 | 66
-一字歌 | 4.02666364162 | 39
-彩虹糖的梦 | 3.97998998508 | 42
-摇呀摇小宝宝 | 3.79789894001 | 28
-动物森林 | 3.7935234804 | 34
-小手拍拍 | 3.75191953395 | 32
-大风车 | 3.66632886959 | 53
-妈妈宝贝 | 3.66225969215 | 54
-数字谣 | 3.62350562133 | 33
-恭喜恭喜 | 3.54527084087 | 41
-嘀哩嘀哩 | 3.53566306082 | 23
-三个和尚—儿歌版 | 3.52938859221 | 50
-虫儿音乐会 | 3.51742456308 | 30
-洗澡歌 | 3.48540698052 | 131
-亲亲猪猪宝贝 | 3.4199378898 | 44
-过新年 | 3.40017707765 | 29
-数数歌（你数一，我数一……） | 3.39098119644 | 25
-Heal the | 3.35071329473 | 31
-老鼠画猫 | 3.34722660035 | 30
-大家一起喜羊羊 | 3.32044878755 | 48
-REGALERO UN | 3.30392914184 | 32
-乡下老鼠 | 3.21174361891 | 26
-最好的未来 | 3.20259335219 | 25
-妈妈的眼睛 | 3.1927392188 | 30
-别说我小 | 3.17056741867 | 22
-放牛娃 | 3.15539723963 | 26
-青蛙不吃水 | 3.08631457817 | 29
-Five Little | 3.04843462134 | 26
-什么动物怎样叫 | 3.03056833784 | 92
-To Babyland | 3.00765288727 | 20
-洗手歌 | 2.96468641746 | 21
-小红帽（儿歌版） | 2.95873323188 | 71
-小跳蛙 | 2.95439236739 | 41
-晚安 | 2.88233401697 | 35
-小小手 | 2.85589058562 | 45
-两只小羊要过桥 | 2.82351087377 | 20
-爱我你就抱抱我 | 2.79647725902 | 57
-小星星 | 2.79131294275 | 46
-Five little | 2.78769021343 | 27
-山行（童声） | 2.75037173668 | 33
-摇篮曲 | 2.73718050532 | 55
-好甜好甜的梦 | 2.72167933406 | 24
-入睡 | 2.68444242775 | 26
-拍手歌 | 2.66061601566 | 55
-德语圣诞歌 - | 2.54323589733 | 25
-little star | 2.52547361487 | 23
-悯农（童声） | 2.52289001015 | 31
-儿歌版唐诗-出塞 | 2.50033794243 | 30
-隐形的翅膀 | 2.48324161462 | 28
-别看我只是一只羊 | 2.47794685638 | 24
-爸爸的爸爸叫什么 | 2.45595324523 | 60
-咏鹅（童声） | 2.44646887294 | 29
-宝宝吃饭  | 2.44150646143 | 24
-小苹果 | 2.4288467983 | 79
-读唐诗 | 2.41164093897 | 38
-一百只老鼠 | 2.41067935965 | 23
-梁祝-化蝶 | 2.40194501414 | 25
-儿歌版古诗-长歌行 | 2.377925564 | 22
-美妙的旋律 | 2.377925564 | 22
-游子吟 | 2.3746990707 | 23
-牛奶歌 | 2.37319180375 | 47
-儿歌版唐诗-村居 | 2.37174913396 | 24
-鸟儿和树 | 2.37174913396 | 24
-宝宝歌 | 2.36904165778 | 50
-十二属相歌 | 2.3559947617 | 47
-宝贝乖乖睡 | 2.34704341382 | 76
-梅花（童声） | 2.34305862025 | 21
-妈咪的怀抱里 | 2.34134209379 | 22
-起床歌 | 2.32046130986 | 53
-早发白帝城（童声） | 2.30586721358 | 29
-小白兔白又白 | 2.30586721358 | 39
-勃拉姆斯摇篮曲 | 2.28681045975 | 40
-儿歌版古诗-七步诗 | 2.27292625338 | 23
-妈妈抱爸爸抱 | 2.26983803836 | 21
-Just for | 2.2645063667 | 73
-森林沉睡的宝宝 | 2.22566313658 | 37
-Let It | 2.2107799058 | 31
-三个和尚 | 2.20978941301 | 23
-望庐山瀑布 | 2.19606401293 | 20
-静夜思（童声） | 2.16175051273 | 30
-Brown bear,Brown | 2.16175051273 | 30
-糊涂猪说新闻 | 2.16175051273 | 20
-晚安晚安 | 2.14445650863 | 31
-荷塘月色 | 2.14348219854 | 22
-儿歌版古诗-明日歌 | 2.14116241261 | 26
-儿歌版唐诗-晓窗 | 2.14116241261 | 26
-Always With | 2.14116241261 | 52
-别忘了说谢谢 | 2.12849281253 | 20
-宝贝 | 2.10822145241 | 32
-儿歌版唐诗-清明 | 2.08011797588 | 43
-江南Style | 2.07528049222 | 30
-夜宿山寺（童声） | 2.07528049222 | 21
-春晓（童声） | 2.07528049222 | 30
-爸爸演唱的天籁摇篮曲 | 2.0496597454 | 24
-小小的船 | 2.03458871786 | 20
-儿歌版唐诗-相思 | 2.03458871786 | 35
-儿歌版唐诗-咏鹅 | 2.03174313923 | 42
-儿歌版唐诗-静夜思 | 2.01150118631 | 41
-小花狗找朋友 | 2.01093070951 | 25
-Three little | 2.00510192485 | 20
-儿歌版唐诗-悯农 | 1.96885585159 | 37
-儿歌版唐诗-赋得古原草送别 | 1.94862018049 | 20
-夜莺 | 1.91692575586 | 23
-儿歌版唐诗-登鹳雀楼 | 1.90830390089 | 32
-儿歌版唐诗-江南 | 1.90102029822 | 36
-英文字母歌 | 1.89199361114 | 32
-胡萝卜兔洗澡 | 1.88661862929 | 21
-Colour Song | 1.85005625275 | 23
-大灰狼和三只小猪 | 1.84046282185 | 29
-森林狂想曲 | 1.80145876061 | 25
-儿歌版唐诗-春晓 | 1.71865879273 | 40
+2014|weight|count|weight*
+---|---|---|---
+小宝宝打电话 | 5.64330660165 | 31 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+卖报歌 | 4.18696941413 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+卡哇伊 | 4.04036909989 | 66 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+一字歌 | 4.02666364162 | 39 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+彩虹糖的梦 | 3.97998998508 | 42 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+摇呀摇小宝宝 | 3.79789894001 | 28 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+动物森林 | 3.7935234804 | 34 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小手拍拍 | 3.75191953395 | 32 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大风车 | 3.66632886959 | 53 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈妈宝贝 | 3.66225969215 | 54 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+数字谣 | 3.62350562133 | 33 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+恭喜恭喜 | 3.54527084087 | 41 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+嘀哩嘀哩 | 3.53566306082 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+三个和尚—儿歌版 | 3.52938859221 | 50 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+虫儿音乐会 | 3.51742456308 | 30 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+洗澡歌 | 3.48540698052 | 131 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+亲亲猪猪宝贝 | 3.4199378898 | 44 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+过新年 | 3.40017707765 | 29 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+数数歌（你数一，我数一……） | 3.39098119644 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Heal the | 3.35071329473 | 31 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+老鼠画猫 | 3.34722660035 | 30 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大家一起喜羊羊 | 3.32044878755 | 48 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+REGALERO UN | 3.30392914184 | 32 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+乡下老鼠 | 3.21174361891 | 26 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+最好的未来 | 3.20259335219 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈妈的眼睛 | 3.1927392188 | 30 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+别说我小 | 3.17056741867 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+放牛娃 | 3.15539723963 | 26 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+青蛙不吃水 | 3.08631457817 | 29 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Five Little | 3.04843462134 | 26 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+什么动物怎样叫 | 3.03056833784 | 92 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+To Babyland | 3.00765288727 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+洗手歌 | 2.96468641746 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小红帽（儿歌版） | 2.95873323188 | 71 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小跳蛙 | 2.95439236739 | 41 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+晚安 | 2.88233401697 | 35 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小小手 | 2.85589058562 | 45 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+两只小羊要过桥 | 2.82351087377 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+爱我你就抱抱我 | 2.79647725902 | 57 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小星星 | 2.79131294275 | 46 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Five little | 2.78769021343 | 27 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+山行（童声） | 2.75037173668 | 33 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+摇篮曲 | 2.73718050532 | 55 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+好甜好甜的梦 | 2.72167933406 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+入睡 | 2.68444242775 | 26 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+拍手歌 | 2.66061601566 | 55 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+德语圣诞歌 - | 2.54323589733 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+little star | 2.52547361487 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+悯农（童声） | 2.52289001015 | 31 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-出塞 | 2.50033794243 | 30 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+隐形的翅膀 | 2.48324161462 | 28 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+别看我只是一只羊 | 2.47794685638 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+爸爸的爸爸叫什么 | 2.45595324523 | 60 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+咏鹅（童声） | 2.44646887294 | 29 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+宝宝吃饭  | 2.44150646143 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小苹果 | 2.4288467983 | 79 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+读唐诗 | 2.41164093897 | 38 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+一百只老鼠 | 2.41067935965 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+梁祝-化蝶 | 2.40194501414 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版古诗-长歌行 | 2.377925564 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+美妙的旋律 | 2.377925564 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+游子吟 | 2.3746990707 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+牛奶歌 | 2.37319180375 | 47 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-村居 | 2.37174913396 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+鸟儿和树 | 2.37174913396 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+宝宝歌 | 2.36904165778 | 50 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+十二属相歌 | 2.3559947617 | 47 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+宝贝乖乖睡 | 2.34704341382 | 76 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+梅花（童声） | 2.34305862025 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈咪的怀抱里 | 2.34134209379 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+起床歌 | 2.32046130986 | 53 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+早发白帝城（童声） | 2.30586721358 | 29 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小白兔白又白 | 2.30586721358 | 39 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+勃拉姆斯摇篮曲 | 2.28681045975 | 40 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版古诗-七步诗 | 2.27292625338 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈妈抱爸爸抱 | 2.26983803836 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Just for | 2.2645063667 | 73 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+森林沉睡的宝宝 | 2.22566313658 | 37 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Let It | 2.2107799058 | 31 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+三个和尚 | 2.20978941301 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+望庐山瀑布 | 2.19606401293 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+静夜思（童声） | 2.16175051273 | 30 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Brown bear,Brown | 2.16175051273 | 30 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+糊涂猪说新闻 | 2.16175051273 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+晚安晚安 | 2.14445650863 | 31 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+荷塘月色 | 2.14348219854 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版古诗-明日歌 | 2.14116241261 | 26 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-晓窗 | 2.14116241261 | 26 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Always With | 2.14116241261 | 52 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+别忘了说谢谢 | 2.12849281253 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+宝贝 | 2.10822145241 | 32 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-清明 | 2.08011797588 | 43 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+江南Style | 2.07528049222 | 30 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+夜宿山寺（童声） | 2.07528049222 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+春晓（童声） | 2.07528049222 | 30 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+爸爸演唱的天籁摇篮曲 | 2.0496597454 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小小的船 | 2.03458871786 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-相思 | 2.03458871786 | 35 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-咏鹅 | 2.03174313923 | 42 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-静夜思 | 2.01150118631 | 41 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小花狗找朋友 | 2.01093070951 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Three little | 2.00510192485 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-悯农 | 1.96885585159 | 37 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-赋得古原草送别 | 1.94862018049 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+夜莺 | 1.91692575586 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-登鹳雀楼 | 1.90830390089 | 32 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-江南 | 1.90102029822 | 36 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+英文字母歌 | 1.89199361114 | 32 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+胡萝卜兔洗澡 | 1.88661862929 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Colour Song | 1.85005625275 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大灰狼和三只小猪 | 1.84046282185 | 29 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+森林狂想曲 | 1.80145876061 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-春晓 | 1.71865879273 | 40 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### age: 2008
 
-2008|weight|count
----|---|---
-吹牛大王历险记 | 9.30240103829 | 41
-武松打虎 | 4.21240801734 | 24
-爷爷的肉丸子汤（凯叔演播） | 2.62039465867 | 20
-最好的礼物（凯叔演播） | 2.32560025957 | 22
-好安静的蟋蟀（凯叔演播） | 2.23615409574 | 25
-都是放屁惹的祸（凯叔演播） | 2.16334907867 | 20
-肚子里的肚子里的肚子里有老鼠（凯叔演播） | 1.86048020766 | 26
-听听小线报-围裙妈妈日记 | 1.76822499075 | 23
-宝葫芦的故事 | 1.57135152674 | 25
-黑猫警长之地道擒贼 | 1.52825159915 | 23
-梦想起航 | 1.51258553468 | 20
-小鼹鼠摘月亮（凯叔演播） | 1.48580016584 | 23
-仙女们 | 1.46880016394 | 24
-阿拉丁神灯 | 1.43594109987 | 23
-驴皮公主 | 1.39735637914 | 35
+2008|weight|count|weight*
+---|---|---|---
+吹牛大王历险记 | 9.30240103829 | 41 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+武松打虎 | 4.21240801734 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+爷爷的肉丸子汤（凯叔演播） | 2.62039465867 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+最好的礼物（凯叔演播） | 2.32560025957 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+好安静的蟋蟀（凯叔演播） | 2.23615409574 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+都是放屁惹的祸（凯叔演播） | 2.16334907867 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+肚子里的肚子里的肚子里有老鼠（凯叔演播） | 1.86048020766 | 26 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+听听小线报-围裙妈妈日记 | 1.76822499075 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+宝葫芦的故事 | 1.57135152674 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+黑猫警长之地道擒贼 | 1.52825159915 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+梦想起航 | 1.51258553468 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小鼹鼠摘月亮（凯叔演播） | 1.48580016584 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+仙女们 | 1.46880016394 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+阿拉丁神灯 | 1.43594109987 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+驴皮公主 | 1.39735637914 | 35 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### age: 2009
 
-2009|weight|count
----|---|---
-彭野新儿歌-老歌新唱 | 9.36163265306 | 30
-少儿版西游记（下） | 4.77259703882 | 26
-熊爸爸（凯叔演播） | 2.92551020408 | 25
-野天鹅 | 2.38456680786 | 27
-四只老鼠和一只小猫的故事（凯叔演播） | 2.05955918367 | 22
-莴苣姑娘 | 1.93176546809 | 26
-美猴王大战二郎神（凯叔演播） | 1.92247813411 | 23
-好安静的蟋蟀（凯叔演播） | 1.89032967033 | 21
-苹果姑娘 | 1.88532879819 | 29
-百花仙子 | 1.84163265306 | 24
-小鼹鼠摘月亮（凯叔演播） | 1.82031746032 | 28
-肚子里的肚子里的肚子里有老鼠（凯叔演播） | 1.80031397174 | 25
-拇指姑娘 | 1.79142353238 | 31
-两位商人 | 1.77948389273 | 23
-黑猫警长之地道擒贼 | 1.73858892128 | 26
-驴皮公主 | 1.72768327932 | 43
-玛丽莎和小精灵 | 1.72254040816 | 23
-聪明的一休 | 1.71629931973 | 22
-宝葫芦的故事 | 1.70786541644 | 27
-十二个跳舞的公主 | 1.69679591837 | 29
-听听小线报-围裙妈妈日记 | 1.62474616293 | 21
-灰姑娘（女声版） | 1.61805996473 | 28
-仙女们 | 1.60133190118 | 26
-白雪公主（狄菲菲演绎） | 1.5800223887 | 40
-十二生肖的故事 | 1.54798650169 | 21
-豌豆上的公主 | 1.5143817527 | 22
-睡美人 | 1.50026164312 | 25
-会变的汽车 | 1.42594404649 | 23
-公主和豌豆 | 1.30290763728 | 27
+2009|weight|count|weight*
+---|---|---|---
+彭野新儿歌-老歌新唱 | 9.36163265306 | 30 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+少儿版西游记（下） | 4.77259703882 | 26 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+熊爸爸（凯叔演播） | 2.92551020408 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+野天鹅 | 2.38456680786 | 27 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+四只老鼠和一只小猫的故事（凯叔演播） | 2.05955918367 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+莴苣姑娘 | 1.93176546809 | 26 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+美猴王大战二郎神（凯叔演播） | 1.92247813411 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+好安静的蟋蟀（凯叔演播） | 1.89032967033 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+苹果姑娘 | 1.88532879819 | 29 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+百花仙子 | 1.84163265306 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小鼹鼠摘月亮（凯叔演播） | 1.82031746032 | 28 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+肚子里的肚子里的肚子里有老鼠（凯叔演播） | 1.80031397174 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+拇指姑娘 | 1.79142353238 | 31 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+两位商人 | 1.77948389273 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+黑猫警长之地道擒贼 | 1.73858892128 | 26 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+驴皮公主 | 1.72768327932 | 43 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+玛丽莎和小精灵 | 1.72254040816 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+聪明的一休 | 1.71629931973 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+宝葫芦的故事 | 1.70786541644 | 27 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+十二个跳舞的公主 | 1.69679591837 | 29 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+听听小线报-围裙妈妈日记 | 1.62474616293 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+灰姑娘（女声版） | 1.61805996473 | 28 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+仙女们 | 1.60133190118 | 26 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+白雪公主（狄菲菲演绎） | 1.5800223887 | 40 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+十二生肖的故事 | 1.54798650169 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+豌豆上的公主 | 1.5143817527 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+睡美人 | 1.50026164312 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+会变的汽车 | 1.42594404649 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+公主和豌豆 | 1.30290763728 | 27 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### age: 2011
 
-2011|weight|count
----|---|---
-少儿版西游记（下） | 4.15612052894 | 25
-龟兔赛跑 | 2.93486049659 | 81
-三只小猪盖房子 | 2.63409270029 | 32
-小白兔上幼儿园 | 2.60304391023 | 35
-白雪公主 | 2.57716090597 | 69
-黑猫警长之地道擒贼 | 2.42242453687 | 40
-家庭成员称呼 | 2.33158361674 | 22
-小红帽（狄菲菲演绎） | 2.21636767793 | 63
-小壁虎借尾巴 | 2.14398493493 | 22
-快乐王子 | 2.14020031898 | 26
-小兄妹 | 2.11962146976 | 20
-狼来了（男声版） | 2.08890231803 | 34
-勇敢的小裁缝 | 2.08597668453 | 31
-白雪公主（狄菲菲演绎） | 1.96758111117 | 55
-小狗熊拔牙 | 1.91965718016 | 24
-娇滴滴穿衣服的故事 | 1.90527772563 | 20
-睡美人 | 1.90222439594 | 35
-小蝌蚪找妈妈 | 1.87025423803 | 30
-蜘蛛先生要搬家 | 1.8634034899 | 20
-金发公主 | 1.81681840265 | 27
-公主和豌豆 | 1.79184495382 | 41
-不爱睡觉的小猴子 | 1.75773487736 | 34
-十二个跳舞的公主 | 1.74868771255 | 33
-拇指姑娘 | 1.72709897536 | 33
-小羊睡不着 | 1.72615880172 | 34
-灰姑娘（男声版） | 1.71530061137 | 35
-百花仙子 | 1.66789886145 | 24
-小美人鱼 | 1.65671563154 | 51
-会变的汽车 | 1.62831848008 | 29
-十二生肖的故事 | 1.60223355195 | 24
-阿拉丁神灯 | 1.59327251418 | 28
-公主和七兄弟 | 1.58476371571 | 20
-聪明的一休 | 1.55438907783 | 22
-小蚂蚁坐汽车 | 1.49620339042 | 21
-灰姑娘（女声版） | 1.36074464725 | 26
-儿歌版唐诗-江南 | 1.3591465913 | 21
-小兔子乖乖（故事版） | 1.31562711916 | 45
-驴皮公主 | 1.30998065084 | 36
+2011|weight|count|weight*
+---|---|---|---
+少儿版西游记（下） | 4.15612052894 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+龟兔赛跑 | 2.93486049659 | 81 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+三只小猪盖房子 | 2.63409270029 | 32 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小白兔上幼儿园 | 2.60304391023 | 35 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+白雪公主 | 2.57716090597 | 69 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+黑猫警长之地道擒贼 | 2.42242453687 | 40 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+家庭成员称呼 | 2.33158361674 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小红帽（狄菲菲演绎） | 2.21636767793 | 63 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小壁虎借尾巴 | 2.14398493493 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+快乐王子 | 2.14020031898 | 26 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小兄妹 | 2.11962146976 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+狼来了（男声版） | 2.08890231803 | 34 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+勇敢的小裁缝 | 2.08597668453 | 31 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+白雪公主（狄菲菲演绎） | 1.96758111117 | 55 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小狗熊拔牙 | 1.91965718016 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+娇滴滴穿衣服的故事 | 1.90527772563 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+睡美人 | 1.90222439594 | 35 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小蝌蚪找妈妈 | 1.87025423803 | 30 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+蜘蛛先生要搬家 | 1.8634034899 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+金发公主 | 1.81681840265 | 27 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+公主和豌豆 | 1.79184495382 | 41 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+不爱睡觉的小猴子 | 1.75773487736 | 34 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+十二个跳舞的公主 | 1.74868771255 | 33 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+拇指姑娘 | 1.72709897536 | 33 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小羊睡不着 | 1.72615880172 | 34 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+灰姑娘（男声版） | 1.71530061137 | 35 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+百花仙子 | 1.66789886145 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小美人鱼 | 1.65671563154 | 51 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+会变的汽车 | 1.62831848008 | 29 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+十二生肖的故事 | 1.60223355195 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+阿拉丁神灯 | 1.59327251418 | 28 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+公主和七兄弟 | 1.58476371571 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+聪明的一休 | 1.55438907783 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小蚂蚁坐汽车 | 1.49620339042 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+灰姑娘（女声版） | 1.36074464725 | 26 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-江南 | 1.3591465913 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小兔子乖乖（故事版） | 1.31562711916 | 45 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+驴皮公主 | 1.30998065084 | 36 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### age: 2010
 
-2010|weight|count
----|---|---
-土拨鼠和他的好朋友 | 3.11073336571 | 21
-聪明的小山羊 | 2.35206673405 | 25
-狮子和老鼠 | 2.23144792717 | 25
-虎姑婆 | 2.18809408173 | 22
-小蝌蚪找妈妈 | 2.09887366797 | 41
-孔融让梨 | 2.01800508197 | 20
-小壁虎借尾巴 | 2.00060848643 | 25
-渔夫和金鱼 | 1.98917643794 | 24
-真假孙悟空 | 1.78298131937 | 21
-住在谷仓下的老鼠 | 1.75965607971 | 23
-兔子先生去散步 | 1.72097287327 | 22
-雪花仙后 | 1.71904136612 | 20
-快乐王子 | 1.68983435262 | 25
-卖火柴的小女孩 | 1.6805111286 | 21
-灰姑娘（男声版） | 1.64998161182 | 41
-三只小猪盖房子 | 1.62224097851 | 24
-玛丽莎和小精灵 | 1.61521126761 | 29
-公主和豌豆 | 1.61492416998 | 45
-金发公主 | 1.60239213056 | 29
-白雪公主 | 1.56417618578 | 51
-刺猬和兔子 | 1.54713722951 | 20
-勇敢的小裁缝 | 1.54713722951 | 28
-灰姑娘（女声版） | 1.54713722951 | 36
-有三根金发的鬼 | 1.53402589705 | 26
-手捧空花盆的孩子 | 1.53013572149 | 20
-孙悟空大闹天宫 | 1.50726255864 | 21
-宝葫芦的故事 | 1.50532270979 | 32
-莴苣姑娘 | 1.49188232845 | 27
-小红帽（狄菲菲演绎） | 1.47331117914 | 51
-聪明的一休 | 1.45044115266 | 25
-仙女们 | 1.41990554945 | 31
-苹果姑娘 | 1.40209311424 | 29
-小美人鱼 | 1.38708855059 | 52
-龟兔赛跑 | 1.36862139533 | 46
-狼来了（男声版） | 1.36215343033 | 27
-十二个跳舞的公主 | 1.34891027198 | 31
-百花仙子 | 1.31253035454 | 23
-阿拉丁神灯 | 1.30831738871 | 28
+2010|weight|count|weight*
+---|---|---|---
+土拨鼠和他的好朋友 | 3.11073336571 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+聪明的小山羊 | 2.35206673405 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+狮子和老鼠 | 2.23144792717 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+虎姑婆 | 2.18809408173 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小蝌蚪找妈妈 | 2.09887366797 | 41 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+孔融让梨 | 2.01800508197 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小壁虎借尾巴 | 2.00060848643 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+渔夫和金鱼 | 1.98917643794 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+真假孙悟空 | 1.78298131937 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+住在谷仓下的老鼠 | 1.75965607971 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+兔子先生去散步 | 1.72097287327 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+雪花仙后 | 1.71904136612 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+快乐王子 | 1.68983435262 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+卖火柴的小女孩 | 1.6805111286 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+灰姑娘（男声版） | 1.64998161182 | 41 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+三只小猪盖房子 | 1.62224097851 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+玛丽莎和小精灵 | 1.61521126761 | 29 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+公主和豌豆 | 1.61492416998 | 45 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+金发公主 | 1.60239213056 | 29 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+白雪公主 | 1.56417618578 | 51 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+刺猬和兔子 | 1.54713722951 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+勇敢的小裁缝 | 1.54713722951 | 28 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+灰姑娘（女声版） | 1.54713722951 | 36 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+有三根金发的鬼 | 1.53402589705 | 26 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+手捧空花盆的孩子 | 1.53013572149 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+孙悟空大闹天宫 | 1.50726255864 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+宝葫芦的故事 | 1.50532270979 | 32 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+莴苣姑娘 | 1.49188232845 | 27 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小红帽（狄菲菲演绎） | 1.47331117914 | 51 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+聪明的一休 | 1.45044115266 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+仙女们 | 1.41990554945 | 31 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+苹果姑娘 | 1.40209311424 | 29 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小美人鱼 | 1.38708855059 | 52 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+龟兔赛跑 | 1.36862139533 | 46 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+狼来了（男声版） | 1.36215343033 | 27 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+十二个跳舞的公主 | 1.34891027198 | 31 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+百花仙子 | 1.31253035454 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+阿拉丁神灯 | 1.30831738871 | 28 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### age: 2013
 
-2013|weight|count
----|---|---
-交朋友 | 5.33891992551 | 31
-懂礼貌的欢欢 | 5.16669670211 | 22
-宝宝吃饭  | 5.0147350344 | 33
-开心的小病号 | 5.00002906656 | 30
-甜甜的糖葫芦 | 4.95141767285 | 23
-鸟儿和树 | 4.72383698478 | 32
-捏橡皮泥 | 4.52085961434 | 21
-妈妈抱爸爸抱 | 4.03648179852 | 25
-大灰狼和三只小猪 | 3.60246742532 | 38
-老虎的大屁股 | 3.50284522177 | 20
-别忘了说谢谢 | 3.49745622912 | 22
-小花狗找朋友 | 3.48451638049 | 29
-小猫刷牙 | 3.33848094598 | 21
-小兔子乖乖（故事版） | 3.13565041231 | 88
-三个和尚 | 3.01390640956 | 21
-咏鹅（童声） | 2.89839083289 | 23
-山行（童声） | 2.86347046141 | 23
-小白兔白又白 | 2.73790765411 | 31
-妈妈生气了 | 2.66458572058 | 41
-悯农（童声） | 2.43138668335 | 20
-早发白帝城（童声） | 2.3754927366 | 20
-小小手 | 2.37004435877 | 25
-乖乖吃饭歌 | 2.35870936401 | 21
-小跳蛙 | 2.26042980717 | 21
-宝贝乖乖睡 | 2.26042980717 | 49
-儿歌版唐诗-悯农 | 2.22565396399 | 28
-起床歌 | 2.22364161863 | 34
-儿歌版唐诗-江南 | 2.20866423907 | 28
-儿歌版唐诗-静夜思 | 2.19859434132 | 30
-春晓（童声） | 2.17001261489 | 21
-静夜思（童声） | 2.15279029255 | 20
-儿歌版唐诗-春晓 | 2.11802473503 | 33
-儿歌版唐诗-咏鹅 | 2.09558327778 | 29
-什么动物怎样叫 | 2.06667868084 | 42
-小红帽（儿歌版） | 2.05422880927 | 33
-爱我你就抱抱我 | 2.05202138523 | 28
-儿歌版唐诗-清明 | 2.02332178544 | 28
-卡哇伊 | 2.01181110525 | 22
-儿歌版唐诗-相思 | 1.99721048989 | 23
-宝贝 | 1.96826541033 | 20
-小蚂蚁坐汽车 | 1.9103752512 | 22
-洗澡歌 | 1.9077033977 | 48
-拍手歌 | 1.87879880077 | 26
-儿歌版唐诗-登鹳雀楼 | 1.78161955245 | 20
-宝宝歌 | 1.6278633445 | 23
-小苹果 | 1.60741675177 | 35
-爸爸的爸爸叫什么 | 1.58975283142 | 26
-十二属相歌 | 1.57247290934 | 21
-Just for | 1.48281878446 | 32
-不爱睡觉的小猴子 | 1.44919541645 | 23
-小羊睡不着 | 1.42316196585 | 23
-Always With | 1.3531824696 | 22
+2013|weight|count|weight*
+---|---|---|---
+交朋友 | 5.33891992551 | 31 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+懂礼貌的欢欢 | 5.16669670211 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+宝宝吃饭  | 5.0147350344 | 33 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+开心的小病号 | 5.00002906656 | 30 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+甜甜的糖葫芦 | 4.95141767285 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+鸟儿和树 | 4.72383698478 | 32 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+捏橡皮泥 | 4.52085961434 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈妈抱爸爸抱 | 4.03648179852 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大灰狼和三只小猪 | 3.60246742532 | 38 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+老虎的大屁股 | 3.50284522177 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+别忘了说谢谢 | 3.49745622912 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小花狗找朋友 | 3.48451638049 | 29 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小猫刷牙 | 3.33848094598 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小兔子乖乖（故事版） | 3.13565041231 | 88 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+三个和尚 | 3.01390640956 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+咏鹅（童声） | 2.89839083289 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+山行（童声） | 2.86347046141 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小白兔白又白 | 2.73790765411 | 31 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈妈生气了 | 2.66458572058 | 41 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+悯农（童声） | 2.43138668335 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+早发白帝城（童声） | 2.3754927366 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小小手 | 2.37004435877 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+乖乖吃饭歌 | 2.35870936401 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小跳蛙 | 2.26042980717 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+宝贝乖乖睡 | 2.26042980717 | 49 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-悯农 | 2.22565396399 | 28 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+起床歌 | 2.22364161863 | 34 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-江南 | 2.20866423907 | 28 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-静夜思 | 2.19859434132 | 30 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+春晓（童声） | 2.17001261489 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+静夜思（童声） | 2.15279029255 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-春晓 | 2.11802473503 | 33 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-咏鹅 | 2.09558327778 | 29 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+什么动物怎样叫 | 2.06667868084 | 42 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小红帽（儿歌版） | 2.05422880927 | 33 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+爱我你就抱抱我 | 2.05202138523 | 28 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-清明 | 2.02332178544 | 28 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+卡哇伊 | 2.01181110525 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-相思 | 1.99721048989 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+宝贝 | 1.96826541033 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小蚂蚁坐汽车 | 1.9103752512 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+洗澡歌 | 1.9077033977 | 48 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+拍手歌 | 1.87879880077 | 26 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-登鹳雀楼 | 1.78161955245 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+宝宝歌 | 1.6278633445 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小苹果 | 1.60741675177 | 35 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+爸爸的爸爸叫什么 | 1.58975283142 | 26 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+十二属相歌 | 1.57247290934 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Just for | 1.48281878446 | 32 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+不爱睡觉的小猴子 | 1.44919541645 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小羊睡不着 | 1.42316196585 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Always With | 1.3531824696 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### age: 2012
 
-2012|weight|count
----|---|---
-坚持到底的小乌龟 | 3.88381517898 | 24
-勇敢的布娃娃 | 3.72969552902 | 22
-神奇小火车 | 3.19688188202 | 22
-我要自己吃饭 | 3.10705214319 | 24
-小山羊吃早餐 | 2.95560777772 | 22
-狮子照哈哈镜 | 2.91676079707 | 34
-彩色的鸭子 | 2.67012293555 | 33
-兔子的尾巴是怎样变短的 | 2.49836064145 | 20
-猫头鹰宝宝 | 2.49211473985 | 28
-小狗熊拔牙 | 2.41822454541 | 36
-胡萝卜火箭 | 2.33801809282 | 22
-蜘蛛先生要搬家 | 2.19087010097 | 28
-小羊睡不着 | 2.0891979855 | 49
-娇滴滴穿衣服的故事 | 2.08009577002 | 26
-小蚂蚁坐汽车 | 2.03437937947 | 34
-会变的汽车 | 2.02764302391 | 43
-兔子先生去散步 | 1.84008471963 | 23
-儿歌版唐诗-春晓 | 1.81325118605 | 41
-小白兔上幼儿园 | 1.81131146505 | 29
-春晓（童声） | 1.70887867875 | 24
-乖乖吃饭歌 | 1.70268708934 | 22
-大灰狼和三只小猪 | 1.69842682139 | 26
-小兔子乖乖（故事版） | 1.69414696601 | 69
-爸爸的爸爸叫什么 | 1.64315257572 | 39
-狼来了（男声版） | 1.59949393241 | 31
-儿歌版唐诗-登鹳雀楼 | 1.59593554769 | 26
-妈妈生气了 | 1.56736776091 | 35
-不爱睡觉的小猴子 | 1.56299879154 | 36
-小蝌蚪找妈妈 | 1.51830519865 | 29
-儿歌版唐诗-咏鹅 | 1.49377506884 | 30
-豌豆上的公主 | 1.46594984697 | 28
-儿歌版唐诗-静夜思 | 1.46446458877 | 29
-小白兔白又白 | 1.46058006731 | 24
-儿歌版唐诗-清明 | 1.44398256655 | 29
-儿歌版唐诗-江南 | 1.41319483612 | 26
-拍手歌 | 1.39419006425 | 28
-摇篮曲 | 1.33185988152 | 26
-儿歌版唐诗-悯农 | 1.31452206058 | 24
-小星星 | 1.31163933676 | 21
-小小手 | 1.3064821703 | 20
-森林沉睡的宝宝 | 1.30023377731 | 21
+2012|weight|count|weight*
+---|---|---|---
+坚持到底的小乌龟 | 3.88381517898 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+勇敢的布娃娃 | 3.72969552902 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+神奇小火车 | 3.19688188202 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+我要自己吃饭 | 3.10705214319 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小山羊吃早餐 | 2.95560777772 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+狮子照哈哈镜 | 2.91676079707 | 34 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+彩色的鸭子 | 2.67012293555 | 33 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+兔子的尾巴是怎样变短的 | 2.49836064145 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+猫头鹰宝宝 | 2.49211473985 | 28 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小狗熊拔牙 | 2.41822454541 | 36 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+胡萝卜火箭 | 2.33801809282 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+蜘蛛先生要搬家 | 2.19087010097 | 28 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小羊睡不着 | 2.0891979855 | 49 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+娇滴滴穿衣服的故事 | 2.08009577002 | 26 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小蚂蚁坐汽车 | 2.03437937947 | 34 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+会变的汽车 | 2.02764302391 | 43 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+兔子先生去散步 | 1.84008471963 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-春晓 | 1.81325118605 | 41 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小白兔上幼儿园 | 1.81131146505 | 29 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+春晓（童声） | 1.70887867875 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+乖乖吃饭歌 | 1.70268708934 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大灰狼和三只小猪 | 1.69842682139 | 26 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小兔子乖乖（故事版） | 1.69414696601 | 69 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+爸爸的爸爸叫什么 | 1.64315257572 | 39 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+狼来了（男声版） | 1.59949393241 | 31 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-登鹳雀楼 | 1.59593554769 | 26 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈妈生气了 | 1.56736776091 | 35 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+不爱睡觉的小猴子 | 1.56299879154 | 36 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小蝌蚪找妈妈 | 1.51830519865 | 29 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-咏鹅 | 1.49377506884 | 30 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+豌豆上的公主 | 1.46594984697 | 28 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-静夜思 | 1.46446458877 | 29 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小白兔白又白 | 1.46058006731 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-清明 | 1.44398256655 | 29 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-江南 | 1.41319483612 | 26 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+拍手歌 | 1.39419006425 | 28 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+摇篮曲 | 1.33185988152 | 26 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-悯农 | 1.31452206058 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小星星 | 1.31163933676 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小小手 | 1.3064821703 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+森林沉睡的宝宝 | 1.30023377731 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ## addr
 
 ### addr: 山东省
 
-山东省|weight|count
----|---|---
-木偶奇遇记 | 2.31354905613 | 58
-清晨 | 2.03462309074 | 22
-Schnappi-小鳄鱼 | 1.6646916197 | 22
-爸爸去哪儿动画连环画（五） | 1.6463983052 | 12
-爸爸去哪儿动画连环画（八） | 1.60360201898 | 14
-小鲤鱼跳龙门 | 1.58771166041 | 22
-爸爸去哪儿动画连环画（三） | 1.58040343642 | 10
-我还有点小糊涂 | 1.53419672578 | 29
-听听小线报-黑猫的秘密 | 1.5319248034 | 20
-爸爸去哪儿动画连环画（七） | 1.53120219736 | 13
-数字谣 | 1.52696533462 | 34
-好安静的蟋蟀（凯叔演播） | 1.51335601791 | 24
-牛郎织女的故事 | 1.50919844643 | 11
-数字从一到十 | 1.50787284393 | 25
-西游记-子母河 | 1.50284660112 | 13
-《爸爸去哪儿》第一季主题曲 | 1.47552211746 | 13
-乡下老鼠 | 1.47504320733 | 28
-恐龙妈妈藏蛋 | 1.47462840328 | 15
-年兽来了 | 1.44989270103 | 18
-听听小线报-国王与小偷 | 1.44565324869 | 22
-听听小线报-侦探小子和朋友们 | 1.44059851705 | 27
-骆驼的背是怎么驼的 | 1.43059436068 | 22
-天天不捣蛋了 | 1.43059436068 | 11
-母鸭带小鸭 | 1.42547412317 | 29
-小公主大明星 | 1.39920200794 | 13
-怕冷的恐龙 | 1.39920200794 | 13
-自行车蚊子埃贡（凯叔演播） | 1.39834096055 | 14
-三个和尚—儿歌版 | 1.39369530952 | 48
-壕球球的独白 | 1.38724301642 | 20
-好东西一起玩 | 1.38724301642 | 28
-大棕熊的秘密（凯叔演播） | 1.3776758232 | 16
-小耗子儿上灯台 | 1.37704270012 | 15
-黑猫警长 | 1.37337058625 | 11
-家庭成员称呼 | 1.36898981883 | 25
-嘀哩嘀哩 | 1.36823968742 | 24
-春夏秋冬四季 | 1.36699129355 | 15
-爸爸去哪儿动画连环画（四） | 1.36202041612 | 12
-卡农 | 1.36202041612 | 18
-梦中的婚礼 | 1.35849186582 | 21
-上学歌 | 1.35256194101 | 13
-小羊和小鱼 | 1.35148933043 | 21
-世界真美好 | 1.34369727151 | 24
-卖报歌 | 1.34249324169 | 30
-小太阳的微笑 | 1.33769862297 | 18
-土拨鼠和他的好朋友 | 1.33038879443 | 13
-吃饭不吃蔬菜为什么不好？ | 1.32586058206 | 24
-爸爸去哪儿动画连环画（九） | 1.32418651567 | 14
-十二生肖歌 | 1.31423022608 | 22
-数数歌（你数一，我数一……） | 1.31423022608 | 26
-阿凡提分羊 | 1.31167335793 | 27
-小白兔白又白 | 1.31146923821 | 50
-数字歌 | 1.30241160894 | 29
-开心的小病号 | 1.30054032789 | 25
-牛奶歌 | 1.29864172887 | 57
-猴子的屁股为什么是红的？ | 1.29563262854 | 11
-小木匠学手艺 | 1.29157108425 | 45
-大头儿子和小头爸爸主题曲 | 1.29013600527 | 31
-孙悟空大闹水晶宫 | 1.28053201515 | 16
-王婆卖瓜 | 1.27834680694 | 30
-司马光做错事 | 1.27536857961 | 19
-我不知道我是谁（凯叔演播） | 1.27399868855 | 15
-小白兔上幼儿园 | 1.27187977181 | 49
-驴小弟变石头（凯叔演播） | 1.27094719468 | 17
-礼貌问候用语 | 1.2551246339 | 19
-小兔当家（凯叔演播） | 1.2551246339 | 19
-高山流水 | 1.25421971347 | 22
-十二生肖的故事 | 1.25083507603 | 54
-小国王 | 1.24851871477 | 18
-牧鹅姑娘 | 1.24851871477 | 16
-美妙的旋律 | 1.24851871477 | 16
-老鼠画猫 | 1.24506021418 | 36
-学念英文字母 | 1.24198196758 | 19
-家庭礼貌称呼歌 | 1.24198196758 | 19
-找爸爸 | 1.23860983609 | 25
-不爱睡觉的小猴子 | 1.23820037829 | 60
-野天鹅 | 1.23820037829 | 48
-一只奇特的蛋（凯叔演播） | 1.23310490348 | 16
-一百只老鼠 | 1.23244336652 | 23
-十二属相歌 | 1.23230418601 | 76
-小兔子乖乖（故事版） | 1.23176668782 | 125
-文具用品名称 | 1.23093394414 | 14
-不想长大（童音版） | 1.23006769929 | 20
-别看我只是一只羊 | 1.22931073455 | 32
-小肥猫捉老鼠 | 1.22805119486 | 18
-小弟弟和小姐姐 | 1.22403795566 | 10
-玛丽莎和小精灵 | 1.22277606086 | 57
-彩色的鸭子 | 1.22185995218 | 55
-服装鞋帽名称 | 1.2203566385 | 13
-甜甜的糖葫芦 | 1.2203566385 | 26
-小跳蛙 | 1.22005086134 | 30
-皇家焰火 | 1.2180670388 | 12
-吃葡萄 | 1.2180670388 | 12
-恭喜恭喜 | 1.21625083547 | 49
-登幽州台歌 | 1.21608965725 | 30
-巴啦啦小魔仙主题曲 | 1.20270151423 | 21
-不能贪吃糖 | 1.20150336568 | 23
+山东省|weight|count|weight*
+---|---|---|---
+木偶奇遇记 | 2.31354905613 | 58 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+清晨 | 2.03462309074 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Schnappi-小鳄鱼 | 1.6646916197 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+爸爸去哪儿动画连环画（五） | 1.6463983052 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+爸爸去哪儿动画连环画（八） | 1.60360201898 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小鲤鱼跳龙门 | 1.58771166041 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+爸爸去哪儿动画连环画（三） | 1.58040343642 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+我还有点小糊涂 | 1.53419672578 | 29 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+听听小线报-黑猫的秘密 | 1.5319248034 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+爸爸去哪儿动画连环画（七） | 1.53120219736 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+数字谣 | 1.52696533462 | 34 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+好安静的蟋蟀（凯叔演播） | 1.51335601791 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+牛郎织女的故事 | 1.50919844643 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+数字从一到十 | 1.50787284393 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+西游记-子母河 | 1.50284660112 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+《爸爸去哪儿》第一季主题曲 | 1.47552211746 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+乡下老鼠 | 1.47504320733 | 28 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+恐龙妈妈藏蛋 | 1.47462840328 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+年兽来了 | 1.44989270103 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+听听小线报-国王与小偷 | 1.44565324869 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+听听小线报-侦探小子和朋友们 | 1.44059851705 | 27 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+骆驼的背是怎么驼的 | 1.43059436068 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+天天不捣蛋了 | 1.43059436068 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+母鸭带小鸭 | 1.42547412317 | 29 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小公主大明星 | 1.39920200794 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+怕冷的恐龙 | 1.39920200794 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+自行车蚊子埃贡（凯叔演播） | 1.39834096055 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+三个和尚—儿歌版 | 1.39369530952 | 48 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+壕球球的独白 | 1.38724301642 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+好东西一起玩 | 1.38724301642 | 28 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大棕熊的秘密（凯叔演播） | 1.3776758232 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小耗子儿上灯台 | 1.37704270012 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+黑猫警长 | 1.37337058625 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+家庭成员称呼 | 1.36898981883 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+嘀哩嘀哩 | 1.36823968742 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+春夏秋冬四季 | 1.36699129355 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+爸爸去哪儿动画连环画（四） | 1.36202041612 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+卡农 | 1.36202041612 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+梦中的婚礼 | 1.35849186582 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+上学歌 | 1.35256194101 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小羊和小鱼 | 1.35148933043 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+世界真美好 | 1.34369727151 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+卖报歌 | 1.34249324169 | 30 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小太阳的微笑 | 1.33769862297 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+土拨鼠和他的好朋友 | 1.33038879443 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+吃饭不吃蔬菜为什么不好？ | 1.32586058206 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+爸爸去哪儿动画连环画（九） | 1.32418651567 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+十二生肖歌 | 1.31423022608 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+数数歌（你数一，我数一……） | 1.31423022608 | 26 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+阿凡提分羊 | 1.31167335793 | 27 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小白兔白又白 | 1.31146923821 | 50 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+数字歌 | 1.30241160894 | 29 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+开心的小病号 | 1.30054032789 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+牛奶歌 | 1.29864172887 | 57 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+猴子的屁股为什么是红的？ | 1.29563262854 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小木匠学手艺 | 1.29157108425 | 45 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大头儿子和小头爸爸主题曲 | 1.29013600527 | 31 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+孙悟空大闹水晶宫 | 1.28053201515 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+王婆卖瓜 | 1.27834680694 | 30 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+司马光做错事 | 1.27536857961 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+我不知道我是谁（凯叔演播） | 1.27399868855 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小白兔上幼儿园 | 1.27187977181 | 49 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+驴小弟变石头（凯叔演播） | 1.27094719468 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+礼貌问候用语 | 1.2551246339 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小兔当家（凯叔演播） | 1.2551246339 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+高山流水 | 1.25421971347 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+十二生肖的故事 | 1.25083507603 | 54 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小国王 | 1.24851871477 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+牧鹅姑娘 | 1.24851871477 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+美妙的旋律 | 1.24851871477 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+老鼠画猫 | 1.24506021418 | 36 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+学念英文字母 | 1.24198196758 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+家庭礼貌称呼歌 | 1.24198196758 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+找爸爸 | 1.23860983609 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+不爱睡觉的小猴子 | 1.23820037829 | 60 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+野天鹅 | 1.23820037829 | 48 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+一只奇特的蛋（凯叔演播） | 1.23310490348 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+一百只老鼠 | 1.23244336652 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+十二属相歌 | 1.23230418601 | 76 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小兔子乖乖（故事版） | 1.23176668782 | 125 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+文具用品名称 | 1.23093394414 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+不想长大（童音版） | 1.23006769929 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+别看我只是一只羊 | 1.22931073455 | 32 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小肥猫捉老鼠 | 1.22805119486 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小弟弟和小姐姐 | 1.22403795566 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+玛丽莎和小精灵 | 1.22277606086 | 57 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+彩色的鸭子 | 1.22185995218 | 55 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+服装鞋帽名称 | 1.2203566385 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+甜甜的糖葫芦 | 1.2203566385 | 26 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小跳蛙 | 1.22005086134 | 30 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+皇家焰火 | 1.2180670388 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+吃葡萄 | 1.2180670388 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+恭喜恭喜 | 1.21625083547 | 49 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+登幽州台歌 | 1.21608965725 | 30 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+巴啦啦小魔仙主题曲 | 1.20270151423 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+不能贪吃糖 | 1.20150336568 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### addr: 安徽省
 
-安徽省|weight|count
----|---|---
-快乐星猫 | 2.58374425452 | 14
-青春修炼手册 | 2.32833586201 | 18
-狗咬吕洞宾 | 2.20062123667 | 12
-包公的故事 | 2.10726154784 | 12
-小狐狸买手套 | 1.99202068195 | 11
-高山流水 | 1.98457851252 | 15
-嘀哩嘀哩 | 1.98457851252 | 15
-十二生肖歌 | 1.94089879407 | 14
-邮差的故事 | 1.8955506914 | 14
-妈祖的故事 | 1.88004727789 | 17
-女娲补天 | 1.86934492147 | 14
-小拇指 | 1.82434217336 | 17
-狐狸妈妈和葡萄 | 1.7885707582 | 15
-蔬菜香 | 1.78699492493 | 14
-黄河源头的故事 | 1.77397018058 | 12
-卡哇伊 | 1.77068505062 | 22
-奇妙的点金术 | 1.76841784825 | 13
-七色花 | 1.75605128987 | 12
-喝水歌 | 1.74671059152 | 17
-王婆卖瓜 | 1.68113442597 | 17
-狼来了（女声版） | 1.67162574709 | 12
-荷塘月色 | 1.6588652452 | 15
-花木兰 | 1.65321945758 | 19
-花儿一簇簇开了 | 1.62475773549 | 12
-老袋鼠之歌 | 1.62475773549 | 12
-螳螂捕蝉 | 1.60335117771 | 14
-巴啦啦小魔仙主题曲 | 1.59494566695 | 12
-悯农（锄禾日当午） | 1.59494566695 | 12
-悯农（童声） | 1.58505723648 | 25
-洗澡歌 | 1.58279539338 | 49
-江雪（童声） | 1.57875765003 | 17
-大禹治水 | 1.57567139907 | 18
-游子吟 | 1.54981735931 | 23
-咏柳（童声） | 1.54303915116 | 18
-儿歌版唐诗-出塞 | 1.53794300864 | 25
-小鹦鹉学说话 | 1.53396245027 | 18
-夜宿山寺（童声） | 1.52922799826 | 19
-犀牛皮为什么又粗又皱 | 1.52499190962 | 13
-小恐龙是从什么地方来的？ | 1.5188427487 | 13
-别看我只是一只羊 | 1.51560734403 | 17
-笛子版梁祝-化蝶 | 1.51053701001 | 11
-十二生肖的故事 | 1.50518681989 | 28
-腊八的故事 | 1.50239943689 | 14
-野天鹅 | 1.49663462205 | 25
-洗洗脸 | 1.49354877747 | 15
-江南Style | 1.48335390526 | 15
-灰姑娘（女声版） | 1.48243399587 | 44
-牛奶歌 | 1.48046659839 | 28
-我还有点小糊涂 | 1.47329726862 | 12
-一箭双雕 | 1.46203352803 | 11
-孟母三迁 | 1.44874231414 | 17
-盘古开天 | 1.44218691906 | 11
-大象的鼻子为什么那么长 | 1.43768321251 | 13
-起床歌 | 1.43500292444 | 47
-自认为是狗的猫和自认为是猫的狗 | 1.43439833083 | 10
-小蝌蚪找妈妈 | 1.42992747889 | 19
-儿歌版唐诗-相思 | 1.42942574995 | 37
-胡狼与大象 | 1.4203356021 | 10
-洗手歌 | 1.41917614447 | 12
-丑小鸭-狄菲菲演绎 | 1.41570910177 | 15
-爱我你就抱抱我 | 1.41340713575 | 32
-妈妈宝贝 | 1.39079262158 | 24
-老虎的大屁股 | 1.38920495877 | 14
-刷牙歌 | 1.3880165884 | 16
-华佗的故事 | 1.3838732553 | 16
-画蛇添足 | 1.37249271866 | 18
-望庐山瀑布（童声） | 1.37249271866 | 18
-棒棒天使 | 1.37206792983 | 17
-苏莱曼公主阿伊达 | 1.36352217802 | 16
-妈妈的眼睛 | 1.35694872399 | 17
-山行（童声） | 1.35052249623 | 22
-咏鹅（童声） | 1.34931882199 | 19
-乖乖吃饭歌 | 1.34766726897 | 26
-早发白帝城（童声） | 1.34391680347 | 25
-池上（童声） | 1.34246392044 | 12
-儿歌版古诗-长歌行 | 1.33524637248 | 20
-不能贪吃糖 | 1.33357033101 | 11
-小木匠学手艺 | 1.33217684059 | 20
-儿歌版唐诗-登鹳雀楼 | 1.32986081688 | 33
-指南针的发明 | 1.32912138912 | 10
-城里老鼠和乡下老鼠 | 1.32655922741 | 19
-望庐山瀑布 | 1.320372742 | 18
-小小手 | 1.3170384674 | 35
-儿歌版唐诗-江南 | 1.3170384674 | 35
-三个笨愿望 | 1.3170384674 | 11
-儿歌版唐诗-晓窗 | 1.30713592253 | 24
-孙悟空三借芭蕉扇 | 1.30517325598 | 10
-有三根金发的鬼 | 1.29671379969 | 29
-儿歌版唐诗-静夜思 | 1.29633532342 | 37
-兔子先生去散步 | 1.29159790265 | 30
-渔夫和金鱼 | 1.2915144661 | 23
-感恩的心 | 1.2877709459 | 12
-一字歌 | 1.2806561893 | 16
-儿歌版唐诗-悯农 | 1.28045406553 | 35
-三个和尚—儿歌版 | 1.28028390552 | 19
-春晓（童声） | 1.27830204189 | 21
-睡不着 | 1.2768576328 | 13
-摇篮曲 | 1.27295349778 | 21
-彩虹糖的梦 | 1.27013024801 | 16
-小红帽（儿歌版） | 1.26943466738 | 40
-儿歌版唐诗-村居 | 1.26216186459 | 23
-儿歌版古诗-明日歌 | 1.26216186459 | 23
-刺猬和兔子 | 1.25540928435 | 25
-吃饭不挑剔 | 1.25522799781 | 12
-儿歌版唐诗-寻胡隐君 | 1.25371931032 | 18
-数字谣 | 1.25071278919 | 12
-狼来了（男声版） | 1.24716555572 | 43
-隐形的翅膀 | 1.24288884859 | 16
-公主和七兄弟 | 1.24100831379 | 23
-儿歌版唐诗-春晓 | 1.23956561638 | 40
-小跳蛙 | 1.2269478882 | 13
-三只熊的故事 | 1.2258588812 | 11
-丑小鸭 | 1.22116210387 | 11
-大家一起喜羊羊 | 1.22116210387 | 22
-樵夫与仙女 | 1.21900647792 | 13
-乌鸦和狐狸的故事 | 1.21064817338 | 15
-儿歌版唐诗-清明 | 1.20561080234 | 30
-住在谷仓下的老鼠 | 1.20477531322 | 20
-木偶奇遇记 | 1.20342812037 | 13
+安徽省|weight|count|weight*
+---|---|---|---
+快乐星猫 | 2.58374425452 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+青春修炼手册 | 2.32833586201 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+狗咬吕洞宾 | 2.20062123667 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+包公的故事 | 2.10726154784 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小狐狸买手套 | 1.99202068195 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+高山流水 | 1.98457851252 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+嘀哩嘀哩 | 1.98457851252 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+十二生肖歌 | 1.94089879407 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+邮差的故事 | 1.8955506914 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈祖的故事 | 1.88004727789 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+女娲补天 | 1.86934492147 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小拇指 | 1.82434217336 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+狐狸妈妈和葡萄 | 1.7885707582 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+蔬菜香 | 1.78699492493 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+黄河源头的故事 | 1.77397018058 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+卡哇伊 | 1.77068505062 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+奇妙的点金术 | 1.76841784825 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+七色花 | 1.75605128987 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+喝水歌 | 1.74671059152 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+王婆卖瓜 | 1.68113442597 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+狼来了（女声版） | 1.67162574709 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+荷塘月色 | 1.6588652452 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+花木兰 | 1.65321945758 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+花儿一簇簇开了 | 1.62475773549 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+老袋鼠之歌 | 1.62475773549 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+螳螂捕蝉 | 1.60335117771 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+巴啦啦小魔仙主题曲 | 1.59494566695 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+悯农（锄禾日当午） | 1.59494566695 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+悯农（童声） | 1.58505723648 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+洗澡歌 | 1.58279539338 | 49 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+江雪（童声） | 1.57875765003 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大禹治水 | 1.57567139907 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+游子吟 | 1.54981735931 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+咏柳（童声） | 1.54303915116 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-出塞 | 1.53794300864 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小鹦鹉学说话 | 1.53396245027 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+夜宿山寺（童声） | 1.52922799826 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+犀牛皮为什么又粗又皱 | 1.52499190962 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小恐龙是从什么地方来的？ | 1.5188427487 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+别看我只是一只羊 | 1.51560734403 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+笛子版梁祝-化蝶 | 1.51053701001 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+十二生肖的故事 | 1.50518681989 | 28 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+腊八的故事 | 1.50239943689 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+野天鹅 | 1.49663462205 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+洗洗脸 | 1.49354877747 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+江南Style | 1.48335390526 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+灰姑娘（女声版） | 1.48243399587 | 44 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+牛奶歌 | 1.48046659839 | 28 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+我还有点小糊涂 | 1.47329726862 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+一箭双雕 | 1.46203352803 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+孟母三迁 | 1.44874231414 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+盘古开天 | 1.44218691906 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大象的鼻子为什么那么长 | 1.43768321251 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+起床歌 | 1.43500292444 | 47 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+自认为是狗的猫和自认为是猫的狗 | 1.43439833083 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小蝌蚪找妈妈 | 1.42992747889 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-相思 | 1.42942574995 | 37 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+胡狼与大象 | 1.4203356021 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+洗手歌 | 1.41917614447 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+丑小鸭-狄菲菲演绎 | 1.41570910177 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+爱我你就抱抱我 | 1.41340713575 | 32 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈妈宝贝 | 1.39079262158 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+老虎的大屁股 | 1.38920495877 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+刷牙歌 | 1.3880165884 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+华佗的故事 | 1.3838732553 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+画蛇添足 | 1.37249271866 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+望庐山瀑布（童声） | 1.37249271866 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+棒棒天使 | 1.37206792983 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+苏莱曼公主阿伊达 | 1.36352217802 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈妈的眼睛 | 1.35694872399 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+山行（童声） | 1.35052249623 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+咏鹅（童声） | 1.34931882199 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+乖乖吃饭歌 | 1.34766726897 | 26 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+早发白帝城（童声） | 1.34391680347 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+池上（童声） | 1.34246392044 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版古诗-长歌行 | 1.33524637248 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+不能贪吃糖 | 1.33357033101 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小木匠学手艺 | 1.33217684059 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-登鹳雀楼 | 1.32986081688 | 33 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+指南针的发明 | 1.32912138912 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+城里老鼠和乡下老鼠 | 1.32655922741 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+望庐山瀑布 | 1.320372742 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小小手 | 1.3170384674 | 35 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-江南 | 1.3170384674 | 35 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+三个笨愿望 | 1.3170384674 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-晓窗 | 1.30713592253 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+孙悟空三借芭蕉扇 | 1.30517325598 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+有三根金发的鬼 | 1.29671379969 | 29 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-静夜思 | 1.29633532342 | 37 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+兔子先生去散步 | 1.29159790265 | 30 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+渔夫和金鱼 | 1.2915144661 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+感恩的心 | 1.2877709459 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+一字歌 | 1.2806561893 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-悯农 | 1.28045406553 | 35 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+三个和尚—儿歌版 | 1.28028390552 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+春晓（童声） | 1.27830204189 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+睡不着 | 1.2768576328 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+摇篮曲 | 1.27295349778 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+彩虹糖的梦 | 1.27013024801 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小红帽（儿歌版） | 1.26943466738 | 40 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-村居 | 1.26216186459 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版古诗-明日歌 | 1.26216186459 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+刺猬和兔子 | 1.25540928435 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+吃饭不挑剔 | 1.25522799781 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-寻胡隐君 | 1.25371931032 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+数字谣 | 1.25071278919 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+狼来了（男声版） | 1.24716555572 | 43 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+隐形的翅膀 | 1.24288884859 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+公主和七兄弟 | 1.24100831379 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-春晓 | 1.23956561638 | 40 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小跳蛙 | 1.2269478882 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+三只熊的故事 | 1.2258588812 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+丑小鸭 | 1.22116210387 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大家一起喜羊羊 | 1.22116210387 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+樵夫与仙女 | 1.21900647792 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+乌鸦和狐狸的故事 | 1.21064817338 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-清明 | 1.20561080234 | 30 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+住在谷仓下的老鼠 | 1.20477531322 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+木偶奇遇记 | 1.20342812037 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### addr: 山西省
 
-山西省|weight|count
----|---|---
-小猪照镜子 | 2.84127845472 | 10
-兔子的尾巴 | 2.3481031789 | 11
-黄河源头的故事 | 2.31216282412 | 11
-童声跟读版百家姓 | 2.25402333338 | 18
-美猴王大战二郎神（凯叔演播） | 2.17597909824 | 15
-小熊拔牙 | 2.09807367374 | 11
-儿歌版古诗-七步诗 | 2.07992616976 | 26
-数字歌 | 2.07474649751 | 14
-孔雀跳舞 | 1.97527235037 | 14
-为什么不能挑食？ | 1.89855011951 | 10
-孙悟空三借芭蕉扇 | 1.85578998168 | 10
-采蘑菇的小兔子 | 1.84973025929 | 11
-小懒猫 | 1.7983488632 | 11
-捏橡皮泥 | 1.79775436771 | 12
-儿歌版唐诗-登鹳雀楼 | 1.77629299777 | 31
-小手拍拍 | 1.77470623479 | 14
-望庐山瀑布 | 1.77310161794 | 17
-孙悟空大闹天宫 | 1.77024966222 | 11
-魔方的故事 | 1.74570074548 | 10
-丑小鸭 | 1.73633683344 | 11
-糊涂猪说新闻 | 1.7268848093 | 14
-小鼹鼠摘月亮（凯叔演播） | 1.72212536564 | 13
-儿歌版唐诗-悯农 | 1.71660573306 | 33
-鸟儿和树 | 1.71185059252 | 15
-甜甜的糖葫芦 | 1.70369892303 | 11
-老虎的大屁股 | 1.69309058603 | 12
-豌豆上的公主 | 1.67845893899 | 22
-肚子里的肚子里的肚子里有老鼠（凯叔演播） | 1.66611732914 | 11
-儿歌版诗词-长相思•别情 | 1.64794150374 | 17
-白雪公主（狄菲菲演绎） | 1.64022280817 | 34
-交朋友 | 1.63393633515 | 14
-阿凡提分羊 | 1.60305593749 | 10
-宝宝吃饭  | 1.5889243149 | 14
-种子、沙子和小水滴（凯叔演播） | 1.5735552553 | 11
-儿歌版古诗-明日歌 | 1.56055066642 | 20
-Happy New | 1.55466179598 | 10
-大灰狼和三只小猪 | 1.55311947277 | 19
-儿歌版唐诗-静夜思 | 1.54432244909 | 31
-三个和尚 | 1.54173321555 | 18
-小猫刷牙 | 1.52587176272 | 12
-棒棒天使 | 1.49186904934 | 13
-读唐诗 | 1.48463198535 | 20
-儿歌版唐诗-赋得古原草送别 | 1.4801869794 | 18
-一字歌 | 1.47950549369 | 13
-小小的船 | 1.47137634262 | 23
-好甜好甜的梦 | 1.46094104941 | 10
-吃早饭 | 1.45577871355 | 10
-孟母三迁 | 1.45406603271 | 12
-儿歌版唐诗-春晓 | 1.45406603271 | 33
-早发白帝城（童声） | 1.45226755895 | 19
-儿歌版唐诗-咏鹅 | 1.4447450966 | 31
-漂亮的春姑娘 | 1.44326087111 | 11
-小花狗找朋友 | 1.43611460021 | 16
-儿歌版唐诗-相思 | 1.4282159699 | 26
-洗洗脸 | 1.41575730561 | 10
-动物森林 | 1.40609343322 | 10
-儿歌版唐诗-村居 | 1.40449559977 | 18
-儿歌版唐诗-寻胡隐君 | 1.38648924593 | 14
-春晓（童声） | 1.38482479306 | 16
-大禹治水 | 1.36913569041 | 11
-妈妈的眼睛 | 1.36193512705 | 12
-别忘了说谢谢 | 1.35934261095 | 13
-十二属相歌 | 1.33761485693 | 25
-亲亲猪猪宝贝 | 1.33707221398 | 16
-江雪（童声） | 1.32046594851 | 10
-梅花（童声） | 1.31135928679 | 12
-小兔子乖乖（故事版） | 1.30066417027 | 40
-小蚂蚁坐汽车 | 1.29963840989 | 20
-小白兔白又白 | 1.29827324349 | 15
-小壁虎借尾巴 | 1.28745429979 | 10
-小白兔上幼儿园 | 1.28477767963 | 15
-小羊睡不着 | 1.2774740339 | 24
-胡萝卜兔洗澡 | 1.26235073406 | 11
-夜宿山寺（童声） | 1.25884420424 | 11
-放牛娃 | 1.25318745531 | 16
-彩虹糖的梦 | 1.24159976309 | 11
-儿歌版唐诗-晓窗 | 1.23905376221 | 16
-儿歌版古诗-长歌行 | 1.23405757768 | 13
-儿歌版唐诗-江南 | 1.23060566837 | 23
-华佗的故事 | 1.22980709234 | 10
-英文字母歌 | 1.22980709234 | 12
-恭喜恭喜 | 1.22858462008 | 15
-十二生肖的故事 | 1.22296215491 | 16
-刺猬和兔子 | 1.21382173152 | 17
-咏鹅（童声） | 1.21172169392 | 12
-小鹦鹉学说话 | 1.21172169392 | 10
+山西省|weight|count|weight*
+---|---|---|---
+小猪照镜子 | 2.84127845472 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+兔子的尾巴 | 2.3481031789 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+黄河源头的故事 | 2.31216282412 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+童声跟读版百家姓 | 2.25402333338 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+美猴王大战二郎神（凯叔演播） | 2.17597909824 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小熊拔牙 | 2.09807367374 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版古诗-七步诗 | 2.07992616976 | 26 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+数字歌 | 2.07474649751 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+孔雀跳舞 | 1.97527235037 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+为什么不能挑食？ | 1.89855011951 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+孙悟空三借芭蕉扇 | 1.85578998168 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+采蘑菇的小兔子 | 1.84973025929 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小懒猫 | 1.7983488632 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+捏橡皮泥 | 1.79775436771 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-登鹳雀楼 | 1.77629299777 | 31 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小手拍拍 | 1.77470623479 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+望庐山瀑布 | 1.77310161794 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+孙悟空大闹天宫 | 1.77024966222 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+魔方的故事 | 1.74570074548 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+丑小鸭 | 1.73633683344 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+糊涂猪说新闻 | 1.7268848093 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小鼹鼠摘月亮（凯叔演播） | 1.72212536564 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-悯农 | 1.71660573306 | 33 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+鸟儿和树 | 1.71185059252 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+甜甜的糖葫芦 | 1.70369892303 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+老虎的大屁股 | 1.69309058603 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+豌豆上的公主 | 1.67845893899 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+肚子里的肚子里的肚子里有老鼠（凯叔演播） | 1.66611732914 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版诗词-长相思•别情 | 1.64794150374 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+白雪公主（狄菲菲演绎） | 1.64022280817 | 34 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+交朋友 | 1.63393633515 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+阿凡提分羊 | 1.60305593749 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+宝宝吃饭  | 1.5889243149 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+种子、沙子和小水滴（凯叔演播） | 1.5735552553 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版古诗-明日歌 | 1.56055066642 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Happy New | 1.55466179598 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大灰狼和三只小猪 | 1.55311947277 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-静夜思 | 1.54432244909 | 31 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+三个和尚 | 1.54173321555 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小猫刷牙 | 1.52587176272 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+棒棒天使 | 1.49186904934 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+读唐诗 | 1.48463198535 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-赋得古原草送别 | 1.4801869794 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+一字歌 | 1.47950549369 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小小的船 | 1.47137634262 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+好甜好甜的梦 | 1.46094104941 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+吃早饭 | 1.45577871355 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+孟母三迁 | 1.45406603271 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-春晓 | 1.45406603271 | 33 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+早发白帝城（童声） | 1.45226755895 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-咏鹅 | 1.4447450966 | 31 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+漂亮的春姑娘 | 1.44326087111 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小花狗找朋友 | 1.43611460021 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-相思 | 1.4282159699 | 26 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+洗洗脸 | 1.41575730561 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+动物森林 | 1.40609343322 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-村居 | 1.40449559977 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-寻胡隐君 | 1.38648924593 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+春晓（童声） | 1.38482479306 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大禹治水 | 1.36913569041 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈妈的眼睛 | 1.36193512705 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+别忘了说谢谢 | 1.35934261095 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+十二属相歌 | 1.33761485693 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+亲亲猪猪宝贝 | 1.33707221398 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+江雪（童声） | 1.32046594851 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+梅花（童声） | 1.31135928679 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小兔子乖乖（故事版） | 1.30066417027 | 40 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小蚂蚁坐汽车 | 1.29963840989 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小白兔白又白 | 1.29827324349 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小壁虎借尾巴 | 1.28745429979 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小白兔上幼儿园 | 1.28477767963 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小羊睡不着 | 1.2774740339 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+胡萝卜兔洗澡 | 1.26235073406 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+夜宿山寺（童声） | 1.25884420424 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+放牛娃 | 1.25318745531 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+彩虹糖的梦 | 1.24159976309 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-晓窗 | 1.23905376221 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版古诗-长歌行 | 1.23405757768 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-江南 | 1.23060566837 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+华佗的故事 | 1.22980709234 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+英文字母歌 | 1.22980709234 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+恭喜恭喜 | 1.22858462008 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+十二生肖的故事 | 1.22296215491 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+刺猬和兔子 | 1.21382173152 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+咏鹅（童声） | 1.21172169392 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小鹦鹉学说话 | 1.21172169392 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### addr: 云南省
 
-云南省|weight|count
----|---|---
-青春修炼手册 | 2.06014718124 | 11
-蚂蚁小黑豆儿 | 1.94479878398 | 21
-梦想起航 | 1.86453724686 | 12
-最好的未来 | 1.86135544269 | 13
-狐狸妈妈和葡萄 | 1.72642337672 | 10
-亲亲猪猪宝贝 | 1.7019102659 | 20
-小公主不生气 | 1.69659179632 | 11
-大禹治水 | 1.64766508975 | 13
-郑和下西洋 | 1.6451799237 | 10
-小熊维尼之串门的遭遇 | 1.6187300857 | 12
-蜘蛛先生要搬家 | 1.55717357407 | 17
-小拇指 | 1.55378103905 | 10
-彩虹小巫婆 | 1.55378103905 | 12
-过新年 | 1.55040325418 | 17
-小手拍拍 | 1.54900017432 | 12
-美女与野兽 | 1.54235617847 | 10
-苹果姑娘 | 1.50461075301 | 17
-苏莱曼公主阿伊达 | 1.48066193133 | 12
-渔夫和金鱼 | 1.46344493213 | 18
-隐形的翅膀 | 1.46213711718 | 13
-动物森林 | 1.43181187899 | 10
-王婆卖瓜 | 1.43181187899 | 10
-白羊村的美容院 | 1.43181187899 | 10
-小马过河 | 1.41123231987 | 11
-手捧空花盆的孩子 | 1.40132235672 | 16
-豌豆上的公主 | 1.39840293515 | 18
-百花仙子 | 1.3668600118 | 13
-洗澡歌 | 1.35631053911 | 29
-小木匠学手艺 | 1.35018214428 | 14
-兔子先生去散步 | 1.30905475355 | 21
-住在谷仓下的老鼠 | 1.30827717425 | 15
-野天鹅 | 1.30016801821 | 15
-有三根金发的鬼 | 1.29481753254 | 20
-胡萝卜火箭 | 1.29415181659 | 12
-大家一起喜羊羊 | 1.28588775646 | 16
-宝宝歌 | 1.28237823747 | 14
-起床歌 | 1.2819921534 | 29
-晚安 | 1.27902707483 | 10
-老鼠画猫 | 1.27831847257 | 11
-一字歌 | 1.27478720607 | 11
-宝宝吃饭  | 1.27127539559 | 11
-花木兰 | 1.2598224641 | 10
-妈妈宝贝 | 1.25856264163 | 15
-儿歌版唐诗-江南 | 1.25311431851 | 23
-恭喜恭喜 | 1.25105630381 | 15
-曹冲称象 | 1.23388494278 | 11
-猫头鹰宝宝 | 1.22906507972 | 15
+云南省|weight|count|weight*
+---|---|---|---
+青春修炼手册 | 2.06014718124 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+蚂蚁小黑豆儿 | 1.94479878398 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+梦想起航 | 1.86453724686 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+最好的未来 | 1.86135544269 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+狐狸妈妈和葡萄 | 1.72642337672 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+亲亲猪猪宝贝 | 1.7019102659 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小公主不生气 | 1.69659179632 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大禹治水 | 1.64766508975 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+郑和下西洋 | 1.6451799237 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小熊维尼之串门的遭遇 | 1.6187300857 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+蜘蛛先生要搬家 | 1.55717357407 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小拇指 | 1.55378103905 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+彩虹小巫婆 | 1.55378103905 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+过新年 | 1.55040325418 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小手拍拍 | 1.54900017432 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+美女与野兽 | 1.54235617847 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+苹果姑娘 | 1.50461075301 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+苏莱曼公主阿伊达 | 1.48066193133 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+渔夫和金鱼 | 1.46344493213 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+隐形的翅膀 | 1.46213711718 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+动物森林 | 1.43181187899 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+王婆卖瓜 | 1.43181187899 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+白羊村的美容院 | 1.43181187899 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小马过河 | 1.41123231987 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+手捧空花盆的孩子 | 1.40132235672 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+豌豆上的公主 | 1.39840293515 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+百花仙子 | 1.3668600118 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+洗澡歌 | 1.35631053911 | 29 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小木匠学手艺 | 1.35018214428 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+兔子先生去散步 | 1.30905475355 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+住在谷仓下的老鼠 | 1.30827717425 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+野天鹅 | 1.30016801821 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+有三根金发的鬼 | 1.29481753254 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+胡萝卜火箭 | 1.29415181659 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大家一起喜羊羊 | 1.28588775646 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+宝宝歌 | 1.28237823747 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+起床歌 | 1.2819921534 | 29 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+晚安 | 1.27902707483 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+老鼠画猫 | 1.27831847257 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+一字歌 | 1.27478720607 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+宝宝吃饭  | 1.27127539559 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+花木兰 | 1.2598224641 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈妈宝贝 | 1.25856264163 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-江南 | 1.25311431851 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+恭喜恭喜 | 1.25105630381 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+曹冲称象 | 1.23388494278 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+猫头鹰宝宝 | 1.22906507972 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### addr: 上海市
 
-上海市|weight|count
----|---|---
-白羊村的美容院 | 2.22310474702 | 10
-孟母三迁 | 2.10737252931 | 11
-孙悟空打妖怪 | 2.0515580815 | 12
-森林沉睡的宝宝 | 1.93771303922 | 13
-Heal the | 1.89351654325 | 10
-会变的汽车 | 1.84458673523 | 16
-儿歌版诗词-长相思•别情 | 1.83916148012 | 12
-儿歌版唐诗-登鹳雀楼 | 1.81187674792 | 20
-百花仙子 | 1.79575604001 | 11
-两只小羊要过桥 | 1.79440686192 | 10
-妈妈的眼睛 | 1.79440686192 | 10
-虎姑婆 | 1.77002633391 | 10
-放牛娃 | 1.73368358789 | 14
-儿歌版唐诗-村居 | 1.7271166046 | 14
-过新年 | 1.69922528055 | 12
-勃拉姆斯摇篮曲 | 1.66165737469 | 10
-小兄妹 | 1.63787349737 | 13
-住在谷仓下的老鼠 | 1.62503872984 | 12
-儿歌版唐诗-咏鹅 | 1.62105579178 | 22
-咏鹅（童声） | 1.59649434039 | 10
-三只小猪盖房子 | 1.54419538786 | 11
-儿歌版古诗-七步诗 | 1.51775461952 | 12
-三个和尚—儿歌版 | 1.5148132346 | 10
-苹果姑娘 | 1.51161742609 | 11
-宝贝乖乖睡 | 1.50123616335 | 18
-儿歌版唐诗-静夜思 | 1.49649626683 | 19
-什么动物怎样叫 | 1.49288590189 | 19
-儿歌版唐诗-相思 | 1.47643796599 | 17
-儿歌版唐诗-晓窗 | 1.46925494183 | 12
-白雪公主（狄菲菲演绎） | 1.44918315301 | 19
-儿歌版唐诗-清明 | 1.44548059002 | 16
-儿歌版唐诗-江南 | 1.43808892791 | 17
-大风车 | 1.40895274233 | 13
-乖乖吃饭歌 | 1.39828913963 | 12
-灰姑娘（男声版） | 1.39462024495 | 17
-阿拉丁神灯 | 1.39011824273 | 14
-大家一起喜羊羊 | 1.37261812254 | 11
-十二属相歌 | 1.35349546156 | 16
-狮子照哈哈镜 | 1.34580514644 | 10
-有三根金发的鬼 | 1.30676018232 | 13
-儿歌版唐诗-赋得古原草送别 | 1.30013910355 | 10
-恭喜恭喜 | 1.29496956437 | 10
-小兔子乖乖（故事版） | 1.28525984782 | 25
-小苹果 | 1.25969964392 | 24
-拍手歌 | 1.2580101326 | 18
-儿歌版古诗-明日歌 | 1.23365471757 | 10
+上海市|weight|count|weight*
+---|---|---|---
+白羊村的美容院 | 2.22310474702 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+孟母三迁 | 2.10737252931 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+孙悟空打妖怪 | 2.0515580815 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+森林沉睡的宝宝 | 1.93771303922 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Heal the | 1.89351654325 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+会变的汽车 | 1.84458673523 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版诗词-长相思•别情 | 1.83916148012 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-登鹳雀楼 | 1.81187674792 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+百花仙子 | 1.79575604001 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+两只小羊要过桥 | 1.79440686192 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈妈的眼睛 | 1.79440686192 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+虎姑婆 | 1.77002633391 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+放牛娃 | 1.73368358789 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-村居 | 1.7271166046 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+过新年 | 1.69922528055 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+勃拉姆斯摇篮曲 | 1.66165737469 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小兄妹 | 1.63787349737 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+住在谷仓下的老鼠 | 1.62503872984 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-咏鹅 | 1.62105579178 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+咏鹅（童声） | 1.59649434039 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+三只小猪盖房子 | 1.54419538786 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版古诗-七步诗 | 1.51775461952 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+三个和尚—儿歌版 | 1.5148132346 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+苹果姑娘 | 1.51161742609 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+宝贝乖乖睡 | 1.50123616335 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-静夜思 | 1.49649626683 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+什么动物怎样叫 | 1.49288590189 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-相思 | 1.47643796599 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-晓窗 | 1.46925494183 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+白雪公主（狄菲菲演绎） | 1.44918315301 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-清明 | 1.44548059002 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-江南 | 1.43808892791 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大风车 | 1.40895274233 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+乖乖吃饭歌 | 1.39828913963 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+灰姑娘（男声版） | 1.39462024495 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+阿拉丁神灯 | 1.39011824273 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大家一起喜羊羊 | 1.37261812254 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+十二属相歌 | 1.35349546156 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+狮子照哈哈镜 | 1.34580514644 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+有三根金发的鬼 | 1.30676018232 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-赋得古原草送别 | 1.30013910355 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+恭喜恭喜 | 1.29496956437 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小兔子乖乖（故事版） | 1.28525984782 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小苹果 | 1.25969964392 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+拍手歌 | 1.2580101326 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版古诗-明日歌 | 1.23365471757 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### addr: 广西壮族自治区
 
-广西壮族自治区|weight|count
----|---|---
-爷爷的肉丸子汤（凯叔演播） | 2.75936895083 | 11
-世界真美好 | 2.4567720296 | 13
-亲亲猪猪宝贝 | 2.22255644057 | 26
-感恩的心 | 2.18519722975 | 14
-玛琳姑娘 | 1.95106895513 | 10
-找朋友 | 1.9011920044 | 12
-Always With | 1.88040031581 | 17
-最好的未来 | 1.86982990649 | 13
-家庭成员称呼 | 1.84838111539 | 10
-洗澡歌 | 1.7383437112 | 37
-晚安晚安 | 1.73021481534 | 14
-江南Style | 1.72599683676 | 12
-肚子里的肚子里的肚子里有老鼠（凯叔演播） | 1.70431611669 | 11
-小山羊吃早餐 | 1.69055373075 | 14
-百花仙子 | 1.68994844836 | 16
-捏橡皮泥 | 1.68572357724 | 11
-数字谣 | 1.66753231561 | 11
-小跳蛙 | 1.64728688329 | 12
-刷牙歌 | 1.64029988803 | 13
-我要自己吃饭 | 1.63134539732 | 12
-妈妈的眼睛 | 1.62535331138 | 14
-儿歌版唐诗-咏鹅 | 1.62088805503 | 34
-儿歌版唐诗-寻胡隐君 | 1.62088805503 | 16
-彩虹糖的梦 | 1.61644726584 | 14
-青蛙不吃水 | 1.61313260979 | 16
-大风车 | 1.61279709968 | 23
-儿歌版诗词-长相思•别情 | 1.58656336681 | 16
-过年的故事 | 1.58531997859 | 12
-乖乖吃饭歌 | 1.58319298399 | 21
-隐形的翅膀 | 1.58177815558 | 14
-豌豆上的公主 | 1.56085516411 | 20
-童声跟读版百家姓 | 1.53713396101 | 12
-卡哇伊 | 1.521833785 | 13
-儿歌版唐诗-村居 | 1.51651268785 | 19
-快乐天堂 | 1.50023942958 | 11
-小红帽（儿歌版） | 1.47708528126 | 32
-虫儿音乐会 | 1.45823838861 | 10
-爸爸的爸爸叫什么 | 1.4476633774 | 27
-动物森林 | 1.4383306973 | 10
-城里老鼠和乡下老鼠 | 1.42169458321 | 14
-十二生肖的故事 | 1.40737589936 | 18
-大头儿子和小头爸爸主题曲 | 1.4047696477 | 10
-三个和尚 | 1.40184912868 | 16
-娇滴滴穿衣服的故事 | 1.4001026389 | 20
-猫头鹰宝宝 | 1.39928226626 | 17
-宝宝吃饭  | 1.39315998119 | 12
-小苹果 | 1.3923180231 | 41
-Just for | 1.39086103732 | 20
-华佗的故事 | 1.38380293654 | 11
-起床歌 | 1.37664464948 | 31
-过新年 | 1.37423117709 | 15
-十二属相歌 | 1.36828212438 | 25
-读唐诗 | 1.36680290046 | 18
-樵夫与仙女 | 1.36385402689 | 10
-放牛娃 | 1.36203901203 | 17
-Heal the | 1.34759878994 | 11
-儿歌版唐诗-赋得古原草送别 | 1.34588708761 | 16
-漂亮的春姑娘 | 1.34213660608 | 10
-小壁虎借尾巴 | 1.31697154472 | 10
-交朋友 | 1.31324074714 | 11
-小手拍拍 | 1.29671044403 | 10
-大家一起喜羊羊 | 1.29174220478 | 16
-老鼠画猫 | 1.28413845911 | 11
-大禹治水 | 1.27320511876 | 10
-什么动物怎样叫 | 1.27090137005 | 25
-拍手歌 | 1.26610139921 | 28
-妈妈宝贝 | 1.26429268293 | 15
-苹果姑娘 | 1.24473259922 | 14
-苏莱曼公主阿伊达 | 1.23950263032 | 10
-小鹦鹉学说话 | 1.23950263032 | 10
-小星星 | 1.23950263032 | 16
-快乐王子 | 1.23950263032 | 18
-儿歌版唐诗-登鹳雀楼 | 1.23088300146 | 21
-儿歌版唐诗-清明 | 1.2274686242 | 21
-住在谷仓下的老鼠 | 1.22661798759 | 14
-野天鹅 | 1.21901498354 | 14
-宝葫芦的故事 | 1.2177023328 | 23
-儿歌版唐诗-江南 | 1.20408826945 | 22
-小小手 | 1.20408826945 | 22
-静夜思（童声） | 1.20163595119 | 14
+广西壮族自治区|weight|count|weight*
+---|---|---|---
+爷爷的肉丸子汤（凯叔演播） | 2.75936895083 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+世界真美好 | 2.4567720296 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+亲亲猪猪宝贝 | 2.22255644057 | 26 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+感恩的心 | 2.18519722975 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+玛琳姑娘 | 1.95106895513 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+找朋友 | 1.9011920044 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Always With | 1.88040031581 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+最好的未来 | 1.86982990649 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+家庭成员称呼 | 1.84838111539 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+洗澡歌 | 1.7383437112 | 37 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+晚安晚安 | 1.73021481534 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+江南Style | 1.72599683676 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+肚子里的肚子里的肚子里有老鼠（凯叔演播） | 1.70431611669 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小山羊吃早餐 | 1.69055373075 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+百花仙子 | 1.68994844836 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+捏橡皮泥 | 1.68572357724 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+数字谣 | 1.66753231561 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小跳蛙 | 1.64728688329 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+刷牙歌 | 1.64029988803 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+我要自己吃饭 | 1.63134539732 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈妈的眼睛 | 1.62535331138 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-咏鹅 | 1.62088805503 | 34 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-寻胡隐君 | 1.62088805503 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+彩虹糖的梦 | 1.61644726584 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+青蛙不吃水 | 1.61313260979 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大风车 | 1.61279709968 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版诗词-长相思•别情 | 1.58656336681 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+过年的故事 | 1.58531997859 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+乖乖吃饭歌 | 1.58319298399 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+隐形的翅膀 | 1.58177815558 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+豌豆上的公主 | 1.56085516411 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+童声跟读版百家姓 | 1.53713396101 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+卡哇伊 | 1.521833785 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-村居 | 1.51651268785 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+快乐天堂 | 1.50023942958 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小红帽（儿歌版） | 1.47708528126 | 32 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+虫儿音乐会 | 1.45823838861 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+爸爸的爸爸叫什么 | 1.4476633774 | 27 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+动物森林 | 1.4383306973 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+城里老鼠和乡下老鼠 | 1.42169458321 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+十二生肖的故事 | 1.40737589936 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大头儿子和小头爸爸主题曲 | 1.4047696477 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+三个和尚 | 1.40184912868 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+娇滴滴穿衣服的故事 | 1.4001026389 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+猫头鹰宝宝 | 1.39928226626 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+宝宝吃饭  | 1.39315998119 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小苹果 | 1.3923180231 | 41 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Just for | 1.39086103732 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+华佗的故事 | 1.38380293654 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+起床歌 | 1.37664464948 | 31 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+过新年 | 1.37423117709 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+十二属相歌 | 1.36828212438 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+读唐诗 | 1.36680290046 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+樵夫与仙女 | 1.36385402689 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+放牛娃 | 1.36203901203 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Heal the | 1.34759878994 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-赋得古原草送别 | 1.34588708761 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+漂亮的春姑娘 | 1.34213660608 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小壁虎借尾巴 | 1.31697154472 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+交朋友 | 1.31324074714 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小手拍拍 | 1.29671044403 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大家一起喜羊羊 | 1.29174220478 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+老鼠画猫 | 1.28413845911 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大禹治水 | 1.27320511876 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+什么动物怎样叫 | 1.27090137005 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+拍手歌 | 1.26610139921 | 28 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈妈宝贝 | 1.26429268293 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+苹果姑娘 | 1.24473259922 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+苏莱曼公主阿伊达 | 1.23950263032 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小鹦鹉学说话 | 1.23950263032 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小星星 | 1.23950263032 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+快乐王子 | 1.23950263032 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-登鹳雀楼 | 1.23088300146 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-清明 | 1.2274686242 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+住在谷仓下的老鼠 | 1.22661798759 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+野天鹅 | 1.21901498354 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+宝葫芦的故事 | 1.2177023328 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-江南 | 1.20408826945 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小小手 | 1.20408826945 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+静夜思（童声） | 1.20163595119 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### addr: 重庆市
 
-重庆市|weight|count
----|---|---
-笛子版梁祝-化蝶 | 3.45136620463 | 10
-为什么不能挑食？ | 3.35593672432 | 10
-王婆卖瓜 | 2.48545484361 | 10
-游子吟 | 2.03229284421 | 12
-青蛙王子 | 1.84364118779 | 10
-孔融让梨 | 1.77186926807 | 10
-两位商人 | 1.73685447504 | 14
-灰姑娘（女声版） | 1.60889850167 | 19
-摇篮曲 | 1.52351102338 | 10
-小红帽（狄菲菲演绎） | 1.50608887786 | 17
-儿歌版唐诗-晓窗 | 1.50575581973 | 11
-儿歌版古诗-七步诗 | 1.41405489161 | 10
-刺猬和兔子 | 1.38832252356 | 11
-仙女们 | 1.36919063535 | 16
-早发白帝城（童声） | 1.35109140849 | 10
-白雪公主 | 1.32286697398 | 20
-儿歌版唐诗-春晓 | 1.24618313442 | 16
-狼来了（男声版） | 1.2392443019 | 17
-儿歌版唐诗-静夜思 | 1.23280964552 | 14
-儿歌版唐诗-江南 | 1.22949318173 | 13
-儿歌版唐诗-清明 | 1.21204704995 | 12
-Just for | 1.20171331547 | 10
+重庆市|weight|count|weight*
+---|---|---|---
+笛子版梁祝-化蝶 | 3.45136620463 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+为什么不能挑食？ | 3.35593672432 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+王婆卖瓜 | 2.48545484361 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+游子吟 | 2.03229284421 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+青蛙王子 | 1.84364118779 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+孔融让梨 | 1.77186926807 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+两位商人 | 1.73685447504 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+灰姑娘（女声版） | 1.60889850167 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+摇篮曲 | 1.52351102338 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小红帽（狄菲菲演绎） | 1.50608887786 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-晓窗 | 1.50575581973 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版古诗-七步诗 | 1.41405489161 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+刺猬和兔子 | 1.38832252356 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+仙女们 | 1.36919063535 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+早发白帝城（童声） | 1.35109140849 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+白雪公主 | 1.32286697398 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-春晓 | 1.24618313442 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+狼来了（男声版） | 1.2392443019 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-静夜思 | 1.23280964552 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-江南 | 1.22949318173 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-清明 | 1.21204704995 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Just for | 1.20171331547 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### addr: 江苏省
 
-江苏省|weight|count
----|---|---
-彭野新儿歌-老歌新唱 | 8.99852443364 | 22
-爸爸去哪儿动画连环画（三） | 2.54733833219 | 12
-爸爸去哪儿动画连环画（四） | 2.43926943325 | 16
-到处都是泥巴味 | 2.27592549799 | 19
-爸爸去哪儿动画连环画（六） | 2.24963110841 | 11
-月亮和姑娘 | 2.21142558509 | 12
-爸爸去哪儿动画连环画（五） | 2.21142558509 | 12
-听听小线报-国王与小偷 | 2.20657596758 | 25
-勇敢甜甜圈 | 2.07036757452 | 20
-森碟不是爱哭鬼 | 2.02714011967 | 11
-驴小弟变石头（凯叔演播） | 2.00838052139 | 20
-爸爸去哪儿动画连环画（八） | 2.00008904217 | 13
-拖拉鬼的生日派对 | 1.92628118251 | 17
-听听小线报-侦探小子和朋友们 | 1.86333081707 | 26
-听听小线报-黑猫的秘密 | 1.85189933966 | 18
-做个小小男子汉 | 1.77863396175 | 21
-巴啦啦小魔仙主题曲 | 1.76930953731 | 23
-小公主大明星 | 1.73482524348 | 12
-左手右手 | 1.67699773536 | 16
-小猫儿不要叫 | 1.67699773536 | 15
-黑猫警长之地道擒贼 | 1.67351125358 | 48
-妈妈丢了 | 1.63609535157 | 16
-武则天催花 | 1.63343935262 | 15
-奶奶的护身符（凯叔演播） | 1.63247567159 | 11
-《爸爸去哪儿》第二季主题曲 | 1.61249782246 | 25
-恐龙妈妈藏蛋 | 1.58456478932 | 12
-一只奇特的蛋（凯叔演播） | 1.55277568089 | 15
-赶海的小姑娘 | 1.53527961688 | 13
-农夫和兔子、井里的青蛙 | 1.53228219475 | 18
-爸爸去哪儿动画连环画（九） | 1.52454339578 | 12
-听听小线报-北极女巫的故事 | 1.51854125643 | 23
-红蜡烛与美人鱼 | 1.51535939942 | 15
-中元节 劈山救母（下）（凯叔演播） | 1.49731940657 | 10
-青蛙不吃水 | 1.48442383274 | 37
-听听小线报-围裙妈妈日记 | 1.46590711133 | 25
-黎族催眠曲 | 1.46404564198 | 11
-大头儿子和小头爸爸主题曲 | 1.45339803731 | 26
-虫儿音乐会 | 1.45069008249 | 25
-爸爸演唱的天籁摇篮曲 | 1.43427437893 | 13
-懒熊买西瓜 | 1.4272321152 | 16
-四只老鼠和一只小猫的故事（凯叔演播） | 1.42245343624 | 19
-丑小鸭-狄菲菲演绎 | 1.42025866838 | 26
-小兔当家（凯叔演播） | 1.41968062253 | 16
-小蚂蚁坐汽车 | 1.4019066242 | 53
-老鼠画猫 | 1.39362692689 | 30
-雪花仙后 | 1.38729739665 | 34
-妈咪的怀抱里 | 1.3846770292 | 27
-土拨鼠和他的好朋友 | 1.37458830767 | 10
-一百只老鼠 | 1.36750888291 | 19
-虎姑婆 | 1.36711771904 | 30
-睡吧小宝贝 | 1.36711771904 | 15
-十二生肖歌 | 1.36406514359 | 17
-美妙的旋律 | 1.36256065998 | 13
-睡美人 | 1.35514968514 | 56
-司马光砸缸 | 1.35241752852 | 15
-小熊维尼之串门的遭遇 | 1.3480689191 | 25
-百花仙子 | 1.34496058976 | 32
-自行车蚊子埃贡（凯叔演播） | 1.34159818829 | 10
-自认为是狗的猫和自认为是猫的狗 | 1.32831503791 | 16
-花仙子 | 1.31100800158 | 24
-美猴王大战二郎神（凯叔演播） | 1.29908275274 | 22
-我要自己吃饭 | 1.29832082738 | 24
-餐桌上的故事 | 1.29497894622 | 20
-肚子里的肚子里的肚子里有老鼠（凯叔演播） | 1.29474089862 | 21
-可爱的男孩 | 1.28587685778 | 24
-小恐龙是从什么地方来的？ | 1.28479665209 | 19
-鲁鲁龙的礼物（凯叔演播） | 1.28178170856 | 12
-莴苣姑娘 | 1.27800942658 | 41
-孙悟空打妖怪 | 1.27645496917 | 29
-一只小老鼠 | 1.26831761498 | 18
-熊爸爸（凯叔演播） | 1.26749828835 | 13
-第一只犰狳是怎么来的 | 1.2656586682 | 12
-小兄妹 | 1.26504664756 | 39
-一个长上天的大苹果（凯叔演播） | 1.26225635995 | 14
-夜莺 | 1.2609005529 | 20
-不讲信用的奇奇兔 | 1.26017170865 | 13
-花木兰 | 1.25900730883 | 25
-爸爸的爸爸叫什么 | 1.25881509397 | 59
-大风车 | 1.25565554228 | 45
-我不知道我是谁（凯叔演播） | 1.25489626456 | 11
-睡不着 | 1.25064237891 | 22
-两只小羊要过桥 | 1.24735368746 | 27
-小美人鱼 | 1.24441528066 | 84
-梦想起航 | 1.24222054471 | 20
-摇到外婆桥 | 1.23980377322 | 19
-一条哪里也不通的路（凯叔演播） | 1.23308657012 | 10
-美女与野兽 | 1.23308657012 | 20
-胡狼与大象 | 1.23308657012 | 15
-入睡 | 1.22921299974 | 14
-两位商人 | 1.2284651213 | 43
-宝宝快吃饭 | 1.22707151368 | 15
-三只熊的故事 | 1.22549834507 | 19
-犀牛皮为什么又粗又皱 | 1.22210361281 | 18
-摇呀摇小宝宝 | 1.21793131618 | 13
-猫头鹰宝宝 | 1.21189289469 | 37
-冰淇淋合唱团 | 1.21116503109 | 13
-雪女王 | 1.20937336685 | 15
-三个和尚—儿歌版 | 1.20899836735 | 31
-快乐王子 | 1.20568464634 | 44
-坚持到底的小乌龟 | 1.2032270747 | 16
+江苏省|weight|count|weight*
+---|---|---|---
+彭野新儿歌-老歌新唱 | 8.99852443364 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+爸爸去哪儿动画连环画（三） | 2.54733833219 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+爸爸去哪儿动画连环画（四） | 2.43926943325 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+到处都是泥巴味 | 2.27592549799 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+爸爸去哪儿动画连环画（六） | 2.24963110841 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+月亮和姑娘 | 2.21142558509 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+爸爸去哪儿动画连环画（五） | 2.21142558509 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+听听小线报-国王与小偷 | 2.20657596758 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+勇敢甜甜圈 | 2.07036757452 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+森碟不是爱哭鬼 | 2.02714011967 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+驴小弟变石头（凯叔演播） | 2.00838052139 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+爸爸去哪儿动画连环画（八） | 2.00008904217 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+拖拉鬼的生日派对 | 1.92628118251 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+听听小线报-侦探小子和朋友们 | 1.86333081707 | 26 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+听听小线报-黑猫的秘密 | 1.85189933966 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+做个小小男子汉 | 1.77863396175 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+巴啦啦小魔仙主题曲 | 1.76930953731 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小公主大明星 | 1.73482524348 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+左手右手 | 1.67699773536 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小猫儿不要叫 | 1.67699773536 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+黑猫警长之地道擒贼 | 1.67351125358 | 48 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈妈丢了 | 1.63609535157 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+武则天催花 | 1.63343935262 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+奶奶的护身符（凯叔演播） | 1.63247567159 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+《爸爸去哪儿》第二季主题曲 | 1.61249782246 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+恐龙妈妈藏蛋 | 1.58456478932 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+一只奇特的蛋（凯叔演播） | 1.55277568089 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+赶海的小姑娘 | 1.53527961688 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+农夫和兔子、井里的青蛙 | 1.53228219475 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+爸爸去哪儿动画连环画（九） | 1.52454339578 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+听听小线报-北极女巫的故事 | 1.51854125643 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+红蜡烛与美人鱼 | 1.51535939942 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+中元节 劈山救母（下）（凯叔演播） | 1.49731940657 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+青蛙不吃水 | 1.48442383274 | 37 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+听听小线报-围裙妈妈日记 | 1.46590711133 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+黎族催眠曲 | 1.46404564198 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大头儿子和小头爸爸主题曲 | 1.45339803731 | 26 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+虫儿音乐会 | 1.45069008249 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+爸爸演唱的天籁摇篮曲 | 1.43427437893 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+懒熊买西瓜 | 1.4272321152 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+四只老鼠和一只小猫的故事（凯叔演播） | 1.42245343624 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+丑小鸭-狄菲菲演绎 | 1.42025866838 | 26 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小兔当家（凯叔演播） | 1.41968062253 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小蚂蚁坐汽车 | 1.4019066242 | 53 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+老鼠画猫 | 1.39362692689 | 30 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+雪花仙后 | 1.38729739665 | 34 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈咪的怀抱里 | 1.3846770292 | 27 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+土拨鼠和他的好朋友 | 1.37458830767 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+一百只老鼠 | 1.36750888291 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+虎姑婆 | 1.36711771904 | 30 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+睡吧小宝贝 | 1.36711771904 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+十二生肖歌 | 1.36406514359 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+美妙的旋律 | 1.36256065998 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+睡美人 | 1.35514968514 | 56 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+司马光砸缸 | 1.35241752852 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小熊维尼之串门的遭遇 | 1.3480689191 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+百花仙子 | 1.34496058976 | 32 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+自行车蚊子埃贡（凯叔演播） | 1.34159818829 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+自认为是狗的猫和自认为是猫的狗 | 1.32831503791 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+花仙子 | 1.31100800158 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+美猴王大战二郎神（凯叔演播） | 1.29908275274 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+我要自己吃饭 | 1.29832082738 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+餐桌上的故事 | 1.29497894622 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+肚子里的肚子里的肚子里有老鼠（凯叔演播） | 1.29474089862 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+可爱的男孩 | 1.28587685778 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小恐龙是从什么地方来的？ | 1.28479665209 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+鲁鲁龙的礼物（凯叔演播） | 1.28178170856 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+莴苣姑娘 | 1.27800942658 | 41 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+孙悟空打妖怪 | 1.27645496917 | 29 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+一只小老鼠 | 1.26831761498 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+熊爸爸（凯叔演播） | 1.26749828835 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+第一只犰狳是怎么来的 | 1.2656586682 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小兄妹 | 1.26504664756 | 39 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+一个长上天的大苹果（凯叔演播） | 1.26225635995 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+夜莺 | 1.2609005529 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+不讲信用的奇奇兔 | 1.26017170865 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+花木兰 | 1.25900730883 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+爸爸的爸爸叫什么 | 1.25881509397 | 59 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大风车 | 1.25565554228 | 45 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+我不知道我是谁（凯叔演播） | 1.25489626456 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+睡不着 | 1.25064237891 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+两只小羊要过桥 | 1.24735368746 | 27 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小美人鱼 | 1.24441528066 | 84 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+梦想起航 | 1.24222054471 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+摇到外婆桥 | 1.23980377322 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+一条哪里也不通的路（凯叔演播） | 1.23308657012 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+美女与野兽 | 1.23308657012 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+胡狼与大象 | 1.23308657012 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+入睡 | 1.22921299974 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+两位商人 | 1.2284651213 | 43 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+宝宝快吃饭 | 1.22707151368 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+三只熊的故事 | 1.22549834507 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+犀牛皮为什么又粗又皱 | 1.22210361281 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+摇呀摇小宝宝 | 1.21793131618 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+猫头鹰宝宝 | 1.21189289469 | 37 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+冰淇淋合唱团 | 1.21116503109 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+雪女王 | 1.20937336685 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+三个和尚—儿歌版 | 1.20899836735 | 31 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+快乐王子 | 1.20568464634 | 44 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+坚持到底的小乌龟 | 1.2032270747 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### addr: 黑龙江省
 
-黑龙江省|weight|count
----|---|---
-多吃糖为什么不好？ | 2.32398407518 | 10
-小熊维尼之串门的遭遇 | 2.19694957589 | 12
-睡不着 | 2.12309731614 | 11
-勇敢的小裁缝 | 2.10525616222 | 22
-童声跟读版百家姓 | 2.07675172675 | 12
-睡美人 | 2.05402632907 | 25
-我要自己吃饭 | 2.02036680084 | 11
-胡萝卜火箭 | 1.90279930063 | 13
-木偶奇遇记 | 1.81909296619 | 10
-野狼和七只小羊 | 1.74744582635 | 12
-静夜思（童声） | 1.73943818254 | 15
-阿拉丁神灯 | 1.73590273908 | 20
-别忘了说谢谢 | 1.73414040127 | 12
-三只小猪盖房子 | 1.71794512454 | 14
-猫头鹰宝宝 | 1.66809403833 | 15
-玛丽莎和小精灵 | 1.66312606067 | 17
-雪花仙后 | 1.66241196618 | 12
-灰姑娘（男声版） | 1.64932622968 | 23
-妈妈生气了 | 1.64105893028 | 23
-聪明的小绵羊 | 1.61754573414 | 10
-莴苣姑娘 | 1.5874798283 | 15
-小美人鱼 | 1.5592454992 | 31
-住在谷仓下的老鼠 | 1.53885432005 | 13
-拇指姑娘 | 1.48902840184 | 21
-游子吟 | 1.45654350758 | 11
-青蛙王子 | 1.44145847701 | 10
-狮子和老鼠 | 1.43447466656 | 13
-手捧空花盆的孩子 | 1.42641193758 | 12
-龟兔赛跑 | 1.39530901589 | 31
-仙女们 | 1.33813419135 | 20
-驴皮公主 | 1.33765579812 | 23
-小木匠学手艺 | 1.30891057108 | 10
-早发白帝城（童声） | 1.26762767737 | 12
-两位商人 | 1.26096921285 | 13
-公主和豌豆 | 1.25792393837 | 19
-蜘蛛先生要搬家 | 1.24317925419 | 10
-小花狗找朋友 | 1.24047080265 | 10
-宝葫芦的故事 | 1.21600423029 | 17
-小兄妹 | 1.21143850727 | 11
-会变的汽车 | 1.20929436832 | 12
-山行（童声） | 1.20630529326 | 10
+黑龙江省|weight|count|weight*
+---|---|---|---
+多吃糖为什么不好？ | 2.32398407518 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小熊维尼之串门的遭遇 | 2.19694957589 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+睡不着 | 2.12309731614 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+勇敢的小裁缝 | 2.10525616222 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+童声跟读版百家姓 | 2.07675172675 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+睡美人 | 2.05402632907 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+我要自己吃饭 | 2.02036680084 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+胡萝卜火箭 | 1.90279930063 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+木偶奇遇记 | 1.81909296619 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+野狼和七只小羊 | 1.74744582635 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+静夜思（童声） | 1.73943818254 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+阿拉丁神灯 | 1.73590273908 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+别忘了说谢谢 | 1.73414040127 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+三只小猪盖房子 | 1.71794512454 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+猫头鹰宝宝 | 1.66809403833 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+玛丽莎和小精灵 | 1.66312606067 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+雪花仙后 | 1.66241196618 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+灰姑娘（男声版） | 1.64932622968 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈妈生气了 | 1.64105893028 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+聪明的小绵羊 | 1.61754573414 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+莴苣姑娘 | 1.5874798283 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小美人鱼 | 1.5592454992 | 31 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+住在谷仓下的老鼠 | 1.53885432005 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+拇指姑娘 | 1.48902840184 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+游子吟 | 1.45654350758 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+青蛙王子 | 1.44145847701 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+狮子和老鼠 | 1.43447466656 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+手捧空花盆的孩子 | 1.42641193758 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+龟兔赛跑 | 1.39530901589 | 31 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+仙女们 | 1.33813419135 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+驴皮公主 | 1.33765579812 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小木匠学手艺 | 1.30891057108 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+早发白帝城（童声） | 1.26762767737 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+两位商人 | 1.26096921285 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+公主和豌豆 | 1.25792393837 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+蜘蛛先生要搬家 | 1.24317925419 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小花狗找朋友 | 1.24047080265 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+宝葫芦的故事 | 1.21600423029 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小兄妹 | 1.21143850727 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+会变的汽车 | 1.20929436832 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+山行（童声） | 1.20630529326 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### addr: 江西省
 
-江西省|weight|count
----|---|---
-狗咬吕洞宾 | 2.6692569845 | 11
-小拇指 | 2.27201402586 | 16
-宝宝吃饭  | 2.21803022153 | 21
-壕球球的独白 | 2.13001314924 | 10
-彼得·潘 | 2.11930956558 | 11
-温暖的冬天 | 2.00829811214 | 11
-笛子版梁祝-化蝶 | 1.99878011161 | 11
-坚强的葛丽莎 | 1.99688732742 | 10
-王婆卖瓜 | 1.96281075186 | 15
-悯农（锄禾日当午） | 1.93459909885 | 11
-美猴王大战二郎神（凯叔演播） | 1.75501083424 | 13
-别忘了说谢谢 | 1.75158441714 | 18
-望庐山瀑布（童声） | 1.71522111492 | 17
-月儿明风儿静 | 1.69374539578 | 11
-摇篮曲 | 1.6844037038 | 21
-森林沉睡的宝宝 | 1.66696681245 | 19
-小手拍拍 | 1.65157942649 | 14
-我还有点小糊涂 | 1.62458630027 | 10
-小鼹鼠摘月亮（凯叔演播） | 1.60264654959 | 13
-江雪（童声） | 1.59750986193 | 13
-小男子汉-自己的事情自己做 | 1.59148152283 | 11
-咏柳（童声） | 1.58805714086 | 14
-虎姑婆 | 1.56278138667 | 15
-挑食的叮当狗 | 1.53360946746 | 10
-数字谣 | 1.517059725 | 11
-听听小线报-北极女巫的故事 | 1.50945813726 | 10
-大禹治水 | 1.50580990007 | 13
-郑和下西洋 | 1.50353869358 | 10
-胡萝卜兔洗澡 | 1.49516243345 | 14
-小蝌蚪找妈妈 | 1.49377545531 | 15
-《爸爸去哪儿》第二季主题曲 | 1.47462448794 | 10
-妈祖的故事 | 1.46336781246 | 10
-大象的鼻子为什么那么长 | 1.46336781246 | 10
-洗洗脸 | 1.44928729742 | 11
-儿歌版诗词-长相思•别情 | 1.44339714584 | 16
-悯农（童声） | 1.42622324654 | 17
-梅花（童声） | 1.42377536766 | 14
-感恩的心 | 1.42000876616 | 10
-渔夫和金鱼 | 1.41175290124 | 19
-小马过河 | 1.4069811628 | 12
-吃饭不挑剔 | 1.3841240681 | 10
-爱我你就抱抱我 | 1.34424610333 | 23
-妈妈抱爸爸抱 | 1.33462849225 | 11
-过年的故事 | 1.32207712712 | 11
-小壁虎借尾巴 | 1.31794563609 | 11
-小猫刷牙 | 1.30167470232 | 11
-儿歌版唐诗-咏鹅 | 1.30113925406 | 30
-儿歌版唐诗-晓窗 | 1.2972260533 | 18
-什么动物怎样叫 | 1.29496577469 | 28
-儿歌版唐诗-寻胡隐君 | 1.29029642695 | 14
-儿歌版唐诗-相思 | 1.27800788955 | 25
-夜宿山寺（童声） | 1.27800788955 | 12
-小白兔上幼儿园 | 1.27535090849 | 16
-花木兰 | 1.26649430496 | 11
-宝葫芦的故事 | 1.25231928875 | 26
-登幽州台歌 | 1.24481287943 | 10
-苏莱曼公主阿伊达 | 1.24041942221 | 11
-聪明的小山羊 | 1.23110851745 | 14
-儿歌版唐诗-赋得古原草送别 | 1.22443869657 | 16
-咏鹅（童声） | 1.22162518854 | 13
+江西省|weight|count|weight*
+---|---|---|---
+狗咬吕洞宾 | 2.6692569845 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小拇指 | 2.27201402586 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+宝宝吃饭  | 2.21803022153 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+壕球球的独白 | 2.13001314924 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+彼得·潘 | 2.11930956558 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+温暖的冬天 | 2.00829811214 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+笛子版梁祝-化蝶 | 1.99878011161 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+坚强的葛丽莎 | 1.99688732742 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+王婆卖瓜 | 1.96281075186 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+悯农（锄禾日当午） | 1.93459909885 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+美猴王大战二郎神（凯叔演播） | 1.75501083424 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+别忘了说谢谢 | 1.75158441714 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+望庐山瀑布（童声） | 1.71522111492 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+月儿明风儿静 | 1.69374539578 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+摇篮曲 | 1.6844037038 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+森林沉睡的宝宝 | 1.66696681245 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小手拍拍 | 1.65157942649 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+我还有点小糊涂 | 1.62458630027 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小鼹鼠摘月亮（凯叔演播） | 1.60264654959 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+江雪（童声） | 1.59750986193 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小男子汉-自己的事情自己做 | 1.59148152283 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+咏柳（童声） | 1.58805714086 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+虎姑婆 | 1.56278138667 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+挑食的叮当狗 | 1.53360946746 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+数字谣 | 1.517059725 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+听听小线报-北极女巫的故事 | 1.50945813726 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大禹治水 | 1.50580990007 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+郑和下西洋 | 1.50353869358 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+胡萝卜兔洗澡 | 1.49516243345 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小蝌蚪找妈妈 | 1.49377545531 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+《爸爸去哪儿》第二季主题曲 | 1.47462448794 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈祖的故事 | 1.46336781246 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大象的鼻子为什么那么长 | 1.46336781246 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+洗洗脸 | 1.44928729742 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版诗词-长相思•别情 | 1.44339714584 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+悯农（童声） | 1.42622324654 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+梅花（童声） | 1.42377536766 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+感恩的心 | 1.42000876616 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+渔夫和金鱼 | 1.41175290124 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小马过河 | 1.4069811628 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+吃饭不挑剔 | 1.3841240681 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+爱我你就抱抱我 | 1.34424610333 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈妈抱爸爸抱 | 1.33462849225 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+过年的故事 | 1.32207712712 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小壁虎借尾巴 | 1.31794563609 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小猫刷牙 | 1.30167470232 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-咏鹅 | 1.30113925406 | 30 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-晓窗 | 1.2972260533 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+什么动物怎样叫 | 1.29496577469 | 28 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-寻胡隐君 | 1.29029642695 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-相思 | 1.27800788955 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+夜宿山寺（童声） | 1.27800788955 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小白兔上幼儿园 | 1.27535090849 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+花木兰 | 1.26649430496 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+宝葫芦的故事 | 1.25231928875 | 26 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+登幽州台歌 | 1.24481287943 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+苏莱曼公主阿伊达 | 1.24041942221 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+聪明的小山羊 | 1.23110851745 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-赋得古原草送别 | 1.22443869657 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+咏鹅（童声） | 1.22162518854 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### addr: 浙江省
 
-浙江省|weight|count
----|---|---
-爸爸去哪儿动画连环画（四） | 2.24847964327 | 10
-拖拉鬼的生日派对 | 2.17251749316 | 13
-天鹅湖 | 2.00957868117 | 13
-国王与鹳 | 1.99461903838 | 20
-狮子和兔子 | 1.91730822294 | 10
-聪明的小绵羊 | 1.89715469901 | 27
-狐狸妈妈和葡萄 | 1.83209452415 | 18
-小小旅行家 | 1.82758197606 | 15
-狮子、熊和狐狸 | 1.82019780646 | 17
-熊与狐狸 | 1.809751908 | 18
-勇敢的小裁缝 | 1.78744684246 | 43
-到处都是泥巴味 | 1.76666257685 | 10
-聪明的小山羊 | 1.75855862008 | 31
-七色花 | 1.74881750032 | 14
-农夫和宝石 | 1.74294898522 | 21
-司马光做错事 | 1.72866983327 | 13
-美女与野兽 | 1.72769207884 | 19
-三只小猪盖房子 | 1.70574317765 | 32
-牧鹅姑娘 | 1.70041273022 | 11
-樵夫与仙女 | 1.68090225759 | 21
-勇敢甜甜圈 | 1.67941998047 | 11
-兔子的尾巴 | 1.66597196367 | 13
-住在谷仓下的老鼠 | 1.64545703624 | 32
-火车大王的故事 | 1.62913794512 | 11
-过马路歌 | 1.62718921552 | 10
-为什么不能多吃巧克力？ | 1.60483089042 | 17
-为什么不能挑食？ | 1.59569523071 | 14
-指南针的发明 | 1.58837552781 | 14
-Im A | 1.58177928393 | 11
-野狼和七只小羊 | 1.58141151381 | 25
-偷东西的小孩与他的母亲 | 1.57314123451 | 18
-拇指姑娘 | 1.57085564119 | 51
-白雪公主（狄菲菲演绎） | 1.56393080574 | 54
-城里老鼠和乡下老鼠 | 1.54955464572 | 26
-小蝌蚪找妈妈 | 1.54181461253 | 24
-莴苣姑娘 | 1.51709685968 | 33
-当家里来了陌生人 | 1.49898642885 | 12
-卡农 | 1.49898642885 | 10
-漂亮的春姑娘 | 1.49659950778 | 19
-最后的晚餐 | 1.48995639012 | 10
-神奇的斧子 | 1.48051300455 | 17
-睡吧小宝贝 | 1.47861976541 | 11
-懒熊买西瓜 | 1.4471597704 | 11
-手捧空花盆的孩子 | 1.44578649296 | 28
-青蛙王子 | 1.4401654424 | 23
-小马过河 | 1.43710166802 | 19
-瓦特与蒸汽机 | 1.42966913734 | 10
-不讲信用的奇奇兔 | 1.42966913734 | 10
-龟兔赛跑 | 1.42729577355 | 73
-家庭礼貌称呼歌 | 1.42442951223 | 11
-金发公主 | 1.42188273962 | 38
-公交安全儿歌 | 1.41644312329 | 13
-大象的鼻子为什么那么长 | 1.41602725626 | 15
-快乐王子 | 1.41448474291 | 35
-小红帽（狄菲菲演绎） | 1.4141897513 | 47
-华佗的故事 | 1.40278282222 | 19
-小美人鱼 | 1.39834776401 | 64
-美猴王大战二郎神（凯叔演播） | 1.39342400428 | 16
-小壁虎借尾巴 | 1.39124677927 | 18
-兔子吓跑了老虎 | 1.38853479725 | 16
-雪花仙后 | 1.38410060766 | 23
-小国王 | 1.37407089311 | 10
-豌豆上的公主 | 1.37407089311 | 30
-不是我的我不要 | 1.36716601425 | 11
-小狗熊拔牙 | 1.36409940622 | 38
-小公主不生气 | 1.36396743066 | 15
-自己收拾玩具 | 1.35897121296 | 10
-聪明的一休 | 1.35456075872 | 27
-公主和豌豆 | 1.35170229717 | 47
-摇到外婆桥 | 1.34733799636 | 14
-小花狗找朋友 | 1.34712832658 | 25
-不能贪吃糖 | 1.34532464012 | 13
-咏鹅（童声） | 1.33365704331 | 22
-坚持到底的小乌龟 | 1.33093862292 | 12
-咏柳（童声） | 1.3171567141 | 18
-乌鸦和狐狸的故事 | 1.3090034692 | 19
-仙女们 | 1.30787006277 | 45
-英文字母歌 | 1.29203680994 | 21
-小跳蛙 | 1.28903067497 | 16
-黑猫警长之地道擒贼 | 1.28551330956 | 25
-灰姑娘（男声版） | 1.27715909208 | 41
-听听小线报-北极女巫的故事 | 1.2658763346 | 13
-好奇的小老虎 | 1.26542342714 | 11
-两位商人 | 1.26405158821 | 30
-孔融让梨 | 1.26374403308 | 21
-白雪公主 | 1.25800495936 | 56
-山行（童声） | 1.25762420725 | 24
-农夫和兔子、井里的青蛙 | 1.25549624751 | 10
-苹果姑娘 | 1.252317776 | 24
-狮子和老鼠 | 1.24625034491 | 26
-公主和七兄弟 | 1.24357254013 | 27
-宝葫芦的故事 | 1.24287819477 | 40
-小蜡笔大罢工（凯叔演播） | 1.2366638038 | 10
-小白兔上幼儿园 | 1.23409277718 | 24
-渔家摇篮曲 | 1.23051124756 | 10
-孙悟空三借芭蕉扇 | 1.22552268845 | 11
-学害怕的人 | 1.21496794759 | 14
-青春修炼手册 | 1.21458052159 | 11
-睡美人 | 1.2134652043 | 34
-多吃糖为什么不好？ | 1.21142576699 | 12
-虎姑婆 | 1.20977980806 | 18
-花仙子 | 1.20846625778 | 15
-猫头鹰宝宝 | 1.2076794959 | 25
-吹牛青蛙 | 1.2038320214 | 11
+浙江省|weight|count|weight*
+---|---|---|---
+爸爸去哪儿动画连环画（四） | 2.24847964327 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+拖拉鬼的生日派对 | 2.17251749316 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+天鹅湖 | 2.00957868117 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+国王与鹳 | 1.99461903838 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+狮子和兔子 | 1.91730822294 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+聪明的小绵羊 | 1.89715469901 | 27 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+狐狸妈妈和葡萄 | 1.83209452415 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小小旅行家 | 1.82758197606 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+狮子、熊和狐狸 | 1.82019780646 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+熊与狐狸 | 1.809751908 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+勇敢的小裁缝 | 1.78744684246 | 43 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+到处都是泥巴味 | 1.76666257685 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+聪明的小山羊 | 1.75855862008 | 31 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+七色花 | 1.74881750032 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+农夫和宝石 | 1.74294898522 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+司马光做错事 | 1.72866983327 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+美女与野兽 | 1.72769207884 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+三只小猪盖房子 | 1.70574317765 | 32 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+牧鹅姑娘 | 1.70041273022 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+樵夫与仙女 | 1.68090225759 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+勇敢甜甜圈 | 1.67941998047 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+兔子的尾巴 | 1.66597196367 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+住在谷仓下的老鼠 | 1.64545703624 | 32 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+火车大王的故事 | 1.62913794512 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+过马路歌 | 1.62718921552 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+为什么不能多吃巧克力？ | 1.60483089042 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+为什么不能挑食？ | 1.59569523071 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+指南针的发明 | 1.58837552781 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Im A | 1.58177928393 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+野狼和七只小羊 | 1.58141151381 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+偷东西的小孩与他的母亲 | 1.57314123451 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+拇指姑娘 | 1.57085564119 | 51 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+白雪公主（狄菲菲演绎） | 1.56393080574 | 54 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+城里老鼠和乡下老鼠 | 1.54955464572 | 26 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小蝌蚪找妈妈 | 1.54181461253 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+莴苣姑娘 | 1.51709685968 | 33 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+当家里来了陌生人 | 1.49898642885 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+卡农 | 1.49898642885 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+漂亮的春姑娘 | 1.49659950778 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+最后的晚餐 | 1.48995639012 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+神奇的斧子 | 1.48051300455 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+睡吧小宝贝 | 1.47861976541 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+懒熊买西瓜 | 1.4471597704 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+手捧空花盆的孩子 | 1.44578649296 | 28 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+青蛙王子 | 1.4401654424 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小马过河 | 1.43710166802 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+瓦特与蒸汽机 | 1.42966913734 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+不讲信用的奇奇兔 | 1.42966913734 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+龟兔赛跑 | 1.42729577355 | 73 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+家庭礼貌称呼歌 | 1.42442951223 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+金发公主 | 1.42188273962 | 38 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+公交安全儿歌 | 1.41644312329 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大象的鼻子为什么那么长 | 1.41602725626 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+快乐王子 | 1.41448474291 | 35 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小红帽（狄菲菲演绎） | 1.4141897513 | 47 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+华佗的故事 | 1.40278282222 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小美人鱼 | 1.39834776401 | 64 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+美猴王大战二郎神（凯叔演播） | 1.39342400428 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小壁虎借尾巴 | 1.39124677927 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+兔子吓跑了老虎 | 1.38853479725 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+雪花仙后 | 1.38410060766 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小国王 | 1.37407089311 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+豌豆上的公主 | 1.37407089311 | 30 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+不是我的我不要 | 1.36716601425 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小狗熊拔牙 | 1.36409940622 | 38 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小公主不生气 | 1.36396743066 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+自己收拾玩具 | 1.35897121296 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+聪明的一休 | 1.35456075872 | 27 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+公主和豌豆 | 1.35170229717 | 47 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+摇到外婆桥 | 1.34733799636 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小花狗找朋友 | 1.34712832658 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+不能贪吃糖 | 1.34532464012 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+咏鹅（童声） | 1.33365704331 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+坚持到底的小乌龟 | 1.33093862292 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+咏柳（童声） | 1.3171567141 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+乌鸦和狐狸的故事 | 1.3090034692 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+仙女们 | 1.30787006277 | 45 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+英文字母歌 | 1.29203680994 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小跳蛙 | 1.28903067497 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+黑猫警长之地道擒贼 | 1.28551330956 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+灰姑娘（男声版） | 1.27715909208 | 41 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+听听小线报-北极女巫的故事 | 1.2658763346 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+好奇的小老虎 | 1.26542342714 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+两位商人 | 1.26405158821 | 30 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+孔融让梨 | 1.26374403308 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+白雪公主 | 1.25800495936 | 56 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+山行（童声） | 1.25762420725 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+农夫和兔子、井里的青蛙 | 1.25549624751 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+苹果姑娘 | 1.252317776 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+狮子和老鼠 | 1.24625034491 | 26 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+公主和七兄弟 | 1.24357254013 | 27 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+宝葫芦的故事 | 1.24287819477 | 40 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小蜡笔大罢工（凯叔演播） | 1.2366638038 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小白兔上幼儿园 | 1.23409277718 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+渔家摇篮曲 | 1.23051124756 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+孙悟空三借芭蕉扇 | 1.22552268845 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+学害怕的人 | 1.21496794759 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+青春修炼手册 | 1.21458052159 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+睡美人 | 1.2134652043 | 34 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+多吃糖为什么不好？ | 1.21142576699 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+虎姑婆 | 1.20977980806 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+花仙子 | 1.20846625778 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+猫头鹰宝宝 | 1.2076794959 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+吹牛青蛙 | 1.2038320214 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### addr: 天津市
 
-天津市|weight|count
----|---|---
-不爱睡觉的小猴子 | 2.31565780657 | 11
-会变的汽车 | 2.25418016568 | 10
-白雪公主（狄菲菲演绎） | 1.64048357491 | 11
-灰姑娘（男声版） | 1.60404508012 | 10
-小红帽（狄菲菲演绎） | 1.54940607495 | 10
-小美人鱼 | 1.23760863337 | 11
-小兔子乖乖（故事版） | 1.20626215654 | 12
+天津市|weight|count|weight*
+---|---|---|---
+不爱睡觉的小猴子 | 2.31565780657 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+会变的汽车 | 2.25418016568 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+白雪公主（狄菲菲演绎） | 1.64048357491 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+灰姑娘（男声版） | 1.60404508012 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小红帽（狄菲菲演绎） | 1.54940607495 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小美人鱼 | 1.23760863337 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小兔子乖乖（故事版） | 1.20626215654 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### addr: 陕西省
 
-陕西省|weight|count
----|---|---
-中元节 劈山救母（中）（凯叔演播） | 2.57189014112 | 15
-中元节 劈山救母（上）（凯叔演播） | 2.25557721572 | 14
-中元节 劈山救母（下）（凯叔演播） | 2.16926686308 | 13
-To Babyland | 2.0246490722 | 13
-雪地里的钻石（凯叔演播） | 1.99350062494 | 16
-第一次提问（凯叔演播） | 1.99145810381 | 13
-麦琪的礼物 | 1.97672838411 | 11
-象老爹（下）（凯叔演播） | 1.93943162214 | 11
-一条哪里也不通的路（凯叔演播） | 1.923874684 | 14
-象老爹（上）（凯叔演播） | 1.90058322293 | 12
-熊爸爸（凯叔演播） | 1.84717536105 | 17
-驴小弟变石头（凯叔演播） | 1.7905694236 | 16
-彼得·潘 | 1.78438341114 | 19
-美猴王大战二郎神（凯叔演播） | 1.77677762566 | 27
-七夕的传说（凯叔演播） | 1.76937925291 | 16
-大头儿子小头爸爸—两个人的故事 | 1.66125052078 | 12
-自行车蚊子埃贡（凯叔演播） | 1.64463801558 | 11
-最好的礼物（凯叔演播） | 1.62886375604 | 19
-布娃娃 | 1.62513637903 | 12
-Auld Lang | 1.61635185806 | 16
-洗手歌 | 1.60192014504 | 21
-南瓜汤（凯叔演播） | 1.60192014504 | 12
-Dr. Seuss’s | 1.58381935244 | 15
-文具用品名称 | 1.57935788948 | 12
-花儿一簇簇开了 | 1.57197771242 | 18
-学念英文字母 | 1.56557640702 | 16
-小人国游记 | 1.54668151935 | 12
-第一只犰狳是怎么来的 | 1.52803703563 | 13
-穿衣歌 | 1.51848680415 | 13
-不是我的我不要 | 1.50263866202 | 16
-勇敢甜甜圈 | 1.49974005348 | 13
-邮差的故事 | 1.48464561729 | 17
-公交安全儿歌 | 1.48195255709 | 18
-公正的法官 | 1.47247205251 | 13
-睡不着 | 1.45711380425 | 23
-吃早饭 | 1.45286043779 | 22
-四只老鼠和一只小猫的故事（凯叔演播） | 1.41836679509 | 17
-大棕熊的秘密（凯叔演播） | 1.41779139274 | 11
-一只小老鼠 | 1.41345895151 | 18
-小男子汉-自己的事情自己做 | 1.41049572519 | 20
-服装鞋帽名称 | 1.40519310969 | 10
-不讲信用的奇奇兔 | 1.40438085933 | 13
-小蜡笔大罢工（凯叔演播） | 1.40168012691 | 15
-当鸭子遇到死神（凯叔演播） | 1.39850171392 | 11
-斯美塔那-伏尔塔瓦河 | 1.39850171392 | 11
-鱼就是鱼（凯叔演播） | 1.39470659394 | 10
-一只奇特的蛋（凯叔演播） | 1.38437543399 | 12
-一个星期名称 | 1.37972987884 | 11
-边吃饭边看电视为什么不好？ | 1.37419620285 | 15
-聪明的小山羊 | 1.37167474193 | 32
-春夏秋冬四季 | 1.36416557364 | 10
-各种颜色名称 | 1.36274456783 | 14
-孩子城 | 1.35568371515 | 14
-小小猴真淘气 | 1.35249836807 | 11
-别说我小 | 1.35016083201 | 19
-洗洗脸 | 1.34869565476 | 21
-The Happy | 1.344537292 | 10
-little star | 1.3429270677 | 12
-火车大王的故事 | 1.3429270677 | 12
-家畜家禽名称 | 1.31922835474 | 12
-两片叶子的故事 | 1.31515666229 | 19
-腊八的故事 | 1.31515666229 | 19
-木偶奇遇记 | 1.31360863864 | 22
-快乐王子 | 1.31312081606 | 43
-家庭成员称呼 | 1.31151356904 | 16
-一个长上天的大苹果（凯叔演播） | 1.30622520787 | 13
-渔夫和金鱼 | 1.30388849015 | 36
-都是放屁惹的祸（凯叔演播） | 1.30172615435 | 14
-Five little | 1.29295441476 | 11
-十二个月名称 | 1.28487344967 | 11
-宝宝快吃饭 | 1.27632661963 | 14
-皇帝的新装（吴磊演绎） | 1.27425466083 | 15
-我不知道我是谁（凯叔演播） | 1.27136519448 | 10
-坚强的葛丽莎 | 1.26540567013 | 13
-踩高跷的小鬼 | 1.26540567013 | 13
-孙悟空三借芭蕉扇 | 1.26277488911 | 15
-小鼹鼠摘月亮（凯叔演播） | 1.26196281523 | 21
-玛丽莎和小精灵 | 1.25236025085 | 39
-神奇的斧子 | 1.25032499584 | 19
-包公的故事 | 1.24593789059 | 11
-老鼠画猫 | 1.24248653909 | 24
-人体五官名称 | 1.23768664628 | 10
-两只小羊要过桥 | 1.23564088323 | 24
-好安静的蟋蟀（凯叔演播） | 1.22706004376 | 13
-老袋鼠之歌 | 1.22264933188 | 14
-亲亲猪猪宝贝 | 1.21308354459 | 32
-妈祖的故事 | 1.21264947366 | 17
-玛琳姑娘 | 1.21132850474 | 14
-娇滴滴穿衣服的故事 | 1.210753598 | 39
-犀牛皮为什么又粗又皱 | 1.21062790988 | 16
-快乐天堂 | 1.20964843746 | 20
-放牛娃 | 1.20803863916 | 34
-为什么不能挑食？ | 1.20574634573 | 14
-小木匠学手艺 | 1.20297451505 | 28
-指南针的发明 | 1.20021539919 | 14
+陕西省|weight|count|weight*
+---|---|---|---
+中元节 劈山救母（中）（凯叔演播） | 2.57189014112 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+中元节 劈山救母（上）（凯叔演播） | 2.25557721572 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+中元节 劈山救母（下）（凯叔演播） | 2.16926686308 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+To Babyland | 2.0246490722 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+雪地里的钻石（凯叔演播） | 1.99350062494 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+第一次提问（凯叔演播） | 1.99145810381 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+麦琪的礼物 | 1.97672838411 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+象老爹（下）（凯叔演播） | 1.93943162214 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+一条哪里也不通的路（凯叔演播） | 1.923874684 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+象老爹（上）（凯叔演播） | 1.90058322293 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+熊爸爸（凯叔演播） | 1.84717536105 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+驴小弟变石头（凯叔演播） | 1.7905694236 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+彼得·潘 | 1.78438341114 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+美猴王大战二郎神（凯叔演播） | 1.77677762566 | 27 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+七夕的传说（凯叔演播） | 1.76937925291 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大头儿子小头爸爸—两个人的故事 | 1.66125052078 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+自行车蚊子埃贡（凯叔演播） | 1.64463801558 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+最好的礼物（凯叔演播） | 1.62886375604 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+布娃娃 | 1.62513637903 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Auld Lang | 1.61635185806 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+洗手歌 | 1.60192014504 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+南瓜汤（凯叔演播） | 1.60192014504 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Dr. Seuss’s | 1.58381935244 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+文具用品名称 | 1.57935788948 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+花儿一簇簇开了 | 1.57197771242 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+学念英文字母 | 1.56557640702 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小人国游记 | 1.54668151935 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+第一只犰狳是怎么来的 | 1.52803703563 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+穿衣歌 | 1.51848680415 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+不是我的我不要 | 1.50263866202 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+勇敢甜甜圈 | 1.49974005348 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+邮差的故事 | 1.48464561729 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+公交安全儿歌 | 1.48195255709 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+公正的法官 | 1.47247205251 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+睡不着 | 1.45711380425 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+吃早饭 | 1.45286043779 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+四只老鼠和一只小猫的故事（凯叔演播） | 1.41836679509 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大棕熊的秘密（凯叔演播） | 1.41779139274 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+一只小老鼠 | 1.41345895151 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小男子汉-自己的事情自己做 | 1.41049572519 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+服装鞋帽名称 | 1.40519310969 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+不讲信用的奇奇兔 | 1.40438085933 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小蜡笔大罢工（凯叔演播） | 1.40168012691 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+当鸭子遇到死神（凯叔演播） | 1.39850171392 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+斯美塔那-伏尔塔瓦河 | 1.39850171392 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+鱼就是鱼（凯叔演播） | 1.39470659394 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+一只奇特的蛋（凯叔演播） | 1.38437543399 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+一个星期名称 | 1.37972987884 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+边吃饭边看电视为什么不好？ | 1.37419620285 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+聪明的小山羊 | 1.37167474193 | 32 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+春夏秋冬四季 | 1.36416557364 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+各种颜色名称 | 1.36274456783 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+孩子城 | 1.35568371515 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小小猴真淘气 | 1.35249836807 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+别说我小 | 1.35016083201 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+洗洗脸 | 1.34869565476 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+The Happy | 1.344537292 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+little star | 1.3429270677 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+火车大王的故事 | 1.3429270677 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+家畜家禽名称 | 1.31922835474 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+两片叶子的故事 | 1.31515666229 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+腊八的故事 | 1.31515666229 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+木偶奇遇记 | 1.31360863864 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+快乐王子 | 1.31312081606 | 43 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+家庭成员称呼 | 1.31151356904 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+一个长上天的大苹果（凯叔演播） | 1.30622520787 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+渔夫和金鱼 | 1.30388849015 | 36 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+都是放屁惹的祸（凯叔演播） | 1.30172615435 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Five little | 1.29295441476 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+十二个月名称 | 1.28487344967 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+宝宝快吃饭 | 1.27632661963 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+皇帝的新装（吴磊演绎） | 1.27425466083 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+我不知道我是谁（凯叔演播） | 1.27136519448 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+坚强的葛丽莎 | 1.26540567013 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+踩高跷的小鬼 | 1.26540567013 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+孙悟空三借芭蕉扇 | 1.26277488911 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小鼹鼠摘月亮（凯叔演播） | 1.26196281523 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+玛丽莎和小精灵 | 1.25236025085 | 39 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+神奇的斧子 | 1.25032499584 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+包公的故事 | 1.24593789059 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+老鼠画猫 | 1.24248653909 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+人体五官名称 | 1.23768664628 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+两只小羊要过桥 | 1.23564088323 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+好安静的蟋蟀（凯叔演播） | 1.22706004376 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+老袋鼠之歌 | 1.22264933188 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+亲亲猪猪宝贝 | 1.21308354459 | 32 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈祖的故事 | 1.21264947366 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+玛琳姑娘 | 1.21132850474 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+娇滴滴穿衣服的故事 | 1.210753598 | 39 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+犀牛皮为什么又粗又皱 | 1.21062790988 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+快乐天堂 | 1.20964843746 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+放牛娃 | 1.20803863916 | 34 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+为什么不能挑食？ | 1.20574634573 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小木匠学手艺 | 1.20297451505 | 28 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+指南针的发明 | 1.20021539919 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### addr: 宁夏回族自治区
 
-宁夏回族自治区|weight|count
----|---|---
-灰姑娘（男声版） | 2.04142072422 | 10
-拇指姑娘 | 2.01854054176 | 10
-儿歌版唐诗-咏鹅 | 1.83358377266 | 10
+宁夏回族自治区|weight|count|weight*
+---|---|---|---
+灰姑娘（男声版） | 2.04142072422 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+拇指姑娘 | 2.01854054176 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-咏鹅 | 1.83358377266 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### addr: 湖北省
 
-湖北省|weight|count
----|---|---
-吃葡萄 | 2.25519169801 | 14
-麦琪的礼物 | 2.09565547212 | 11
-螳螂捕蝉 | 1.87953864837 | 24
-第一只犰狳是怎么来的 | 1.8691952753 | 15
-公交安全儿歌 | 1.83296417745 | 21
-服装鞋帽名称 | 1.78768149638 | 12
-自己收拾玩具 | 1.74184350929 | 16
-十二生肖歌 | 1.70642324654 | 18
-懒熊买西瓜 | 1.686252759 | 16
-小恐龙是从什么地方来的？ | 1.67775350114 | 21
-大象拔河 | 1.67652437769 | 22
-文具用品名称 | 1.67437773957 | 12
-瓦特与蒸汽机 | 1.60340218991 | 14
-隐形的翅膀 | 1.59357666902 | 30
-布娃娃 | 1.5793345587 | 11
-自认为是狗的猫和自认为是猫的狗 | 1.5693837559 | 16
-真假孙悟空 | 1.5693837559 | 16
-青蛙不吃水 | 1.56422130933 | 33
-母鸭带小鸭 | 1.56011574159 | 20
-最好的未来 | 1.5553235772 | 23
-边吃饭边看电视为什么不好？ | 1.55399764064 | 16
-感恩的心 | 1.5410476603 | 21
-彩虹糖的梦 | 1.51993741838 | 28
-大象的鼻子为什么那么长 | 1.51247861971 | 20
-睡吧小宝贝 | 1.50754662421 | 14
-Open Shut | 1.50309082138 | 11
-不讲信用的奇奇兔 | 1.48887346206 | 13
-小鲤鱼跳龙门 | 1.48887346206 | 13
-多吃糖为什么不好？ | 1.45568350419 | 18
-学念英文字母 | 1.45229622437 | 14
-各种颜色名称 | 1.44473218154 | 14
-人体五官名称 | 1.44336535828 | 11
-别说我小 | 1.43139136291 | 19
-狼来了（男声版） | 1.42799783194 | 72
-家庭安全常识 | 1.42372238933 | 12
-梁祝-化蝶 | 1.4152478513 | 18
-找爸爸 | 1.4152478513 | 18
-快乐天堂 | 1.41066776117 | 22
-不能贪吃糖 | 1.40932631217 | 17
-画蛇添足 | 1.4077991784 | 27
-年兽来了 | 1.40611722 | 11
-别看我只是一只羊 | 1.40218402498 | 23
-梦想起航 | 1.39428121647 | 19
-放牛娃 | 1.39372316915 | 37
-孙悟空大闹天宫 | 1.39313460362 | 18
-三个和尚—儿歌版 | 1.38233511057 | 30
-野兽动物名称 | 1.37074320189 | 11
-过年的故事 | 1.36644620126 | 22
-泼水歌 | 1.36331215033 | 15
-一百只老鼠 | 1.36058162528 | 16
-国王与鹳 | 1.35818140568 | 17
-小宝宝打电话 | 1.34785509648 | 20
-妈妈宝贝 | 1.34731595444 | 34
-Happy New | 1.34582059822 | 18
-小男子汉-自己的事情自己做 | 1.34582059822 | 18
-Dr. Seuss’s | 1.34328609615 | 12
-Little-Bee | 1.34328609615 | 12
-我要自己吃饭 | 1.34220280091 | 21
-骆驼的背是怎么驼的 | 1.34153702571 | 13
-找朋友 | 1.34076112228 | 18
-汤姆尿床了 | 1.34004144374 | 14
-可爱的男孩 | 1.32933823732 | 21
-Schnappi-小鳄鱼 | 1.32089799455 | 11
-两只小羊要过桥 | 1.3099814822 | 24
-狮子和老鼠 | 1.30553871554 | 34
-刷牙歌 | 1.30507885689 | 22
-洗澡歌 | 1.30322711837 | 59
-咏柳（童声） | 1.28963413669 | 22
-江南Style | 1.28483252029 | 19
-手捧空花盆的孩子 | 1.28229137258 | 31
-妈咪的怀抱里 | 1.27242467365 | 21
-聪明的小山羊 | 1.27242467365 | 28
-乌鸦和狐狸的故事 | 1.26938665214 | 23
-狮子照哈哈镜 | 1.26904456088 | 31
-爱我你就抱抱我 | 1.26854533013 | 42
-嘀哩嘀哩 | 1.26661451532 | 14
-胡狼与大象 | 1.26262308302 | 13
-老鼠画猫 | 1.26235403911 | 23
-皇帝的新装（吴磊演绎） | 1.26085717661 | 14
-礼貌问候用语 | 1.25799809004 | 12
-龟兔赛跑 | 1.25302576558 | 80
-大风车 | 1.2527651529 | 38
-听听小线报-北极女巫的故事 | 1.24809259327 | 16
-Five little | 1.24613018353 | 10
-入睡 | 1.24482533517 | 12
-城里老鼠和乡下老鼠 | 1.2413258262 | 26
-乖乖吃饭歌 | 1.24055715051 | 35
-狼来了（女声版） | 1.23834186989 | 13
-小公主不生气 | 1.23834186989 | 17
-雪女王 | 1.23834186989 | 13
-家庭成员称呼 | 1.21661657392 | 14
-大家一起喜羊羊 | 1.21461884556 | 32
-宝宝歌 | 1.21130383779 | 28
-卡哇伊 | 1.21082316167 | 22
-奇妙的点金术 | 1.20927281191 | 13
-妈妈丢了 | 1.20813840965 | 10
-养成看书好习惯 | 1.20691187319 | 12
-幸福的孩子爱唱歌 | 1.20413353094 | 11
-小羊睡不着 | 1.20314352216 | 47
-妈妈的眼睛 | 1.20081635868 | 22
+湖北省|weight|count|weight*
+---|---|---|---
+吃葡萄 | 2.25519169801 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+麦琪的礼物 | 2.09565547212 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+螳螂捕蝉 | 1.87953864837 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+第一只犰狳是怎么来的 | 1.8691952753 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+公交安全儿歌 | 1.83296417745 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+服装鞋帽名称 | 1.78768149638 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+自己收拾玩具 | 1.74184350929 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+十二生肖歌 | 1.70642324654 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+懒熊买西瓜 | 1.686252759 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小恐龙是从什么地方来的？ | 1.67775350114 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大象拔河 | 1.67652437769 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+文具用品名称 | 1.67437773957 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+瓦特与蒸汽机 | 1.60340218991 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+隐形的翅膀 | 1.59357666902 | 30 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+布娃娃 | 1.5793345587 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+自认为是狗的猫和自认为是猫的狗 | 1.5693837559 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+真假孙悟空 | 1.5693837559 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+青蛙不吃水 | 1.56422130933 | 33 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+母鸭带小鸭 | 1.56011574159 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+最好的未来 | 1.5553235772 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+边吃饭边看电视为什么不好？ | 1.55399764064 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+感恩的心 | 1.5410476603 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+彩虹糖的梦 | 1.51993741838 | 28 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大象的鼻子为什么那么长 | 1.51247861971 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+睡吧小宝贝 | 1.50754662421 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Open Shut | 1.50309082138 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+不讲信用的奇奇兔 | 1.48887346206 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小鲤鱼跳龙门 | 1.48887346206 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+多吃糖为什么不好？ | 1.45568350419 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+学念英文字母 | 1.45229622437 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+各种颜色名称 | 1.44473218154 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+人体五官名称 | 1.44336535828 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+别说我小 | 1.43139136291 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+狼来了（男声版） | 1.42799783194 | 72 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+家庭安全常识 | 1.42372238933 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+梁祝-化蝶 | 1.4152478513 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+找爸爸 | 1.4152478513 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+快乐天堂 | 1.41066776117 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+不能贪吃糖 | 1.40932631217 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+画蛇添足 | 1.4077991784 | 27 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+年兽来了 | 1.40611722 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+别看我只是一只羊 | 1.40218402498 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+梦想起航 | 1.39428121647 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+放牛娃 | 1.39372316915 | 37 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+孙悟空大闹天宫 | 1.39313460362 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+三个和尚—儿歌版 | 1.38233511057 | 30 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+野兽动物名称 | 1.37074320189 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+过年的故事 | 1.36644620126 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+泼水歌 | 1.36331215033 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+一百只老鼠 | 1.36058162528 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+国王与鹳 | 1.35818140568 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小宝宝打电话 | 1.34785509648 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈妈宝贝 | 1.34731595444 | 34 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Happy New | 1.34582059822 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小男子汉-自己的事情自己做 | 1.34582059822 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Dr. Seuss’s | 1.34328609615 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Little-Bee | 1.34328609615 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+我要自己吃饭 | 1.34220280091 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+骆驼的背是怎么驼的 | 1.34153702571 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+找朋友 | 1.34076112228 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+汤姆尿床了 | 1.34004144374 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+可爱的男孩 | 1.32933823732 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Schnappi-小鳄鱼 | 1.32089799455 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+两只小羊要过桥 | 1.3099814822 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+狮子和老鼠 | 1.30553871554 | 34 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+刷牙歌 | 1.30507885689 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+洗澡歌 | 1.30322711837 | 59 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+咏柳（童声） | 1.28963413669 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+江南Style | 1.28483252029 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+手捧空花盆的孩子 | 1.28229137258 | 31 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈咪的怀抱里 | 1.27242467365 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+聪明的小山羊 | 1.27242467365 | 28 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+乌鸦和狐狸的故事 | 1.26938665214 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+狮子照哈哈镜 | 1.26904456088 | 31 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+爱我你就抱抱我 | 1.26854533013 | 42 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+嘀哩嘀哩 | 1.26661451532 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+胡狼与大象 | 1.26262308302 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+老鼠画猫 | 1.26235403911 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+皇帝的新装（吴磊演绎） | 1.26085717661 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+礼貌问候用语 | 1.25799809004 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+龟兔赛跑 | 1.25302576558 | 80 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大风车 | 1.2527651529 | 38 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+听听小线报-北极女巫的故事 | 1.24809259327 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Five little | 1.24613018353 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+入睡 | 1.24482533517 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+城里老鼠和乡下老鼠 | 1.2413258262 | 26 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+乖乖吃饭歌 | 1.24055715051 | 35 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+狼来了（女声版） | 1.23834186989 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小公主不生气 | 1.23834186989 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+雪女王 | 1.23834186989 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+家庭成员称呼 | 1.21661657392 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大家一起喜羊羊 | 1.21461884556 | 32 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+宝宝歌 | 1.21130383779 | 28 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+卡哇伊 | 1.21082316167 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+奇妙的点金术 | 1.20927281191 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈妈丢了 | 1.20813840965 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+养成看书好习惯 | 1.20691187319 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+幸福的孩子爱唱歌 | 1.20413353094 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小羊睡不着 | 1.20314352216 | 47 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈妈的眼睛 | 1.20081635868 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### addr: 甘肃省
 
-甘肃省|weight|count
----|---|---
-司马光做错事 | 2.41726059965 | 11
-丑小鸭 | 2.34906202474 | 15
-德语圣诞歌 - | 2.22325451881 | 13
-过新年 | 2.22139561035 | 25
-儿歌版百家姓 | 2.20938806651 | 10
-海顿小夜曲 | 2.16072313112 | 12
-一字歌 | 2.03239288991 | 18
-动物森林 | 1.95300856391 | 14
-找爸爸 | 1.94636567764 | 12
-一百只老鼠 | 1.92965867611 | 11
-泼水歌 | 1.87493941424 | 10
-高山流水 | 1.86637804705 | 10
-嘀哩嘀哩 | 1.86637804705 | 10
-童声跟读版百家姓 | 1.86354160625 | 15
-恭喜恭喜 | 1.78771559258 | 22
-儿歌版诗词-长相思•别情 | 1.73112053211 | 18
-大象拔河 | 1.72927104436 | 11
-快乐天堂 | 1.71960462782 | 13
-小小的船 | 1.71364804227 | 27
-儿歌版古诗-明日歌 | 1.70306996793 | 22
-夜莺 | 1.69026493058 | 11
-两只小羊要过桥 | 1.68899500952 | 15
-十二属相歌 | 1.64556370928 | 31
-儿歌版唐诗-村居 | 1.62565769666 | 21
-数字歌 | 1.61730385444 | 11
-三个和尚—儿歌版 | 1.61593615562 | 17
-儿歌版唐诗-晓窗 | 1.61343470646 | 21
-卖报歌 | 1.61150706643 | 11
-母鸭带小鸭 | 1.6091999697 | 10
-儿歌版唐诗-江南 | 1.59248100898 | 30
-夜宿山寺（童声） | 1.58953197007 | 14
-儿歌版唐诗-清明 | 1.58732734875 | 28
-老鼠画猫 | 1.58512883442 | 14
-森林狂想曲 | 1.57813433322 | 10
-《爸爸去哪儿》第二季主题曲 | 1.57206458578 | 10
-兔子的尾巴是怎样变短的 | 1.57206458578 | 10
-古朗月行 | 1.56604134982 | 10
-儿歌版唐诗-出塞 | 1.56205143556 | 18
-荷塘月色 | 1.56006409276 | 10
-放牛娃 | 1.55413229013 | 20
-小小手 | 1.53939830868 | 29
-儿歌版唐诗-相思 | 1.52595069127 | 28
-腊八的故事 | 1.5138399715 | 10
-儿歌版唐诗-寻胡隐君 | 1.47381054917 | 15
-青蛙不吃水 | 1.46675882406 | 15
-摇篮曲 | 1.45366641614 | 17
-隐形的翅膀 | 1.42455182304 | 13
-儿歌版古诗-长歌行 | 1.41268476603 | 15
-大家一起喜羊羊 | 1.40943721484 | 18
-小宝宝打电话 | 1.39026119831 | 10
-儿歌版唐诗-赋得古原草送别 | 1.38693123137 | 17
-别看我只是一只羊 | 1.38341683549 | 11
-春晓（童声） | 1.37390518422 | 16
-卡哇伊 | 1.36245597435 | 12
-妈妈的眼睛 | 1.35119600762 | 12
-儿歌版古诗-七步诗 | 1.34922824644 | 17
-彩虹糖的梦 | 1.34379219388 | 12
-小红帽（儿歌版） | 1.34305627263 | 30
-悯农（童声） | 1.34158684564 | 15
-宝宝歌 | 1.33865761672 | 15
-丑小鸭-狄菲菲演绎 | 1.33139020294 | 10
-江雪（童声） | 1.31005382149 | 10
-爱我你就抱抱我 | 1.30845619488 | 21
-儿歌版唐诗-登鹳雀楼 | 1.30750295174 | 23
-山行（童声） | 1.29895167046 | 15
-大风车 | 1.29217954306 | 19
-早发白帝城（童声） | 1.28915129298 | 17
-过年的故事 | 1.28130655895 | 10
-读唐诗 | 1.25198657102 | 17
-爸爸的爸爸叫什么 | 1.24805127421 | 24
-晚安 | 1.24614875702 | 10
-儿歌版唐诗-静夜思 | 1.23560094409 | 25
-妈妈宝贝 | 1.22621037691 | 15
-儿歌版唐诗-咏鹅 | 1.20216703619 | 26
+甘肃省|weight|count|weight*
+---|---|---|---
+司马光做错事 | 2.41726059965 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+丑小鸭 | 2.34906202474 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+德语圣诞歌 - | 2.22325451881 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+过新年 | 2.22139561035 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版百家姓 | 2.20938806651 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+海顿小夜曲 | 2.16072313112 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+一字歌 | 2.03239288991 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+动物森林 | 1.95300856391 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+找爸爸 | 1.94636567764 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+一百只老鼠 | 1.92965867611 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+泼水歌 | 1.87493941424 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+高山流水 | 1.86637804705 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+嘀哩嘀哩 | 1.86637804705 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+童声跟读版百家姓 | 1.86354160625 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+恭喜恭喜 | 1.78771559258 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版诗词-长相思•别情 | 1.73112053211 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大象拔河 | 1.72927104436 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+快乐天堂 | 1.71960462782 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小小的船 | 1.71364804227 | 27 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版古诗-明日歌 | 1.70306996793 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+夜莺 | 1.69026493058 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+两只小羊要过桥 | 1.68899500952 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+十二属相歌 | 1.64556370928 | 31 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-村居 | 1.62565769666 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+数字歌 | 1.61730385444 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+三个和尚—儿歌版 | 1.61593615562 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-晓窗 | 1.61343470646 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+卖报歌 | 1.61150706643 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+母鸭带小鸭 | 1.6091999697 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-江南 | 1.59248100898 | 30 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+夜宿山寺（童声） | 1.58953197007 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-清明 | 1.58732734875 | 28 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+老鼠画猫 | 1.58512883442 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+森林狂想曲 | 1.57813433322 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+《爸爸去哪儿》第二季主题曲 | 1.57206458578 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+兔子的尾巴是怎样变短的 | 1.57206458578 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+古朗月行 | 1.56604134982 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-出塞 | 1.56205143556 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+荷塘月色 | 1.56006409276 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+放牛娃 | 1.55413229013 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小小手 | 1.53939830868 | 29 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-相思 | 1.52595069127 | 28 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+腊八的故事 | 1.5138399715 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-寻胡隐君 | 1.47381054917 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+青蛙不吃水 | 1.46675882406 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+摇篮曲 | 1.45366641614 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+隐形的翅膀 | 1.42455182304 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版古诗-长歌行 | 1.41268476603 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大家一起喜羊羊 | 1.40943721484 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小宝宝打电话 | 1.39026119831 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-赋得古原草送别 | 1.38693123137 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+别看我只是一只羊 | 1.38341683549 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+春晓（童声） | 1.37390518422 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+卡哇伊 | 1.36245597435 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈妈的眼睛 | 1.35119600762 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版古诗-七步诗 | 1.34922824644 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+彩虹糖的梦 | 1.34379219388 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小红帽（儿歌版） | 1.34305627263 | 30 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+悯农（童声） | 1.34158684564 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+宝宝歌 | 1.33865761672 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+丑小鸭-狄菲菲演绎 | 1.33139020294 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+江雪（童声） | 1.31005382149 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+爱我你就抱抱我 | 1.30845619488 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-登鹳雀楼 | 1.30750295174 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+山行（童声） | 1.29895167046 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大风车 | 1.29217954306 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+早发白帝城（童声） | 1.28915129298 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+过年的故事 | 1.28130655895 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+读唐诗 | 1.25198657102 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+爸爸的爸爸叫什么 | 1.24805127421 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+晚安 | 1.24614875702 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-静夜思 | 1.23560094409 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈妈宝贝 | 1.22621037691 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-咏鹅 | 1.20216703619 | 26 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### addr: 四川省
 
-四川省|weight|count
----|---|---
-大头儿子小头爸爸—两个人出门去 | 3.18178191081 | 10
-孩子城 | 2.10195437113 | 17
-开心的小病号 | 1.88918300954 | 19
-甜甜的糖葫芦 | 1.88394981561 | 21
-武则天催花 | 1.85948293489 | 12
-小胖猪哭了 | 1.83564341008 | 11
-我要自己走 | 1.82783216153 | 18
-Auld Lang | 1.80587621965 | 14
-懂礼貌的欢欢 | 1.76113389897 | 20
-各种颜色名称 | 1.74003698248 | 14
-REGALERO UN | 1.71171811658 | 17
-温暖的冬天 | 1.70452602365 | 15
-德语圣诞歌 - | 1.6973941156 | 17
-交朋友 | 1.69003996679 | 25
-玛琳姑娘 | 1.65717807855 | 15
-海顿小夜曲 | 1.57687429501 | 15
-天空之城 | 1.56995817968 | 10
-挑食的叮当狗 | 1.52725531719 | 16
-听听小线报-国王与小偷 | 1.50715985249 | 12
-Colour Song | 1.49146027069 | 13
-捏橡皮泥 | 1.47518979501 | 17
-安妮的仙境 | 1.47470229012 | 11
-摇呀摇小宝宝 | 1.46646372984 | 11
-冰淇淋合唱团 | 1.45831670912 | 11
-Brown bear,Brown | 1.45831670912 | 11
-Heal the | 1.45677514812 | 21
-Schnappi-小鳄鱼 | 1.44626450491 | 10
-妈妈抱爸爸抱 | 1.43482253889 | 19
-大头儿子和小头爸爸主题曲 | 1.43180185987 | 18
-little star | 1.42894397192 | 10
-睡吧小宝贝 | 1.42661417197 | 11
-七夕的传说（凯叔演播） | 1.41203339237 | 10
-坚持到底的小乌龟 | 1.39113783096 | 13
-鸟儿和树 | 1.38817354835 | 21
-望庐山瀑布（童声） | 1.38156319812 | 22
-变小猪 | 1.37673255756 | 12
-三颗星星 | 1.37145772018 | 10
-仙女们 | 1.34599469788 | 48
-爱美的小公鸡 | 1.33927044715 | 11
-雪花仙后 | 1.33541941512 | 23
-胡萝卜兔洗澡 | 1.32943533878 | 20
-小猫刷牙 | 1.32574246284 | 18
-找爸爸 | 1.32574246284 | 14
-好东西一起玩 | 1.32574246284 | 14
-小懒猫 | 1.32574246284 | 14
-森林沉睡的宝宝 | 1.31057378477 | 24
-小熊和他的妈妈 | 1.30400897984 | 10
-摇到外婆桥 | 1.29994980792 | 14
-阿凡提分羊 | 1.29994980792 | 14
-不想长大（童音版） | 1.2930887076 | 11
-司马光做错事 | 1.28297657694 | 10
-数字从一到十 | 1.26810148619 | 11
-驴皮公主 | 1.26751271217 | 52
-会变的汽车 | 1.26708129192 | 30
-苏莱曼公主阿伊达 | 1.26335458223 | 18
-孟母三迁 | 1.26335458223 | 18
-棒棒天使 | 1.26296357184 | 19
-礼貌问候用语 | 1.26261186937 | 10
-洗澡真舒服 | 1.261499436 | 12
-Happy New | 1.26070604013 | 14
-苹果姑娘 | 1.25861626219 | 25
-妈妈生气了 | 1.25596654374 | 42
-小恐龙是从什么地方来的？ | 1.25090216252 | 13
-英文字母歌 | 1.24659365909 | 21
-花仙子 | 1.24369325504 | 16
-小跳蛙 | 1.24369325504 | 16
-小兔子乖乖（故事版） | 1.24307975205 | 66
-狼来了（男声版） | 1.2421370823 | 52
-三个和尚 | 1.24029960141 | 25
-登幽州台歌 | 1.23965528993 | 16
-晚安 | 1.23682071228 | 17
-梦中的婚礼 | 1.23644374773 | 10
-聪明的小绵羊 | 1.22028567602 | 18
-小宝宝打电话 | 1.21751858832 | 15
-魔方的故事 | 1.21339140667 | 12
-农夫和兔子、井里的青蛙 | 1.21133829092 | 10
-吃饭不挑剔 | 1.20609061601 | 14
-泼水歌 | 1.20411471395 | 11
+四川省|weight|count|weight*
+---|---|---|---
+大头儿子小头爸爸—两个人出门去 | 3.18178191081 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+孩子城 | 2.10195437113 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+开心的小病号 | 1.88918300954 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+甜甜的糖葫芦 | 1.88394981561 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+武则天催花 | 1.85948293489 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小胖猪哭了 | 1.83564341008 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+我要自己走 | 1.82783216153 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Auld Lang | 1.80587621965 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+懂礼貌的欢欢 | 1.76113389897 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+各种颜色名称 | 1.74003698248 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+REGALERO UN | 1.71171811658 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+温暖的冬天 | 1.70452602365 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+德语圣诞歌 - | 1.6973941156 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+交朋友 | 1.69003996679 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+玛琳姑娘 | 1.65717807855 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+海顿小夜曲 | 1.57687429501 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+天空之城 | 1.56995817968 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+挑食的叮当狗 | 1.52725531719 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+听听小线报-国王与小偷 | 1.50715985249 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Colour Song | 1.49146027069 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+捏橡皮泥 | 1.47518979501 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+安妮的仙境 | 1.47470229012 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+摇呀摇小宝宝 | 1.46646372984 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+冰淇淋合唱团 | 1.45831670912 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Brown bear,Brown | 1.45831670912 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Heal the | 1.45677514812 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Schnappi-小鳄鱼 | 1.44626450491 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈妈抱爸爸抱 | 1.43482253889 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大头儿子和小头爸爸主题曲 | 1.43180185987 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+little star | 1.42894397192 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+睡吧小宝贝 | 1.42661417197 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+七夕的传说（凯叔演播） | 1.41203339237 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+坚持到底的小乌龟 | 1.39113783096 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+鸟儿和树 | 1.38817354835 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+望庐山瀑布（童声） | 1.38156319812 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+变小猪 | 1.37673255756 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+三颗星星 | 1.37145772018 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+仙女们 | 1.34599469788 | 48 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+爱美的小公鸡 | 1.33927044715 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+雪花仙后 | 1.33541941512 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+胡萝卜兔洗澡 | 1.32943533878 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小猫刷牙 | 1.32574246284 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+找爸爸 | 1.32574246284 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+好东西一起玩 | 1.32574246284 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小懒猫 | 1.32574246284 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+森林沉睡的宝宝 | 1.31057378477 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小熊和他的妈妈 | 1.30400897984 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+摇到外婆桥 | 1.29994980792 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+阿凡提分羊 | 1.29994980792 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+不想长大（童音版） | 1.2930887076 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+司马光做错事 | 1.28297657694 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+数字从一到十 | 1.26810148619 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+驴皮公主 | 1.26751271217 | 52 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+会变的汽车 | 1.26708129192 | 30 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+苏莱曼公主阿伊达 | 1.26335458223 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+孟母三迁 | 1.26335458223 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+棒棒天使 | 1.26296357184 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+礼貌问候用语 | 1.26261186937 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+洗澡真舒服 | 1.261499436 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Happy New | 1.26070604013 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+苹果姑娘 | 1.25861626219 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈妈生气了 | 1.25596654374 | 42 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小恐龙是从什么地方来的？ | 1.25090216252 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+英文字母歌 | 1.24659365909 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+花仙子 | 1.24369325504 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小跳蛙 | 1.24369325504 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小兔子乖乖（故事版） | 1.24307975205 | 66 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+狼来了（男声版） | 1.2421370823 | 52 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+三个和尚 | 1.24029960141 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+登幽州台歌 | 1.23965528993 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+晚安 | 1.23682071228 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+梦中的婚礼 | 1.23644374773 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+聪明的小绵羊 | 1.22028567602 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小宝宝打电话 | 1.21751858832 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+魔方的故事 | 1.21339140667 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+农夫和兔子、井里的青蛙 | 1.21133829092 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+吃饭不挑剔 | 1.20609061601 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+泼水歌 | 1.20411471395 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### addr: 辽宁省
 
-辽宁省|weight|count
----|---|---
-土拨鼠和他的好朋友 | 3.20910306572 | 11
-到处都是泥巴味 | 2.79650410013 | 11
-黄河源头的故事 | 2.72386763 | 15
-孙悟空大闹天宫 | 2.36352264144 | 17
-鲁鲁龙的礼物（凯叔演播） | 2.26699811244 | 10
-小鲤鱼跳龙门 | 2.26306690184 | 11
-盘古开天 | 2.25468862043 | 14
-小羊和小鱼 | 2.20155899167 | 12
-狮子园的故事 | 2.16646167441 | 14
-七色花 | 2.15708305244 | 12
-小兔当家（凯叔演播） | 2.07148451861 | 11
-数字从一到十 | 2.06329683277 | 12
-小国王 | 1.9773261314 | 10
-做个小小男子汉 | 1.9773261314 | 11
-花仙子 | 1.97088532967 | 17
-礼貌问候用语 | 1.88316774419 | 10
-各种颜色名称 | 1.85374324819 | 10
-种子、沙子和小水滴（凯叔演播） | 1.85374324819 | 15
-狮子、熊和狐狸 | 1.84892833066 | 12
-曹冲称象 | 1.8081431469 | 19
-神奇小火车 | 1.80538472867 | 14
-神奇的斧子 | 1.75452882082 | 14
-小小旅行家 | 1.75329410666 | 10
-家庭成员称呼 | 1.71715164043 | 11
-哪吒闹海 | 1.70735909501 | 13
-胆小先生 | 1.68681850072 | 10
-聪明的一休 | 1.66047265396 | 23
-小马过河 | 1.63265460391 | 15
-听听小线报-围裙妈妈日记 | 1.61781228933 | 13
-三只小猪盖房子 | 1.6108389605 | 21
-白雪公主（狄菲菲演绎） | 1.58371320127 | 38
-两片叶子的故事 | 1.58186090512 | 12
-黑猫警长之地道擒贼 | 1.55390702218 | 21
-大头儿子和小头爸爸主题曲 | 1.5423143825 | 13
-金鹅 | 1.54077360889 | 20
-青蛙王子 | 1.53180201572 | 17
-小蚂蚁坐汽车 | 1.51574211335 | 27
-会变的汽车 | 1.51186705976 | 24
-餐桌上的故事 | 1.51162383791 | 11
-我还有点小糊涂 | 1.50813010022 | 10
-学害怕的人 | 1.49860506801 | 12
-小木匠学手艺 | 1.4727670496 | 18
-小鹦鹉学说话 | 1.46554760328 | 14
-睡不着 | 1.44780489621 | 12
-美女与野兽 | 1.43937711036 | 11
-小恐龙是从什么地方来的？ | 1.43515606312 | 10
-大禹治水 | 1.39786802039 | 13
-丑小鸭-狄菲菲演绎 | 1.39121317389 | 12
-华佗的故事 | 1.38117705895 | 13
-狮子和老鼠 | 1.37952985912 | 20
-小兄妹 | 1.37686152283 | 20
-森林狂想曲 | 1.37420348901 | 10
-小鼹鼠摘月亮（凯叔演播） | 1.37331975686 | 12
-儿歌版唐诗-寻胡隐君 | 1.36891809097 | 16
-可爱的男孩 | 1.36454455075 | 12
-妈祖的故事 | 1.35846833455 | 10
-小狗熊拔牙 | 1.34308944775 | 26
-过年的故事 | 1.338879136 | 12
-蜘蛛先生要搬家 | 1.32109562491 | 17
-聪明的小绵羊 | 1.31447248508 | 13
-阿拉丁神灯 | 1.30214159873 | 24
-灰姑娘（男声版） | 1.29995496296 | 29
-乌鸦和狐狸的故事 | 1.28884210236 | 13
-花木兰 | 1.28258992307 | 12
-野狼和七只小羊 | 1.27438922024 | 14
-小白兔上幼儿园 | 1.25792473224 | 17
-偷东西的小孩与他的母亲 | 1.25766326379 | 10
-漂亮的春姑娘 | 1.24684896184 | 11
-娇滴滴穿衣服的故事 | 1.24157687321 | 21
-拇指姑娘 | 1.24106148223 | 28
-刺猬和兔子 | 1.23368701439 | 20
-白雪公主 | 1.2284205939 | 38
-聪明的小山羊 | 1.22449095293 | 15
-小山羊吃早餐 | 1.22378923892 | 12
-白羊村的美容院 | 1.21473960291 | 10
-王婆卖瓜 | 1.21473960291 | 10
-Always With | 1.21442077362 | 13
+辽宁省|weight|count|weight*
+---|---|---|---
+土拨鼠和他的好朋友 | 3.20910306572 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+到处都是泥巴味 | 2.79650410013 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+黄河源头的故事 | 2.72386763 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+孙悟空大闹天宫 | 2.36352264144 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+鲁鲁龙的礼物（凯叔演播） | 2.26699811244 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小鲤鱼跳龙门 | 2.26306690184 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+盘古开天 | 2.25468862043 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小羊和小鱼 | 2.20155899167 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+狮子园的故事 | 2.16646167441 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+七色花 | 2.15708305244 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小兔当家（凯叔演播） | 2.07148451861 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+数字从一到十 | 2.06329683277 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小国王 | 1.9773261314 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+做个小小男子汉 | 1.9773261314 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+花仙子 | 1.97088532967 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+礼貌问候用语 | 1.88316774419 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+各种颜色名称 | 1.85374324819 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+种子、沙子和小水滴（凯叔演播） | 1.85374324819 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+狮子、熊和狐狸 | 1.84892833066 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+曹冲称象 | 1.8081431469 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+神奇小火车 | 1.80538472867 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+神奇的斧子 | 1.75452882082 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小小旅行家 | 1.75329410666 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+家庭成员称呼 | 1.71715164043 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+哪吒闹海 | 1.70735909501 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+胆小先生 | 1.68681850072 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+聪明的一休 | 1.66047265396 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小马过河 | 1.63265460391 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+听听小线报-围裙妈妈日记 | 1.61781228933 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+三只小猪盖房子 | 1.6108389605 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+白雪公主（狄菲菲演绎） | 1.58371320127 | 38 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+两片叶子的故事 | 1.58186090512 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+黑猫警长之地道擒贼 | 1.55390702218 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大头儿子和小头爸爸主题曲 | 1.5423143825 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+金鹅 | 1.54077360889 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+青蛙王子 | 1.53180201572 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小蚂蚁坐汽车 | 1.51574211335 | 27 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+会变的汽车 | 1.51186705976 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+餐桌上的故事 | 1.51162383791 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+我还有点小糊涂 | 1.50813010022 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+学害怕的人 | 1.49860506801 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小木匠学手艺 | 1.4727670496 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小鹦鹉学说话 | 1.46554760328 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+睡不着 | 1.44780489621 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+美女与野兽 | 1.43937711036 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小恐龙是从什么地方来的？ | 1.43515606312 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大禹治水 | 1.39786802039 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+丑小鸭-狄菲菲演绎 | 1.39121317389 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+华佗的故事 | 1.38117705895 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+狮子和老鼠 | 1.37952985912 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小兄妹 | 1.37686152283 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+森林狂想曲 | 1.37420348901 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小鼹鼠摘月亮（凯叔演播） | 1.37331975686 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-寻胡隐君 | 1.36891809097 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+可爱的男孩 | 1.36454455075 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈祖的故事 | 1.35846833455 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小狗熊拔牙 | 1.34308944775 | 26 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+过年的故事 | 1.338879136 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+蜘蛛先生要搬家 | 1.32109562491 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+聪明的小绵羊 | 1.31447248508 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+阿拉丁神灯 | 1.30214159873 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+灰姑娘（男声版） | 1.29995496296 | 29 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+乌鸦和狐狸的故事 | 1.28884210236 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+花木兰 | 1.28258992307 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+野狼和七只小羊 | 1.27438922024 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小白兔上幼儿园 | 1.25792473224 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+偷东西的小孩与他的母亲 | 1.25766326379 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+漂亮的春姑娘 | 1.24684896184 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+娇滴滴穿衣服的故事 | 1.24157687321 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+拇指姑娘 | 1.24106148223 | 28 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+刺猬和兔子 | 1.23368701439 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+白雪公主 | 1.2284205939 | 38 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+聪明的小山羊 | 1.22449095293 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小山羊吃早餐 | 1.22378923892 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+白羊村的美容院 | 1.21473960291 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+王婆卖瓜 | 1.21473960291 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Always With | 1.21442077362 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### addr: 湖南省
 
-湖南省|weight|count
----|---|---
-皇家焰火 | 2.11627071462 | 13
-The Happy | 2.01672283928 | 14
-勇敢的布娃娃 | 2.00231767614 | 22
-小猪照镜子 | 1.93327223903 | 14
-Five Little | 1.92994474809 | 16
-Dr. Seuss’s | 1.92312997144 | 17
-妈妈的白头发 | 1.91838819271 | 16
-爷爷的肉丸子汤（凯叔演播） | 1.90696921537 | 16
-Brown bear,Brown | 1.89107780525 | 17
-刷牙儿歌 | 1.85088188551 | 11
-To Babyland | 1.8354578698 | 11
-斯美塔那-伏尔塔瓦河 | 1.77075712856 | 13
-Pop Goes | 1.74114580534 | 10
-Colour Song | 1.73277491205 | 18
-采蘑菇的小兔子 | 1.71627229384 | 21
-最好的未来 | 1.70846218101 | 25
-好甜好甜的梦 | 1.70410014991 | 24
-Let It | 1.68194684796 | 21
-爸爸去哪儿动画连环画（九） | 1.66859806345 | 11
-别看我只是一只羊 | 1.66346391557 | 27
-鲁鲁龙的礼物（凯叔演播） | 1.65797005031 | 13
-妈咪的怀抱里 | 1.65328982434 | 27
-晚安 | 1.64824930658 | 27
-老虎的大屁股 | 1.64574055573 | 24
-Five little | 1.63711508112 | 13
-爱美的小公鸡 | 1.63454504175 | 16
-Peek-a-boo | 1.62790054971 | 10
-胆小先生 | 1.61324172959 | 17
-三颗星星 | 1.6110601992 | 14
-Three little | 1.60900527547 | 18
-可爱的男孩 | 1.59929526849 | 25
-爸爸演唱的天籁摇篮曲 | 1.58077711274 | 12
-安妮的仙境 | 1.57485659921 | 14
-little star | 1.55869040658 | 13
-糊涂猪说新闻 | 1.55869040658 | 26
-文具用品名称 | 1.55109115758 | 11
-森林狂想曲 | 1.54619125571 | 20
-温暖的冬天 | 1.5255753723 | 16
-神奇小火车 | 1.52350257967 | 21
-REGALERO UN | 1.52074760213 | 18
-大棕熊的秘密（凯叔演播） | 1.51899961638 | 11
-Open Shut | 1.51899961638 | 11
-Ten Little | 1.51118315181 | 12
-司马光做错事 | 1.50712083151 | 14
-蔬菜香 | 1.49953306143 | 17
-鱼就是鱼（凯叔演播） | 1.4942669225 | 10
-会变的汽车 | 1.48844853802 | 42
-小蚂蚁坐汽车 | 1.48436799336 | 47
-小熊拔牙 | 1.48319827862 | 16
-孙悟空打妖怪 | 1.47151955202 | 28
-摇篮曲 | 1.46613218964 | 35
-踩高跷的小鬼 | 1.46002330552 | 14
-好宝宝 | 1.4562310372 | 12
-捏橡皮泥 | 1.4562310372 | 20
-百花仙子 | 1.45531861173 | 29
-Just for | 1.45382801568 | 44
-大象的鼻子为什么那么长 | 1.4520624369 | 19
-过马路歌 | 1.44904568668 | 11
-曹冲称象 | 1.44552345604 | 27
-找朋友 | 1.43022691153 | 19
-爸爸的爸爸叫什么 | 1.4265876573 | 56
-彩虹小巫婆 | 1.42139835035 | 23
-森林沉睡的宝宝 | 1.42040842015 | 31
-儿歌版诗词-长相思•别情 | 1.41340071257 | 30
-农夫和宝石 | 1.41102923487 | 21
-Sleep baby | 1.41008287052 | 10
-彼得·潘 | 1.40866570181 | 14
-小胖猪哭了 | 1.40022215115 | 10
-大风车 | 1.39929022293 | 42
-Im A | 1.39696582057 | 12
-渔家摇篮曲 | 1.39464912766 | 14
-洗手歌 | 1.38936328549 | 17
-刺猬和兔子 | 1.38808851032 | 40
-野兽动物名称 | 1.38525122249 | 11
-妈妈的眼睛 | 1.37900666401 | 25
-刷牙歌 | 1.37884151351 | 23
-泼水歌 | 1.37774152028 | 15
-指南针的发明 | 1.37774152028 | 15
-小兔当家（凯叔演播） | 1.37725554444 | 13
-穿衣歌 | 1.37659340235 | 11
-十二个月名称 | 1.37659340235 | 11
-荷塘月色 | 1.37563809811 | 18
-一百只老鼠 | 1.37498209521 | 16
-孔雀跳舞 | 1.37145046311 | 20
-当鸭子遇到死神（凯叔演播） | 1.36212086812 | 10
-快乐天堂 | 1.36079842068 | 21
-一只奇特的蛋（凯叔演播） | 1.35959842207 | 11
-英文字母歌 | 1.34484023025 | 27
-兔子吓跑了老虎 | 1.33487845076 | 19
-笛子版梁祝-化蝶 | 1.32855201261 | 14
-勃拉姆斯摇篮曲 | 1.32806784642 | 26
-跺脚的蝴蝶 | 1.3275034317 | 12
-肚子里的肚子里的肚子里有老鼠（凯叔演播） | 1.32506316804 | 18
-宝宝吃饭  | 1.32384639745 | 24
-养成看书好习惯 | 1.32132638527 | 13
-种子、沙子和小水滴（凯叔演播） | 1.3209734669 | 19
-火车大王的故事 | 1.31889188249 | 11
-天空之城 | 1.31731426062 | 10
-虫儿音乐会 | 1.31640262445 | 19
-恭喜恭喜 | 1.31364777958 | 33
-大象拔河 | 1.30920771132 | 17
-三个和尚—儿歌版 | 1.30383476586 | 28
-武则天催花 | 1.30020628321 | 10
-儿歌版唐诗-寻胡隐君 | 1.29958118404 | 27
-小猫刷牙 | 1.2977984938 | 21
-数数歌（你数一，我数一……） | 1.29704788738 | 16
-数字谣 | 1.29646468239 | 18
-家畜家禽名称 | 1.29561731986 | 11
-洗澡歌 | 1.29469816295 | 58
-放牛娃 | 1.29427378306 | 34
-小恐龙是从什么地方来的？ | 1.29181785558 | 16
-棒棒天使 | 1.28282190951 | 23
-爱我你就抱抱我 | 1.2819716829 | 42
-夜莺 | 1.27967671032 | 17
-小小的船 | 1.27476746463 | 41
-小小手 | 1.27420215755 | 49
-不讲信用的奇奇兔 | 1.27314996749 | 11
-好东西一起玩 | 1.27131281025 | 16
-蜘蛛先生要搬家 | 1.26784307005 | 29
-苹果姑娘 | 1.26728966845 | 30
-Always With | 1.26130247316 | 24
-第一只犰狳是怎么来的 | 1.25931929317 | 10
-小壁虎借尾巴 | 1.25144854759 | 20
-变小猪 | 1.25144854759 | 13
-阿凡提分羊 | 1.24657909799 | 16
-梦中的婚礼 | 1.24496435822 | 12
-起床歌 | 1.24485503575 | 59
-Little-Bee | 1.24437821681 | 11
-儿歌版古诗-七步诗 | 1.24415855605 | 32
-牛奶歌 | 1.24231388666 | 34
-登幽州台歌 | 1.23519596905 | 19
-摇呀摇小宝宝 | 1.23047454959 | 11
-王婆卖瓜 | 1.23009277033 | 18
-妈妈生气了 | 1.22949330991 | 49
-吃饭不挑剔 | 1.22885922363 | 17
-古朗月行 | 1.22747443748 | 16
-胡萝卜兔洗澡 | 1.22704704388 | 22
-小宝宝打电话 | 1.22590878131 | 18
-小马过河 | 1.22465912914 | 20
-Heal the | 1.22234509299 | 21
-小花狗找朋友 | 1.22145740593 | 28
-别忘了说谢谢 | 1.2196858941 | 24
-儿歌版唐诗-村居 | 1.21352586433 | 32
-公正的法官 | 1.21352586433 | 10
-国王与鹳 | 1.2110792396 | 15
-喝水歌 | 1.20707093952 | 17
-小熊和他的妈妈 | 1.20357893102 | 11
-小蜡笔大罢工（凯叔演播） | 1.20139060569 | 12
-挑食的叮当狗 | 1.20139060569 | 15
-儿歌版唐诗-咏鹅 | 1.20048457959 | 53
+湖南省|weight|count|weight*
+---|---|---|---
+皇家焰火 | 2.11627071462 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+The Happy | 2.01672283928 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+勇敢的布娃娃 | 2.00231767614 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小猪照镜子 | 1.93327223903 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Five Little | 1.92994474809 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Dr. Seuss’s | 1.92312997144 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈妈的白头发 | 1.91838819271 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+爷爷的肉丸子汤（凯叔演播） | 1.90696921537 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Brown bear,Brown | 1.89107780525 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+刷牙儿歌 | 1.85088188551 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+To Babyland | 1.8354578698 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+斯美塔那-伏尔塔瓦河 | 1.77075712856 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Pop Goes | 1.74114580534 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Colour Song | 1.73277491205 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+采蘑菇的小兔子 | 1.71627229384 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+最好的未来 | 1.70846218101 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+好甜好甜的梦 | 1.70410014991 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Let It | 1.68194684796 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+爸爸去哪儿动画连环画（九） | 1.66859806345 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+别看我只是一只羊 | 1.66346391557 | 27 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+鲁鲁龙的礼物（凯叔演播） | 1.65797005031 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈咪的怀抱里 | 1.65328982434 | 27 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+晚安 | 1.64824930658 | 27 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+老虎的大屁股 | 1.64574055573 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Five little | 1.63711508112 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+爱美的小公鸡 | 1.63454504175 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Peek-a-boo | 1.62790054971 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+胆小先生 | 1.61324172959 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+三颗星星 | 1.6110601992 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Three little | 1.60900527547 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+可爱的男孩 | 1.59929526849 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+爸爸演唱的天籁摇篮曲 | 1.58077711274 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+安妮的仙境 | 1.57485659921 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+little star | 1.55869040658 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+糊涂猪说新闻 | 1.55869040658 | 26 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+文具用品名称 | 1.55109115758 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+森林狂想曲 | 1.54619125571 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+温暖的冬天 | 1.5255753723 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+神奇小火车 | 1.52350257967 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+REGALERO UN | 1.52074760213 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大棕熊的秘密（凯叔演播） | 1.51899961638 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Open Shut | 1.51899961638 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Ten Little | 1.51118315181 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+司马光做错事 | 1.50712083151 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+蔬菜香 | 1.49953306143 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+鱼就是鱼（凯叔演播） | 1.4942669225 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+会变的汽车 | 1.48844853802 | 42 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小蚂蚁坐汽车 | 1.48436799336 | 47 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小熊拔牙 | 1.48319827862 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+孙悟空打妖怪 | 1.47151955202 | 28 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+摇篮曲 | 1.46613218964 | 35 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+踩高跷的小鬼 | 1.46002330552 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+好宝宝 | 1.4562310372 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+捏橡皮泥 | 1.4562310372 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+百花仙子 | 1.45531861173 | 29 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Just for | 1.45382801568 | 44 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大象的鼻子为什么那么长 | 1.4520624369 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+过马路歌 | 1.44904568668 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+曹冲称象 | 1.44552345604 | 27 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+找朋友 | 1.43022691153 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+爸爸的爸爸叫什么 | 1.4265876573 | 56 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+彩虹小巫婆 | 1.42139835035 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+森林沉睡的宝宝 | 1.42040842015 | 31 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版诗词-长相思•别情 | 1.41340071257 | 30 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+农夫和宝石 | 1.41102923487 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Sleep baby | 1.41008287052 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+彼得·潘 | 1.40866570181 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小胖猪哭了 | 1.40022215115 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大风车 | 1.39929022293 | 42 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Im A | 1.39696582057 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+渔家摇篮曲 | 1.39464912766 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+洗手歌 | 1.38936328549 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+刺猬和兔子 | 1.38808851032 | 40 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+野兽动物名称 | 1.38525122249 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈妈的眼睛 | 1.37900666401 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+刷牙歌 | 1.37884151351 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+泼水歌 | 1.37774152028 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+指南针的发明 | 1.37774152028 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小兔当家（凯叔演播） | 1.37725554444 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+穿衣歌 | 1.37659340235 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+十二个月名称 | 1.37659340235 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+荷塘月色 | 1.37563809811 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+一百只老鼠 | 1.37498209521 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+孔雀跳舞 | 1.37145046311 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+当鸭子遇到死神（凯叔演播） | 1.36212086812 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+快乐天堂 | 1.36079842068 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+一只奇特的蛋（凯叔演播） | 1.35959842207 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+英文字母歌 | 1.34484023025 | 27 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+兔子吓跑了老虎 | 1.33487845076 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+笛子版梁祝-化蝶 | 1.32855201261 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+勃拉姆斯摇篮曲 | 1.32806784642 | 26 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+跺脚的蝴蝶 | 1.3275034317 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+肚子里的肚子里的肚子里有老鼠（凯叔演播） | 1.32506316804 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+宝宝吃饭  | 1.32384639745 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+养成看书好习惯 | 1.32132638527 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+种子、沙子和小水滴（凯叔演播） | 1.3209734669 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+火车大王的故事 | 1.31889188249 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+天空之城 | 1.31731426062 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+虫儿音乐会 | 1.31640262445 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+恭喜恭喜 | 1.31364777958 | 33 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大象拔河 | 1.30920771132 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+三个和尚—儿歌版 | 1.30383476586 | 28 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+武则天催花 | 1.30020628321 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-寻胡隐君 | 1.29958118404 | 27 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小猫刷牙 | 1.2977984938 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+数数歌（你数一，我数一……） | 1.29704788738 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+数字谣 | 1.29646468239 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+家畜家禽名称 | 1.29561731986 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+洗澡歌 | 1.29469816295 | 58 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+放牛娃 | 1.29427378306 | 34 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小恐龙是从什么地方来的？ | 1.29181785558 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+棒棒天使 | 1.28282190951 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+爱我你就抱抱我 | 1.2819716829 | 42 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+夜莺 | 1.27967671032 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小小的船 | 1.27476746463 | 41 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小小手 | 1.27420215755 | 49 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+不讲信用的奇奇兔 | 1.27314996749 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+好东西一起玩 | 1.27131281025 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+蜘蛛先生要搬家 | 1.26784307005 | 29 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+苹果姑娘 | 1.26728966845 | 30 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Always With | 1.26130247316 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+第一只犰狳是怎么来的 | 1.25931929317 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小壁虎借尾巴 | 1.25144854759 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+变小猪 | 1.25144854759 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+阿凡提分羊 | 1.24657909799 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+梦中的婚礼 | 1.24496435822 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+起床歌 | 1.24485503575 | 59 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Little-Bee | 1.24437821681 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版古诗-七步诗 | 1.24415855605 | 32 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+牛奶歌 | 1.24231388666 | 34 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+登幽州台歌 | 1.23519596905 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+摇呀摇小宝宝 | 1.23047454959 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+王婆卖瓜 | 1.23009277033 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈妈生气了 | 1.22949330991 | 49 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+吃饭不挑剔 | 1.22885922363 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+古朗月行 | 1.22747443748 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+胡萝卜兔洗澡 | 1.22704704388 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小宝宝打电话 | 1.22590878131 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小马过河 | 1.22465912914 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Heal the | 1.22234509299 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小花狗找朋友 | 1.22145740593 | 28 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+别忘了说谢谢 | 1.2196858941 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-村居 | 1.21352586433 | 32 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+公正的法官 | 1.21352586433 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+国王与鹳 | 1.2110792396 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+喝水歌 | 1.20707093952 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小熊和他的妈妈 | 1.20357893102 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小蜡笔大罢工（凯叔演播） | 1.20139060569 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+挑食的叮当狗 | 1.20139060569 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-咏鹅 | 1.20048457959 | 53 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### addr: 吉林省
 
-吉林省|weight|count
----|---|---
-美猴王大战二郎神（凯叔演播） | 3.97793955889 | 12
-灰姑娘（男声版） | 1.89711978963 | 16
-拇指姑娘 | 1.87585692773 | 16
-睡美人 | 1.63020899672 | 12
-十二属相歌 | 1.5894537718 | 13
-快乐王子 | 1.53830996014 | 10
-公主和豌豆 | 1.5325860161 | 14
-十二个跳舞的公主 | 1.49435824699 | 13
-起床歌 | 1.48805958209 | 15
-小蚂蚁坐汽车 | 1.48493011925 | 10
-白雪公主 | 1.36813180106 | 16
-小美人鱼 | 1.33066529414 | 16
-白雪公主（狄菲菲演绎） | 1.32287451373 | 12
-龟兔赛跑 | 1.26518393876 | 17
-驴皮公主 | 1.25013218007 | 13
-小小手 | 1.22265674754 | 10
-灰姑娘（女声版） | 1.20417472694 | 11
+吉林省|weight|count|weight*
+---|---|---|---
+美猴王大战二郎神（凯叔演播） | 3.97793955889 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+灰姑娘（男声版） | 1.89711978963 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+拇指姑娘 | 1.87585692773 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+睡美人 | 1.63020899672 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+十二属相歌 | 1.5894537718 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+快乐王子 | 1.53830996014 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+公主和豌豆 | 1.5325860161 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+十二个跳舞的公主 | 1.49435824699 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+起床歌 | 1.48805958209 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小蚂蚁坐汽车 | 1.48493011925 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+白雪公主 | 1.36813180106 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小美人鱼 | 1.33066529414 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+白雪公主（狄菲菲演绎） | 1.32287451373 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+龟兔赛跑 | 1.26518393876 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+驴皮公主 | 1.25013218007 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小小手 | 1.22265674754 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+灰姑娘（女声版） | 1.20417472694 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### addr: 贵州省
 
-贵州省|weight|count
----|---|---
-大灰狼和三只小猪 | 2.43388926452 | 14
-妈妈的眼睛 | 2.41377447721 | 10
-卖火柴的小女孩 | 2.33653369394 | 10
-妈妈宝贝 | 2.10288032454 | 12
-读唐诗 | 2.05236067711 | 13
-儿歌版唐诗-悯农 | 1.88073261349 | 17
-洗澡歌 | 1.85594231542 | 19
-大家一起喜羊羊 | 1.84639875239 | 11
-儿歌版唐诗-村居 | 1.82541694839 | 11
-小小的船 | 1.76872698105 | 13
-放牛娃 | 1.66577972477 | 10
-公主和豌豆 | 1.63013978647 | 16
-儿歌版唐诗-春晓 | 1.49937991055 | 16
-儿歌版唐诗-静夜思 | 1.48328922529 | 14
-小兔子乖乖（故事版） | 1.38310992143 | 20
-小小手 | 1.36550670425 | 12
-儿歌版唐诗-登鹳雀楼 | 1.34050090229 | 11
-爱我你就抱抱我 | 1.33567093785 | 10
-灰姑娘（男声版） | 1.32423194241 | 12
-起床歌 | 1.29260293922 | 14
-儿歌版唐诗-相思 | 1.28509353167 | 11
-小红帽（狄菲菲演绎） | 1.279124285 | 12
-小红帽（儿歌版） | 1.24760150689 | 13
-拍手歌 | 1.22216757059 | 13
-妈妈生气了 | 1.20779467262 | 11
-拇指姑娘 | 1.20027415784 | 11
+贵州省|weight|count|weight*
+---|---|---|---
+大灰狼和三只小猪 | 2.43388926452 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈妈的眼睛 | 2.41377447721 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+卖火柴的小女孩 | 2.33653369394 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈妈宝贝 | 2.10288032454 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+读唐诗 | 2.05236067711 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-悯农 | 1.88073261349 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+洗澡歌 | 1.85594231542 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大家一起喜羊羊 | 1.84639875239 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-村居 | 1.82541694839 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小小的船 | 1.76872698105 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+放牛娃 | 1.66577972477 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+公主和豌豆 | 1.63013978647 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-春晓 | 1.49937991055 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-静夜思 | 1.48328922529 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小兔子乖乖（故事版） | 1.38310992143 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小小手 | 1.36550670425 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-登鹳雀楼 | 1.34050090229 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+爱我你就抱抱我 | 1.33567093785 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+灰姑娘（男声版） | 1.32423194241 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+起床歌 | 1.29260293922 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-相思 | 1.28509353167 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小红帽（狄菲菲演绎） | 1.279124285 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小红帽（儿歌版） | 1.24760150689 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+拍手歌 | 1.22216757059 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈妈生气了 | 1.20779467262 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+拇指姑娘 | 1.20027415784 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### addr: 广东省
 
-广东省|weight|count
----|---|---
-Open Shut | 1.80974694356 | 28
-Brown bear,Brown | 1.77024849836 | 34
-Little-Bee | 1.74730410108 | 33
-Be What | 1.74361001207 | 24
-Ants Go | 1.73176483535 | 17
-爸爸去哪儿动画连环画（二） | 1.71598238864 | 13
-Ten Little | 1.70934094736 | 29
-Teddy Bear | 1.6937175569 | 15
-Peek-a-boo | 1.67627547908 | 22
-梦中的婚礼 | 1.6510089622 | 34
-西游记-子母河 | 1.56198396914 | 18
-爸爸去哪儿动画连环画（三） | 1.54221202017 | 13
-Im A | 1.52565876056 | 28
-Five Little | 1.52434580121 | 27
-青春修炼手册 | 1.50619882739 | 36
-Three little | 1.50619882739 | 36
-爸爸去哪儿动画连环画（七） | 1.50304117786 | 17
-Heal the | 1.49841485412 | 55
-Colour Song | 1.48688858601 | 33
-渔舟唱晚 | 1.47977428656 | 15
-动物森林 | 1.47135691291 | 46
-钢琴曲 - | 1.47010255919 | 24
-爸爸去哪儿动画连环画（八） | 1.46167307204 | 17
-好孩子要诚实 | 1.45526456753 | 25
-Auld Lang | 1.41845030711 | 28
-快乐天堂 | 1.3951701472 | 46
-Let It | 1.3870417646 | 37
-Sleep baby | 1.38598577544 | 21
-白蛇 | 1.37991221814 | 24
-大头儿子小头爸爸—两个人出门去 | 1.37454589285 | 11
-爸爸去哪儿动画连环画（六） | 1.37149811925 | 12
-兔子的尾巴 | 1.35965443946 | 28
-爸爸去哪儿动画连环画（一） | 1.35824692969 | 10
-钟馗的故事 | 1.35645976268 | 22
-Five little | 1.35568419963 | 23
-星空 | 1.35497404552 | 12
-REGALERO UN | 1.3444925304 | 34
-爱美的小公鸡 | 1.33884340212 | 28
-夜莺 | 1.33884340212 | 38
-宝宝快吃饭 | 1.32578151527 | 29
-踩高跷的小鬼 | 1.31792397396 | 27
-坚强的葛丽莎 | 1.31792397396 | 27
-卡农 | 1.30638659237 | 23
-森林狂想曲 | 1.30265844531 | 36
-好东西一起玩 | 1.30165330762 | 35
-天空之城 | 1.29480250074 | 21
-小小猴真淘气 | 1.29480250074 | 21
-Two Little | 1.29267638826 | 12
-孔雀跳舞 | 1.28382244039 | 40
-The Happy | 1.28105160059 | 19
-小熊和他的妈妈 | 1.28031472881 | 25
-洗澡真舒服 | 1.27986351657 | 31
-鲸鱼的喉咙是怎么卡住的 | 1.26814540069 | 41
-安妮的仙境 | 1.26362748066 | 24
-饭前先洗手 | 1.25891245274 | 27
-小熊拔牙 | 1.25826486403 | 29
-大头儿子小头爸爸—两个人的故事 | 1.24958717531 | 18
-美女与野兽 | 1.24039903432 | 36
-蔬菜香 | 1.23857759668 | 30
-第一只犰狳是怎么来的 | 1.23779861706 | 21
-Just for | 1.23721502506 | 80
-晚安晚安 | 1.23676150049 | 45
-狮子和兔子 | 1.23505709188 | 17
-国王与衬衫 | 1.23434830732 | 27
-小懒猫 | 1.22727311861 | 33
-老袋鼠之歌 | 1.22623040568 | 28
-The Morning | 1.22242223672 | 12
-Bingo | 1.21834749593 | 13
-月下老人的故事 | 1.21620125842 | 17
-四只老鼠和一只小猫的故事（凯叔演播） | 1.21332683317 | 29
-懂礼貌的欢欢 | 1.21039348162 | 35
-爸爸去哪儿动画连环画（九） | 1.20698761252 | 17
-拖拉鬼的生日派对 | 1.20314981407 | 19
-Happy New | 1.20243294228 | 34
-小飞侠-陶典演绎 | 1.20152613011 | 10
-胡萝卜兔洗澡 | 1.20085675622 | 46
-妈妈丢了 | 1.20006085434 | 21
+广东省|weight|count|weight*
+---|---|---|---
+Open Shut | 1.80974694356 | 28 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Brown bear,Brown | 1.77024849836 | 34 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Little-Bee | 1.74730410108 | 33 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Be What | 1.74361001207 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Ants Go | 1.73176483535 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+爸爸去哪儿动画连环画（二） | 1.71598238864 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Ten Little | 1.70934094736 | 29 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Teddy Bear | 1.6937175569 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Peek-a-boo | 1.67627547908 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+梦中的婚礼 | 1.6510089622 | 34 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+西游记-子母河 | 1.56198396914 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+爸爸去哪儿动画连环画（三） | 1.54221202017 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Im A | 1.52565876056 | 28 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Five Little | 1.52434580121 | 27 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+青春修炼手册 | 1.50619882739 | 36 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Three little | 1.50619882739 | 36 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+爸爸去哪儿动画连环画（七） | 1.50304117786 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Heal the | 1.49841485412 | 55 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Colour Song | 1.48688858601 | 33 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+渔舟唱晚 | 1.47977428656 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+动物森林 | 1.47135691291 | 46 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+钢琴曲 - | 1.47010255919 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+爸爸去哪儿动画连环画（八） | 1.46167307204 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+好孩子要诚实 | 1.45526456753 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Auld Lang | 1.41845030711 | 28 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+快乐天堂 | 1.3951701472 | 46 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Let It | 1.3870417646 | 37 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Sleep baby | 1.38598577544 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+白蛇 | 1.37991221814 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大头儿子小头爸爸—两个人出门去 | 1.37454589285 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+爸爸去哪儿动画连环画（六） | 1.37149811925 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+兔子的尾巴 | 1.35965443946 | 28 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+爸爸去哪儿动画连环画（一） | 1.35824692969 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+钟馗的故事 | 1.35645976268 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Five little | 1.35568419963 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+星空 | 1.35497404552 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+REGALERO UN | 1.3444925304 | 34 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+爱美的小公鸡 | 1.33884340212 | 28 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+夜莺 | 1.33884340212 | 38 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+宝宝快吃饭 | 1.32578151527 | 29 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+踩高跷的小鬼 | 1.31792397396 | 27 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+坚强的葛丽莎 | 1.31792397396 | 27 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+卡农 | 1.30638659237 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+森林狂想曲 | 1.30265844531 | 36 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+好东西一起玩 | 1.30165330762 | 35 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+天空之城 | 1.29480250074 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小小猴真淘气 | 1.29480250074 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Two Little | 1.29267638826 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+孔雀跳舞 | 1.28382244039 | 40 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+The Happy | 1.28105160059 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小熊和他的妈妈 | 1.28031472881 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+洗澡真舒服 | 1.27986351657 | 31 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+鲸鱼的喉咙是怎么卡住的 | 1.26814540069 | 41 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+安妮的仙境 | 1.26362748066 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+饭前先洗手 | 1.25891245274 | 27 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小熊拔牙 | 1.25826486403 | 29 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大头儿子小头爸爸—两个人的故事 | 1.24958717531 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+美女与野兽 | 1.24039903432 | 36 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+蔬菜香 | 1.23857759668 | 30 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+第一只犰狳是怎么来的 | 1.23779861706 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Just for | 1.23721502506 | 80 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+晚安晚安 | 1.23676150049 | 45 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+狮子和兔子 | 1.23505709188 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+国王与衬衫 | 1.23434830732 | 27 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小懒猫 | 1.22727311861 | 33 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+老袋鼠之歌 | 1.22623040568 | 28 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+The Morning | 1.22242223672 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Bingo | 1.21834749593 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+月下老人的故事 | 1.21620125842 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+四只老鼠和一只小猫的故事（凯叔演播） | 1.21332683317 | 29 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+懂礼貌的欢欢 | 1.21039348162 | 35 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+爸爸去哪儿动画连环画（九） | 1.20698761252 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+拖拉鬼的生日派对 | 1.20314981407 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Happy New | 1.20243294228 | 34 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小飞侠-陶典演绎 | 1.20152613011 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+胡萝卜兔洗澡 | 1.20085675622 | 46 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈妈丢了 | 1.20006085434 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### addr: 新疆维吾尔自治区
 
-新疆维吾尔自治区|weight|count
----|---|---
-七爷八爷的故事 | 2.83515247778 | 10
-快乐天堂 | 2.68467836569 | 14
-小熊维尼之串门的遭遇 | 2.28635447404 | 12
-胡萝卜兔洗澡 | 2.14571289196 | 13
-种子、沙子和小水滴（凯叔演播） | 2.05745440228 | 10
-野狼和七只小羊 | 1.97010467573 | 13
-鲸鱼的喉咙是怎么卡住的 | 1.95560022395 | 10
-小猫刷牙 | 1.82884835758 | 10
-妈咪的怀抱里 | 1.81206993228 | 10
-晚安 | 1.80654532883 | 10
-阿拉丁神灯 | 1.71621806239 | 19
-老鼠画猫 | 1.64140406608 | 10
-一字歌 | 1.63686980071 | 10
-两只小羊要过桥 | 1.63236051751 | 10
-聪明的一休 | 1.56249681179 | 13
-青蛙王子 | 1.5001186528 | 10
-宝宝歌 | 1.42314749922 | 11
-妈妈宝贝 | 1.42211248285 | 12
-三只小猪盖房子 | 1.40474472983 | 11
-宝贝乖乖睡 | 1.36566499634 | 18
-摇篮曲 | 1.36360157875 | 11
-森林沉睡的宝宝 | 1.35594248937 | 10
-宝葫芦的故事 | 1.33993010319 | 18
-公主和七兄弟 | 1.32412707901 | 12
-小星星 | 1.30708867909 | 12
-蜘蛛先生要搬家 | 1.29377045383 | 10
-过新年 | 1.2881453649 | 10
-有三根金发的鬼 | 1.28019385031 | 14
-Just for | 1.27114014556 | 13
-驴皮公主 | 1.27104026813 | 21
-快乐王子 | 1.25867798727 | 13
-金发公主 | 1.255016059 | 14
-苹果姑娘 | 1.25009887733 | 10
-放牛娃 | 1.23916645369 | 11
-黑猫警长之地道擒贼 | 1.23190617018 | 10
-玛丽莎和小精灵 | 1.22174611929 | 12
-莴苣姑娘 | 1.21152705324 | 11
-两位商人 | 1.21133942321 | 12
+新疆维吾尔自治区|weight|count|weight*
+---|---|---|---
+七爷八爷的故事 | 2.83515247778 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+快乐天堂 | 2.68467836569 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小熊维尼之串门的遭遇 | 2.28635447404 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+胡萝卜兔洗澡 | 2.14571289196 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+种子、沙子和小水滴（凯叔演播） | 2.05745440228 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+野狼和七只小羊 | 1.97010467573 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+鲸鱼的喉咙是怎么卡住的 | 1.95560022395 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小猫刷牙 | 1.82884835758 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈咪的怀抱里 | 1.81206993228 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+晚安 | 1.80654532883 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+阿拉丁神灯 | 1.71621806239 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+老鼠画猫 | 1.64140406608 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+一字歌 | 1.63686980071 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+两只小羊要过桥 | 1.63236051751 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+聪明的一休 | 1.56249681179 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+青蛙王子 | 1.5001186528 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+宝宝歌 | 1.42314749922 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈妈宝贝 | 1.42211248285 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+三只小猪盖房子 | 1.40474472983 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+宝贝乖乖睡 | 1.36566499634 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+摇篮曲 | 1.36360157875 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+森林沉睡的宝宝 | 1.35594248937 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+宝葫芦的故事 | 1.33993010319 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+公主和七兄弟 | 1.32412707901 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小星星 | 1.30708867909 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+蜘蛛先生要搬家 | 1.29377045383 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+过新年 | 1.2881453649 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+有三根金发的鬼 | 1.28019385031 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Just for | 1.27114014556 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+驴皮公主 | 1.27104026813 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+快乐王子 | 1.25867798727 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+金发公主 | 1.255016059 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+苹果姑娘 | 1.25009887733 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+放牛娃 | 1.23916645369 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+黑猫警长之地道擒贼 | 1.23190617018 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+玛丽莎和小精灵 | 1.22174611929 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+莴苣姑娘 | 1.21152705324 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+两位商人 | 1.21133942321 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### addr: 福建省
 
-福建省|weight|count
----|---|---
-听听小线报-国王与小偷 | 2.14989009166 | 12
-听听小线报-黑猫的秘密 | 2.08833904609 | 10
-听听小线报-北极女巫的故事 | 2.01023187704 | 15
-宝贝乖乖睡 | 1.96132738836 | 45
-一只小老鼠 | 1.85932371373 | 13
-《爸爸去哪儿》第二季主题曲 | 1.83291911661 | 14
-雪女王 | 1.8001884181 | 11
-听听小线报-围裙妈妈日记 | 1.78531082786 | 15
-家庭礼貌称呼歌 | 1.78219510216 | 10
-Let It | 1.77007617547 | 13
-听听小线报-侦探小子和朋友们 | 1.74563725391 | 12
-数数歌（你数一，我数一……） | 1.65376160897 | 12
-七爷八爷的故事 | 1.62870461489 | 10
-一百只老鼠 | 1.60703515435 | 11
-摇到外婆桥 | 1.58941290823 | 12
-公主和七兄弟 | 1.58472655732 | 25
-摇篮曲 | 1.56669117558 | 22
-为什么不能多吃巧克力？ | 1.55908060082 | 12
-宝贝 | 1.54026816522 | 10
-英文字母歌 | 1.52417581125 | 18
-乌鸦和狐狸的故事 | 1.51709978613 | 16
-江南Style | 1.51030390398 | 13
-晚安晚安 | 1.49735746853 | 15
-金发公主 | 1.49343096382 | 29
-兔子的尾巴是怎样变短的 | 1.44015073448 | 11
-睡美人 | 1.42447022668 | 29
-苏莱曼公主阿伊达 | 1.40164403035 | 14
-勃拉姆斯摇篮曲 | 1.38938475311 | 16
-过年的故事 | 1.38720703406 | 13
-小星星 | 1.37661467266 | 22
-春晓（童声） | 1.35873656003 | 19
-小美人鱼 | 1.35317728826 | 45
-龟兔赛跑 | 1.34545163839 | 50
-住在谷仓下的老鼠 | 1.34461247936 | 19
-Always With | 1.3401545847 | 15
-宝宝歌 | 1.33781370333 | 18
-花仙子 | 1.33055087106 | 12
-孙悟空大闹天宫 | 1.329684627 | 10
-森林狂想曲 | 1.31428287457 | 10
-三只熊的故事 | 1.30922794043 | 10
-公主和豌豆 | 1.30618322429 | 33
-妈祖的故事 | 1.29923383402 | 10
-Just for | 1.29194440327 | 23
-十二个跳舞的公主 | 1.28844654455 | 31
-小男子汉-自己的事情自己做 | 1.28452552646 | 10
-Happy New | 1.28452552646 | 10
-游子吟 | 1.26660191447 | 16
-梦想起航 | 1.26073801671 | 10
-腊八的故事 | 1.26073801671 | 10
-金鹅 | 1.25255140622 | 17
-小公主不生气 | 1.25146788424 | 10
-肚子里的肚子里的肚子里有老鼠（凯叔演播） | 1.25146788424 | 10
-白雪公主 | 1.23669124255 | 40
-拇指姑娘 | 1.22933731891 | 29
-数字谣 | 1.22445778602 | 10
-小跳蛙 | 1.2196716318 | 11
-樵夫与仙女 | 1.21177731704 | 11
-手捧空花盆的孩子 | 1.20809759848 | 17
-好甜好甜的梦 | 1.20708959047 | 10
-偷东西的小孩与他的母亲 | 1.20282425623 | 10
+福建省|weight|count|weight*
+---|---|---|---
+听听小线报-国王与小偷 | 2.14989009166 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+听听小线报-黑猫的秘密 | 2.08833904609 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+听听小线报-北极女巫的故事 | 2.01023187704 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+宝贝乖乖睡 | 1.96132738836 | 45 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+一只小老鼠 | 1.85932371373 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+《爸爸去哪儿》第二季主题曲 | 1.83291911661 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+雪女王 | 1.8001884181 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+听听小线报-围裙妈妈日记 | 1.78531082786 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+家庭礼貌称呼歌 | 1.78219510216 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Let It | 1.77007617547 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+听听小线报-侦探小子和朋友们 | 1.74563725391 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+数数歌（你数一，我数一……） | 1.65376160897 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+七爷八爷的故事 | 1.62870461489 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+一百只老鼠 | 1.60703515435 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+摇到外婆桥 | 1.58941290823 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+公主和七兄弟 | 1.58472655732 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+摇篮曲 | 1.56669117558 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+为什么不能多吃巧克力？ | 1.55908060082 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+宝贝 | 1.54026816522 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+英文字母歌 | 1.52417581125 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+乌鸦和狐狸的故事 | 1.51709978613 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+江南Style | 1.51030390398 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+晚安晚安 | 1.49735746853 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+金发公主 | 1.49343096382 | 29 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+兔子的尾巴是怎样变短的 | 1.44015073448 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+睡美人 | 1.42447022668 | 29 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+苏莱曼公主阿伊达 | 1.40164403035 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+勃拉姆斯摇篮曲 | 1.38938475311 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+过年的故事 | 1.38720703406 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小星星 | 1.37661467266 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+春晓（童声） | 1.35873656003 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小美人鱼 | 1.35317728826 | 45 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+龟兔赛跑 | 1.34545163839 | 50 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+住在谷仓下的老鼠 | 1.34461247936 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Always With | 1.3401545847 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+宝宝歌 | 1.33781370333 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+花仙子 | 1.33055087106 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+孙悟空大闹天宫 | 1.329684627 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+森林狂想曲 | 1.31428287457 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+三只熊的故事 | 1.30922794043 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+公主和豌豆 | 1.30618322429 | 33 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈祖的故事 | 1.29923383402 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Just for | 1.29194440327 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+十二个跳舞的公主 | 1.28844654455 | 31 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小男子汉-自己的事情自己做 | 1.28452552646 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Happy New | 1.28452552646 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+游子吟 | 1.26660191447 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+梦想起航 | 1.26073801671 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+腊八的故事 | 1.26073801671 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+金鹅 | 1.25255140622 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小公主不生气 | 1.25146788424 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+肚子里的肚子里的肚子里有老鼠（凯叔演播） | 1.25146788424 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+白雪公主 | 1.23669124255 | 40 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+拇指姑娘 | 1.22933731891 | 29 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+数字谣 | 1.22445778602 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小跳蛙 | 1.2196716318 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+樵夫与仙女 | 1.21177731704 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+手捧空花盆的孩子 | 1.20809759848 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+好甜好甜的梦 | 1.20708959047 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+偷东西的小孩与他的母亲 | 1.20282425623 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### addr: 河南省
 
-河南省|weight|count
----|---|---
-彭野新儿歌-老歌新唱 | 5.02648273187 | 19
-少儿版西游记（下） | 4.44533632456 | 25
-Peek-a-boo | 1.85186205911 | 21
-找朋友 | 1.63107077172 | 40
-宝贝不要哭 | 1.62699309479 | 18
-兔子的尾巴是怎样变短的 | 1.58527532313 | 38
-天天不捣蛋了 | 1.58179884216 | 14
-可爱的男孩 | 1.55941830172 | 45
-Pop Goes | 1.50909504444 | 16
-亲亲我的宝贝 | 1.48583844273 | 20
-《爸爸去哪儿》第一季主题曲 | 1.47908463163 | 15
-孔融让梨 | 1.47788504961 | 56
-小小羊儿要回家 | 1.46831982354 | 31
-梁祝-化蝶 | 1.4634329424 | 34
-饭前先洗手 | 1.4570087416 | 27
-蔬菜香 | 1.43347409233 | 30
-小山羊吃早餐 | 1.42964054174 | 46
-little star | 1.42889613115 | 22
-妈妈的白头发 | 1.42889613115 | 22
-家庭安全常识 | 1.42889613115 | 22
-第一次提问（凯叔演播） | 1.42250762386 | 16
-Open Shut | 1.42128132418 | 19
-狼来了（女声版） | 1.40797479357 | 27
-别说我小 | 1.40222472048 | 34
-妈咪的怀抱里 | 1.39314393438 | 42
-中元节 劈山救母（中）（凯叔演播） | 1.39314393438 | 14
-吃饭不吃蔬菜为什么不好？ | 1.39182300144 | 29
-不想长大（童音版） | 1.38922234695 | 26
-妈妈丢了 | 1.38889654433 | 21
-好甜好甜的梦 | 1.38467497429 | 36
-边吃饭边看电视为什么不好？ | 1.38241243348 | 26
-驴小弟变石头（凯叔演播） | 1.36394630701 | 21
-哪吒闹海 | 1.36083063279 | 34
-上学歌 | 1.35582757899 | 15
-十二属相歌 | 1.35230594892 | 96
-宝宝歌 | 1.34990693454 | 57
-豌豆上的公主 | 1.34578441174 | 67
-奶奶的护身符（凯叔演播） | 1.34382910484 | 14
-森林沉睡的宝宝 | 1.34031467763 | 54
-爱我你就抱抱我 | 1.33929309632 | 81
-摇呀摇小宝宝 | 1.33310421175 | 22
-猴子的屁股为什么是红的？ | 1.33024592656 | 13
-象老爹（下）（凯叔演播） | 1.33024592656 | 13
-小兔子乖乖（故事版） | 1.32693464716 | 155
-月下老人的故事 | 1.32477809245 | 16
-爸爸的爸爸叫什么 | 1.32477809245 | 96
-一字歌 | 1.31837377847 | 44
-数数歌（你数一，我数一……） | 1.31740331562 | 30
-做个小小男子汉 | 1.31474189478 | 24
-中元节 劈山救母（上）（凯叔演播） | 1.30907490385 | 14
-会变的汽车 | 1.30543398756 | 68
-乖乖吃饭歌 | 1.30004218665 | 67
-Let Us | 1.29126436094 | 10
-儿歌版百家姓 | 1.28986839947 | 22
-小羊睡不着 | 1.28926240069 | 92
-穿衣歌 | 1.28803620004 | 19
-门神的故事 | 1.28688719362 | 14
-Dr. Seuss’s | 1.28688719362 | 21
-梦想起航 | 1.28552540823 | 32
-笛子版梁祝-化蝶 | 1.28514462464 | 25
-洗手歌 | 1.28388570745 | 29
-孙悟空打妖怪 | 1.28109692503 | 45
-熊与狐狸 | 1.27866665986 | 29
-小白兔白又白 | 1.27607301552 | 56
-宝宝快吃饭 | 1.2698482691 | 24
-小恐龙是从什么地方来的？ | 1.26835483196 | 29
-花儿一簇簇开了 | 1.2671285785 | 25
-摇到外婆桥 | 1.26614248622 | 30
-狮子和兔子 | 1.2612349572 | 15
-儿歌版唐诗-静夜思 | 1.2590998557 | 96
-中元节 劈山救母（下）（凯叔演播） | 1.25898275192 | 13
-恐龙为什么会消失呢？ | 1.2575792037 | 16
-学害怕的人 | 1.25592449422 | 33
-小熊维尼之串门的遭遇 | 1.25555737218 | 36
-斯美塔那-伏尔塔瓦河 | 1.25437109349 | 17
-我不知道我是谁（凯叔演播） | 1.25437109349 | 17
-小小手 | 1.25370030681 | 89
-不是我的我不要 | 1.25362952027 | 23
-入睡 | 1.24934897331 | 22
-曹冲称象 | 1.24707135608 | 43
-儿歌版唐诗-悯农 | 1.24626575443 | 91
-十二生肖歌 | 1.24554495295 | 24
-漂亮的春姑娘 | 1.24356160111 | 36
-睡前刷牙为什么好？ | 1.24356160111 | 18
-什么动物怎样叫 | 1.24297823888 | 95
-公交安全儿歌 | 1.24234421335 | 26
-我还有点小糊涂 | 1.2409269367 | 27
-小跳蛙 | 1.23658541406 | 35
-美女与野兽 | 1.23619573379 | 31
-拍手歌 | 1.23362852681 | 106
-喝水歌 | 1.23082219937 | 32
-儿歌版唐诗-春晓 | 1.22967036041 | 106
-小猫儿不要叫 | 1.22928367162 | 17
-Ten Little | 1.22791931682 | 18
-宝贝 | 1.22699328416 | 25
-吃早饭 | 1.22647300432 | 32
-Little-Bee | 1.22560685107 | 20
-Always With | 1.22415928392 | 43
-妈妈生气了 | 1.22330307879 | 90
-赶海的小姑娘 | 1.2221544374 | 16
-蚂蚁小黑豆儿 | 1.22114272015 | 51
-开心的小病号 | 1.22024482109 | 27
-勃拉姆斯摇篮曲 | 1.21747782603 | 44
-小胖猪哭了 | 1.21360790287 | 16
-宝贝乖乖睡 | 1.20826631879 | 87
-当家里来了陌生人 | 1.20518007021 | 22
-花木兰 | 1.20518007021 | 37
-听听小线报-侦探小子和朋友们 | 1.20518007021 | 26
-清晨 | 1.20518007021 | 15
-小手拍拍 | 1.20147182384 | 36
+河南省|weight|count|weight*
+---|---|---|---
+彭野新儿歌-老歌新唱 | 5.02648273187 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+少儿版西游记（下） | 4.44533632456 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Peek-a-boo | 1.85186205911 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+找朋友 | 1.63107077172 | 40 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+宝贝不要哭 | 1.62699309479 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+兔子的尾巴是怎样变短的 | 1.58527532313 | 38 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+天天不捣蛋了 | 1.58179884216 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+可爱的男孩 | 1.55941830172 | 45 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Pop Goes | 1.50909504444 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+亲亲我的宝贝 | 1.48583844273 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+《爸爸去哪儿》第一季主题曲 | 1.47908463163 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+孔融让梨 | 1.47788504961 | 56 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小小羊儿要回家 | 1.46831982354 | 31 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+梁祝-化蝶 | 1.4634329424 | 34 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+饭前先洗手 | 1.4570087416 | 27 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+蔬菜香 | 1.43347409233 | 30 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小山羊吃早餐 | 1.42964054174 | 46 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+little star | 1.42889613115 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈妈的白头发 | 1.42889613115 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+家庭安全常识 | 1.42889613115 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+第一次提问（凯叔演播） | 1.42250762386 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Open Shut | 1.42128132418 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+狼来了（女声版） | 1.40797479357 | 27 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+别说我小 | 1.40222472048 | 34 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈咪的怀抱里 | 1.39314393438 | 42 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+中元节 劈山救母（中）（凯叔演播） | 1.39314393438 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+吃饭不吃蔬菜为什么不好？ | 1.39182300144 | 29 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+不想长大（童音版） | 1.38922234695 | 26 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈妈丢了 | 1.38889654433 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+好甜好甜的梦 | 1.38467497429 | 36 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+边吃饭边看电视为什么不好？ | 1.38241243348 | 26 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+驴小弟变石头（凯叔演播） | 1.36394630701 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+哪吒闹海 | 1.36083063279 | 34 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+上学歌 | 1.35582757899 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+十二属相歌 | 1.35230594892 | 96 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+宝宝歌 | 1.34990693454 | 57 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+豌豆上的公主 | 1.34578441174 | 67 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+奶奶的护身符（凯叔演播） | 1.34382910484 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+森林沉睡的宝宝 | 1.34031467763 | 54 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+爱我你就抱抱我 | 1.33929309632 | 81 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+摇呀摇小宝宝 | 1.33310421175 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+猴子的屁股为什么是红的？ | 1.33024592656 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+象老爹（下）（凯叔演播） | 1.33024592656 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小兔子乖乖（故事版） | 1.32693464716 | 155 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+月下老人的故事 | 1.32477809245 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+爸爸的爸爸叫什么 | 1.32477809245 | 96 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+一字歌 | 1.31837377847 | 44 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+数数歌（你数一，我数一……） | 1.31740331562 | 30 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+做个小小男子汉 | 1.31474189478 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+中元节 劈山救母（上）（凯叔演播） | 1.30907490385 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+会变的汽车 | 1.30543398756 | 68 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+乖乖吃饭歌 | 1.30004218665 | 67 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Let Us | 1.29126436094 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版百家姓 | 1.28986839947 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小羊睡不着 | 1.28926240069 | 92 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+穿衣歌 | 1.28803620004 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+门神的故事 | 1.28688719362 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Dr. Seuss’s | 1.28688719362 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+梦想起航 | 1.28552540823 | 32 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+笛子版梁祝-化蝶 | 1.28514462464 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+洗手歌 | 1.28388570745 | 29 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+孙悟空打妖怪 | 1.28109692503 | 45 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+熊与狐狸 | 1.27866665986 | 29 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小白兔白又白 | 1.27607301552 | 56 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+宝宝快吃饭 | 1.2698482691 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小恐龙是从什么地方来的？ | 1.26835483196 | 29 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+花儿一簇簇开了 | 1.2671285785 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+摇到外婆桥 | 1.26614248622 | 30 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+狮子和兔子 | 1.2612349572 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-静夜思 | 1.2590998557 | 96 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+中元节 劈山救母（下）（凯叔演播） | 1.25898275192 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+恐龙为什么会消失呢？ | 1.2575792037 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+学害怕的人 | 1.25592449422 | 33 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小熊维尼之串门的遭遇 | 1.25555737218 | 36 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+斯美塔那-伏尔塔瓦河 | 1.25437109349 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+我不知道我是谁（凯叔演播） | 1.25437109349 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小小手 | 1.25370030681 | 89 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+不是我的我不要 | 1.25362952027 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+入睡 | 1.24934897331 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+曹冲称象 | 1.24707135608 | 43 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-悯农 | 1.24626575443 | 91 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+十二生肖歌 | 1.24554495295 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+漂亮的春姑娘 | 1.24356160111 | 36 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+睡前刷牙为什么好？ | 1.24356160111 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+什么动物怎样叫 | 1.24297823888 | 95 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+公交安全儿歌 | 1.24234421335 | 26 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+我还有点小糊涂 | 1.2409269367 | 27 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小跳蛙 | 1.23658541406 | 35 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+美女与野兽 | 1.23619573379 | 31 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+拍手歌 | 1.23362852681 | 106 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+喝水歌 | 1.23082219937 | 32 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-春晓 | 1.22967036041 | 106 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小猫儿不要叫 | 1.22928367162 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Ten Little | 1.22791931682 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+宝贝 | 1.22699328416 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+吃早饭 | 1.22647300432 | 32 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Little-Bee | 1.22560685107 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Always With | 1.22415928392 | 43 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈妈生气了 | 1.22330307879 | 90 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+赶海的小姑娘 | 1.2221544374 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+蚂蚁小黑豆儿 | 1.22114272015 | 51 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+开心的小病号 | 1.22024482109 | 27 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+勃拉姆斯摇篮曲 | 1.21747782603 | 44 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小胖猪哭了 | 1.21360790287 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+宝贝乖乖睡 | 1.20826631879 | 87 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+当家里来了陌生人 | 1.20518007021 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+花木兰 | 1.20518007021 | 37 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+听听小线报-侦探小子和朋友们 | 1.20518007021 | 26 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+清晨 | 1.20518007021 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小手拍拍 | 1.20147182384 | 36 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### addr: 海南省
 
-海南省|weight|count
----|---|---
-望庐山瀑布 | 3.68004430025 | 10
-静夜思（童声） | 3.25657688077 | 11
-早发白帝城（童声） | 2.96656632367 | 11
-小羊睡不着 | 2.62928229721 | 14
-儿歌版唐诗-悯农 | 2.20245075545 | 12
-小狗熊拔牙 | 2.10974963512 | 10
-儿歌版唐诗-登鹳雀楼 | 2.02172113852 | 10
-儿歌版唐诗-春晓 | 1.71013823364 | 11
-小红帽（儿歌版） | 1.59213307623 | 10
+海南省|weight|count|weight*
+---|---|---|---
+望庐山瀑布 | 3.68004430025 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+静夜思（童声） | 3.25657688077 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+早发白帝城（童声） | 2.96656632367 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小羊睡不着 | 2.62928229721 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-悯农 | 2.20245075545 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小狗熊拔牙 | 2.10974963512 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-登鹳雀楼 | 2.02172113852 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-春晓 | 1.71013823364 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小红帽（儿歌版） | 1.59213307623 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### addr: 内蒙古自治区
 
-内蒙古自治区|weight|count
----|---|---
-英文字母歌 | 2.0210857936 | 14
-画蛇添足 | 1.83265373465 | 12
-手捧空花盆的孩子 | 1.81734973687 | 15
-拇指姑娘 | 1.73451661063 | 24
-青蛙王子 | 1.61613768161 | 11
-阿拉丁神灯 | 1.59239729992 | 18
-虎姑婆 | 1.57701181877 | 10
-卖火柴的小女孩 | 1.54757426482 | 10
-公主和豌豆 | 1.48459159125 | 22
-渔夫和金鱼 | 1.46209777926 | 13
-黑猫警长之地道擒贼 | 1.44783455128 | 12
-睡美人 | 1.42363433452 | 17
-雪花仙后 | 1.41202031461 | 10
-公主和七兄弟 | 1.40492077113 | 13
-城里老鼠和乡下老鼠 | 1.39841048026 | 10
-妈妈宝贝 | 1.39281683833 | 12
-小花狗找朋友 | 1.39079386544 | 11
-山行（童声） | 1.3524881022 | 11
-狮子和老鼠 | 1.34962871932 | 12
-小兄妹 | 1.34701821889 | 12
-亲亲猪猪宝贝 | 1.29487704713 | 11
-聪明的一休 | 1.29487704713 | 11
-豌豆上的公主 | 1.28964522068 | 12
-小兔子乖乖（故事版） | 1.28252010896 | 28
-金鹅 | 1.25614794222 | 10
-有三根金发的鬼 | 1.25382174233 | 14
-Just for | 1.24495454472 | 13
-快乐王子 | 1.232749108 | 13
-金发公主 | 1.22916261578 | 14
+内蒙古自治区|weight|count|weight*
+---|---|---|---
+英文字母歌 | 2.0210857936 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+画蛇添足 | 1.83265373465 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+手捧空花盆的孩子 | 1.81734973687 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+拇指姑娘 | 1.73451661063 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+青蛙王子 | 1.61613768161 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+阿拉丁神灯 | 1.59239729992 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+虎姑婆 | 1.57701181877 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+卖火柴的小女孩 | 1.54757426482 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+公主和豌豆 | 1.48459159125 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+渔夫和金鱼 | 1.46209777926 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+黑猫警长之地道擒贼 | 1.44783455128 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+睡美人 | 1.42363433452 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+雪花仙后 | 1.41202031461 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+公主和七兄弟 | 1.40492077113 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+城里老鼠和乡下老鼠 | 1.39841048026 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈妈宝贝 | 1.39281683833 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小花狗找朋友 | 1.39079386544 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+山行（童声） | 1.3524881022 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+狮子和老鼠 | 1.34962871932 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小兄妹 | 1.34701821889 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+亲亲猪猪宝贝 | 1.29487704713 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+聪明的一休 | 1.29487704713 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+豌豆上的公主 | 1.28964522068 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小兔子乖乖（故事版） | 1.28252010896 | 28 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+金鹅 | 1.25614794222 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+有三根金发的鬼 | 1.25382174233 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Just for | 1.24495454472 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+快乐王子 | 1.232749108 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+金发公主 | 1.22916261578 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### addr: 北京市
 
-北京市|weight|count
----|---|---
-骆驼的背是怎么驼的 | 2.43818839425 | 17
-小耗子儿上灯台 | 2.42975175621 | 12
-入睡 | 2.30678002683 | 16
-大头儿子小头爸爸—两个人的故事 | 2.24377075758 | 11
-摇呀摇小宝宝 | 2.15374643567 | 14
-坚强的葛丽莎 | 2.00791985409 | 14
-Amazing Grace | 1.98109255902 | 10
-年兽来了 | 1.95425195015 | 11
-老袋鼠之歌 | 1.93017662876 | 15
-皇帝的新装（吴磊演绎） | 1.87753544798 | 15
-安妮的仙境 | 1.85643954407 | 12
-小妖精和面包 | 1.82365473976 | 10
-妈祖的故事 | 1.78676401411 | 17
-犀牛皮为什么又粗又皱 | 1.78378536488 | 16
-月儿明风儿静 | 1.76945777159 | 16
-小马过河 | 1.76844317424 | 21
-懒熊买西瓜 | 1.75769275981 | 12
-小鲤鱼跳龙门 | 1.7509193773 | 11
-第一只犰狳是怎么来的 | 1.73189852644 | 10
-玛琳姑娘 | 1.65733067321 | 13
-自认为是狗的猫和自认为是猫的狗 | 1.63587246952 | 12
-嘀哩嘀哩 | 1.63462751331 | 13
-司马光砸缸 | 1.62854329179 | 11
-小小旅行家 | 1.62781398445 | 12
-小白兔白又白 | 1.61983450414 | 28
-狼来了（女声版） | 1.5886838406 | 12
-兔子的尾巴是怎样变短的 | 1.5886838406 | 15
-大象的鼻子为什么那么长 | 1.57655648303 | 15
-Let It | 1.54208244794 | 14
-莴苣姑娘 | 1.53553084965 | 30
-小国王 | 1.52984369835 | 10
-都是放屁惹的祸（凯叔演播） | 1.50701021032 | 11
-神奇小火车 | 1.49658622665 | 15
-睡吧小宝贝 | 1.49658622665 | 10
-三只熊的故事 | 1.48277158456 | 14
-野狼和七只小羊 | 1.47897932986 | 21
-国王与衬衫 | 1.47760513304 | 11
-吹牛青蛙 | 1.46215149931 | 12
-踩高跷的小鬼 | 1.4342284672 | 10
-狮子、熊和狐狸 | 1.43050319846 | 12
-腊八的故事 | 1.42785411846 | 14
-玛丽莎和小精灵 | 1.41944260672 | 30
-小熊拔牙 | 1.40235672349 | 11
-指南针的发明 | 1.38949106548 | 11
-古朗月行 | 1.37158400542 | 13
-盘古开天 | 1.37062919581 | 11
-老狼老狼几点了（凯叔演播） | 1.37062919581 | 11
-宝贝 | 1.37062919581 | 11
-三个笨愿望 | 1.3654803258 | 12
-儿歌版唐诗-出塞 | 1.34470337817 | 23
-雪花仙后 | 1.34000907885 | 20
-童声跟读版百家姓 | 1.33919448366 | 16
-勃拉姆斯摇篮曲 | 1.33471057356 | 19
-海顿小夜曲 | 1.33440111134 | 11
-狮子园的故事 | 1.31699587945 | 11
-金鹅 | 1.31129459859 | 22
-百花仙子 | 1.31129459859 | 19
-三只小猪盖房子 | 1.3056424667 | 22
-夜宿山寺（童声） | 1.3003671436 | 17
-阿凡提分羊 | 1.28578303052 | 12
-小兄妹 | 1.27832200713 | 24
-十二生肖的故事 | 1.27723499862 | 25
-虎姑婆 | 1.27209829265 | 17
-女娲补天 | 1.26899477283 | 10
-不能贪吃糖 | 1.26740189236 | 11
-悯农（童声） | 1.26538494087 | 21
-为什么不能多吃巧克力？ | 1.26124518643 | 12
-儿歌版唐诗-清明 | 1.26037053651 | 33
-学害怕的人 | 1.25608219444 | 13
-登幽州台歌 | 1.25169029865 | 14
-金发公主 | 1.24979666734 | 30
-大禹治水 | 1.24790875696 | 15
-Happy New | 1.24696693903 | 12
-宝葫芦的故事 | 1.24540039765 | 36
-梅花（童声） | 1.2417298984 | 17
-刺猬和兔子 | 1.24084376227 | 26
-可爱的男孩 | 1.23169524596 | 14
-公主和七兄弟 | 1.23071224895 | 24
-仙女们 | 1.22962760244 | 38
-山行（童声） | 1.22517143639 | 21
-哪吒闹海 | 1.21935881492 | 12
-十二个跳舞的公主 | 1.21042578331 | 36
-小壁虎借尾巴 | 1.20475191245 | 14
-胡萝卜火箭 | 1.2034246059 | 17
-农夫和宝石 | 1.20128666246 | 13
+北京市|weight|count|weight*
+---|---|---|---
+骆驼的背是怎么驼的 | 2.43818839425 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小耗子儿上灯台 | 2.42975175621 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+入睡 | 2.30678002683 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大头儿子小头爸爸—两个人的故事 | 2.24377075758 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+摇呀摇小宝宝 | 2.15374643567 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+坚强的葛丽莎 | 2.00791985409 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Amazing Grace | 1.98109255902 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+年兽来了 | 1.95425195015 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+老袋鼠之歌 | 1.93017662876 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+皇帝的新装（吴磊演绎） | 1.87753544798 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+安妮的仙境 | 1.85643954407 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小妖精和面包 | 1.82365473976 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+妈祖的故事 | 1.78676401411 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+犀牛皮为什么又粗又皱 | 1.78378536488 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+月儿明风儿静 | 1.76945777159 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小马过河 | 1.76844317424 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+懒熊买西瓜 | 1.75769275981 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小鲤鱼跳龙门 | 1.7509193773 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+第一只犰狳是怎么来的 | 1.73189852644 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+玛琳姑娘 | 1.65733067321 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+自认为是狗的猫和自认为是猫的狗 | 1.63587246952 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+嘀哩嘀哩 | 1.63462751331 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+司马光砸缸 | 1.62854329179 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小小旅行家 | 1.62781398445 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小白兔白又白 | 1.61983450414 | 28 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+狼来了（女声版） | 1.5886838406 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+兔子的尾巴是怎样变短的 | 1.5886838406 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大象的鼻子为什么那么长 | 1.57655648303 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Let It | 1.54208244794 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+莴苣姑娘 | 1.53553084965 | 30 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小国王 | 1.52984369835 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+都是放屁惹的祸（凯叔演播） | 1.50701021032 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+神奇小火车 | 1.49658622665 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+睡吧小宝贝 | 1.49658622665 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+三只熊的故事 | 1.48277158456 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+野狼和七只小羊 | 1.47897932986 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+国王与衬衫 | 1.47760513304 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+吹牛青蛙 | 1.46215149931 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+踩高跷的小鬼 | 1.4342284672 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+狮子、熊和狐狸 | 1.43050319846 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+腊八的故事 | 1.42785411846 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+玛丽莎和小精灵 | 1.41944260672 | 30 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小熊拔牙 | 1.40235672349 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+指南针的发明 | 1.38949106548 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+古朗月行 | 1.37158400542 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+盘古开天 | 1.37062919581 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+老狼老狼几点了（凯叔演播） | 1.37062919581 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+宝贝 | 1.37062919581 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+三个笨愿望 | 1.3654803258 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-出塞 | 1.34470337817 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+雪花仙后 | 1.34000907885 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+童声跟读版百家姓 | 1.33919448366 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+勃拉姆斯摇篮曲 | 1.33471057356 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+海顿小夜曲 | 1.33440111134 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+狮子园的故事 | 1.31699587945 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+金鹅 | 1.31129459859 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+百花仙子 | 1.31129459859 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+三只小猪盖房子 | 1.3056424667 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+夜宿山寺（童声） | 1.3003671436 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+阿凡提分羊 | 1.28578303052 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小兄妹 | 1.27832200713 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+十二生肖的故事 | 1.27723499862 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+虎姑婆 | 1.27209829265 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+女娲补天 | 1.26899477283 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+不能贪吃糖 | 1.26740189236 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+悯农（童声） | 1.26538494087 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+为什么不能多吃巧克力？ | 1.26124518643 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-清明 | 1.26037053651 | 33 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+学害怕的人 | 1.25608219444 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+登幽州台歌 | 1.25169029865 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+金发公主 | 1.24979666734 | 30 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大禹治水 | 1.24790875696 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Happy New | 1.24696693903 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+宝葫芦的故事 | 1.24540039765 | 36 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+梅花（童声） | 1.2417298984 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+刺猬和兔子 | 1.24084376227 | 26 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+可爱的男孩 | 1.23169524596 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+公主和七兄弟 | 1.23071224895 | 24 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+仙女们 | 1.22962760244 | 38 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+山行（童声） | 1.22517143639 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+哪吒闹海 | 1.21935881492 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+十二个跳舞的公主 | 1.21042578331 | 36 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小壁虎借尾巴 | 1.20475191245 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+胡萝卜火箭 | 1.2034246059 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+农夫和宝石 | 1.20128666246 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ### addr: 河北省
 
-河北省|weight|count
----|---|---
-少儿版西游记（下） | 9.06866827247 | 25
-小耗子儿上灯台 | 2.44053866744 | 15
-七夕的传说（凯叔演播） | 1.83305152774 | 14
-小小猴真淘气 | 1.74691188828 | 12
-Penguins Game（兔子舞） | 1.72626281158 | 11
-清晨 | 1.6390778211 | 10
-咏鹅 | 1.61908906718 | 12
-Five Little | 1.59958196999 | 12
-坚持到底的小乌龟 | 1.58762694779 | 16
-彩虹糖的梦 | 1.57620908275 | 26
-小肥猫捉老鼠 | 1.57190250056 | 13
-我要自己吃饭 | 1.57034229957 | 22
-悯农（春种一粒粟） | 1.56335955219 | 13
-快乐星猫 | 1.55033793906 | 11
-好奇的小老虎 | 1.54378259894 | 15
-池上（童声） | 1.53782204837 | 18
-采蘑菇的小兔子 | 1.53538106099 | 17
-野兽动物名称 | 1.53083683291 | 11
-悯农（锄禾日当午） | 1.52253788428 | 15
-动物森林 | 1.5104130092 | 20
-我不知道我是谁（凯叔演播） | 1.50527554999 | 10
-小熊维尼之串门的遭遇 | 1.49414328708 | 21
-孩子城 | 1.49045677514 | 13
-江雪（童声） | 1.48935436629 | 21
-小白兔白又白 | 1.48756642587 | 32
-自己收拾玩具 | 1.45895937922 | 12
-刷牙歌 | 1.45750333193 | 22
-小熊和他的妈妈 | 1.45098692359 | 12
-小花狗找朋友 | 1.44624513626 | 30
-小狗熊拔牙 | 1.44519561149 | 45
-小红帽（儿歌版） | 1.42992933681 | 59
-小夜曲 | 1.4275839087 | 10
-夜宿山寺（童声） | 1.4137046207 | 23
-小懒猫 | 1.40492384666 | 16
-乖乖吃饭歌 | 1.38544592213 | 35
-Three little | 1.38297191155 | 14
-狼来了（女声版） | 1.38297191155 | 13
-三个和尚 | 1.38009671007 | 30
-Little-Bee | 1.37515851092 | 11
-捏橡皮泥 | 1.36788494524 | 17
-洗澡真舒服 | 1.36469474972 | 14
-大灰狼和三只小猪 | 1.36101997645 | 31
-数字谣 | 1.35312359691 | 17
-小国王 | 1.35223920241 | 11
-壕球球的独白 | 1.35223920241 | 11
-冰淇淋合唱团 | 1.35223920241 | 11
-爸爸的爸爸叫什么 | 1.35130079907 | 48
-我要刷牙 | 1.34827369155 | 17
-睡美人 | 1.34106367181 | 42
-小男子汉-自己的事情自己做 | 1.33600305418 | 16
-三只小猪盖房子 | 1.33528322495 | 28
-小白兔上幼儿园 | 1.3340934864 | 29
-月儿明风儿静 | 1.33298497499 | 15
-小蜡笔大罢工（凯叔演播） | 1.32765303509 | 12
-驴小弟变石头（凯叔演播） | 1.32500302903 | 10
-儿歌版唐诗-赋得古原草送别 | 1.32500302903 | 30
-听听小线报-侦探小子和朋友们 | 1.32387054781 | 14
-小小手 | 1.32190561935 | 46
-交朋友 | 1.31636986482 | 21
-儿歌版百家姓 | 1.31569219694 | 11
-十二生肖的故事 | 1.31369502544 | 32
-感恩的心 | 1.31126225688 | 16
-小小旅行家 | 1.30803254689 | 12
-勃拉姆斯摇篮曲 | 1.29830016186 | 23
-不能贪吃糖 | 1.29617451124 | 14
-胡萝卜兔洗澡 | 1.29436925427 | 21
-十二属相歌 | 1.29316854067 | 45
-开心的小病号 | 1.29077378411 | 14
-望庐山瀑布 | 1.28843965431 | 23
-老虎的大屁股 | 1.28824780802 | 17
-鸟儿和树 | 1.28719823347 | 21
-熊爸爸（凯叔演播） | 1.28648549912 | 10
-狼来了（男声版） | 1.28468261654 | 58
-兔子的尾巴是怎样变短的 | 1.27658945682 | 15
-三只熊的故事 | 1.27658945682 | 15
-吃饭不吃蔬菜为什么不好？ | 1.27282370621 | 13
-三颗星星 | 1.27169830947 | 10
-古朗月行 | 1.27169830947 | 15
-七爷八爷的故事 | 1.27048137329 | 12
-豌豆上的公主 | 1.27028531135 | 31
-蚂蚁小黑豆儿 | 1.27001394085 | 26
-温暖的冬天 | 1.26443146199 | 12
-小小羊儿要回家 | 1.25614915984 | 13
-大风车 | 1.25180818616 | 34
-胡萝卜火箭 | 1.25142959606 | 22
-娇滴滴穿衣服的故事 | 1.24972877057 | 34
-咏柳（童声） | 1.24385639382 | 19
-兔子吓跑了老虎 | 1.24224845388 | 16
-鲸鱼的喉咙是怎么卡住的 | 1.24147973578 | 17
-小鹦鹉学说话 | 1.2365395915 | 19
-公主和豌豆 | 1.23502607915 | 48
-梅花（童声） | 1.23256913072 | 21
-大家一起喜羊羊 | 1.22930836582 | 29
-儿歌版唐诗-清明 | 1.22760336116 | 40
-城里老鼠和乡下老鼠 | 1.22634617699 | 23
-虫儿音乐会 | 1.22505470366 | 16
-我要自己走 | 1.22407726639 | 13
-肚子里的肚子里的肚子里有老鼠（凯叔演播） | 1.22026933372 | 15
-REGALERO UN | 1.21374750043 | 13
-孔雀跳舞 | 1.2124685252 | 16
-饭前先洗手 | 1.21096047977 | 11
-拍手歌 | 1.21084236033 | 51
-春晓（童声） | 1.20864772102 | 26
-白羊村的美容院 | 1.20833040736 | 16
-神奇小火车 | 1.20258427091 | 15
-老狼老狼几点了（凯叔演播） | 1.20149595936 | 12
-儿歌版唐诗-悯农 | 1.20136953933 | 43
+河北省|weight|count|weight*
+---|---|---|---
+少儿版西游记（下） | 9.06866827247 | 25 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小耗子儿上灯台 | 2.44053866744 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+七夕的传说（凯叔演播） | 1.83305152774 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小小猴真淘气 | 1.74691188828 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Penguins Game（兔子舞） | 1.72626281158 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+清晨 | 1.6390778211 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+咏鹅 | 1.61908906718 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Five Little | 1.59958196999 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+坚持到底的小乌龟 | 1.58762694779 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+彩虹糖的梦 | 1.57620908275 | 26 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小肥猫捉老鼠 | 1.57190250056 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+我要自己吃饭 | 1.57034229957 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+悯农（春种一粒粟） | 1.56335955219 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+快乐星猫 | 1.55033793906 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+好奇的小老虎 | 1.54378259894 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+池上（童声） | 1.53782204837 | 18 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+采蘑菇的小兔子 | 1.53538106099 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+野兽动物名称 | 1.53083683291 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+悯农（锄禾日当午） | 1.52253788428 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+动物森林 | 1.5104130092 | 20 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+我不知道我是谁（凯叔演播） | 1.50527554999 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小熊维尼之串门的遭遇 | 1.49414328708 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+孩子城 | 1.49045677514 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+江雪（童声） | 1.48935436629 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小白兔白又白 | 1.48756642587 | 32 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+自己收拾玩具 | 1.45895937922 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+刷牙歌 | 1.45750333193 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小熊和他的妈妈 | 1.45098692359 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小花狗找朋友 | 1.44624513626 | 30 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小狗熊拔牙 | 1.44519561149 | 45 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小红帽（儿歌版） | 1.42992933681 | 59 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小夜曲 | 1.4275839087 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+夜宿山寺（童声） | 1.4137046207 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小懒猫 | 1.40492384666 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+乖乖吃饭歌 | 1.38544592213 | 35 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Three little | 1.38297191155 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+狼来了（女声版） | 1.38297191155 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+三个和尚 | 1.38009671007 | 30 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Little-Bee | 1.37515851092 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+捏橡皮泥 | 1.36788494524 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+洗澡真舒服 | 1.36469474972 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大灰狼和三只小猪 | 1.36101997645 | 31 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+数字谣 | 1.35312359691 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小国王 | 1.35223920241 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+壕球球的独白 | 1.35223920241 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+冰淇淋合唱团 | 1.35223920241 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+爸爸的爸爸叫什么 | 1.35130079907 | 48 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+我要刷牙 | 1.34827369155 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+睡美人 | 1.34106367181 | 42 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小男子汉-自己的事情自己做 | 1.33600305418 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+三只小猪盖房子 | 1.33528322495 | 28 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小白兔上幼儿园 | 1.3340934864 | 29 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+月儿明风儿静 | 1.33298497499 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小蜡笔大罢工（凯叔演播） | 1.32765303509 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+驴小弟变石头（凯叔演播） | 1.32500302903 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-赋得古原草送别 | 1.32500302903 | 30 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+听听小线报-侦探小子和朋友们 | 1.32387054781 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小小手 | 1.32190561935 | 46 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+交朋友 | 1.31636986482 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版百家姓 | 1.31569219694 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+十二生肖的故事 | 1.31369502544 | 32 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+感恩的心 | 1.31126225688 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小小旅行家 | 1.30803254689 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+勃拉姆斯摇篮曲 | 1.29830016186 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+不能贪吃糖 | 1.29617451124 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+胡萝卜兔洗澡 | 1.29436925427 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+十二属相歌 | 1.29316854067 | 45 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+开心的小病号 | 1.29077378411 | 14 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+望庐山瀑布 | 1.28843965431 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+老虎的大屁股 | 1.28824780802 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+鸟儿和树 | 1.28719823347 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+熊爸爸（凯叔演播） | 1.28648549912 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+狼来了（男声版） | 1.28468261654 | 58 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+兔子的尾巴是怎样变短的 | 1.27658945682 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+三只熊的故事 | 1.27658945682 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+吃饭不吃蔬菜为什么不好？ | 1.27282370621 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+三颗星星 | 1.27169830947 | 10 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+古朗月行 | 1.27169830947 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+七爷八爷的故事 | 1.27048137329 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+豌豆上的公主 | 1.27028531135 | 31 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+蚂蚁小黑豆儿 | 1.27001394085 | 26 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+温暖的冬天 | 1.26443146199 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小小羊儿要回家 | 1.25614915984 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大风车 | 1.25180818616 | 34 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+胡萝卜火箭 | 1.25142959606 | 22 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+娇滴滴穿衣服的故事 | 1.24972877057 | 34 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+咏柳（童声） | 1.24385639382 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+兔子吓跑了老虎 | 1.24224845388 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+鲸鱼的喉咙是怎么卡住的 | 1.24147973578 | 17 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+小鹦鹉学说话 | 1.2365395915 | 19 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+公主和豌豆 | 1.23502607915 | 48 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+梅花（童声） | 1.23256913072 | 21 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+大家一起喜羊羊 | 1.22930836582 | 29 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-清明 | 1.22760336116 | 40 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+城里老鼠和乡下老鼠 | 1.22634617699 | 23 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+虫儿音乐会 | 1.22505470366 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+我要自己走 | 1.22407726639 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+肚子里的肚子里的肚子里有老鼠（凯叔演播） | 1.22026933372 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+REGALERO UN | 1.21374750043 | 13 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+孔雀跳舞 | 1.2124685252 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+饭前先洗手 | 1.21096047977 | 11 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+拍手歌 | 1.21084236033 | 51 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+春晓（童声） | 1.20864772102 | 26 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+白羊村的美容院 | 1.20833040736 | 16 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+神奇小火车 | 1.20258427091 | 15 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+老狼老狼几点了（凯叔演播） | 1.20149595936 | 12 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+儿歌版唐诗-悯农 | 1.20136953933 | 43 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII

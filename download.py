@@ -88,10 +88,10 @@ for line in open("event_3.index"):
 
 print '## ' + str(daytime)
 for addr in addr_dict:
-    print '\n### ' + addr + '\naddr|count\n---|---'
+    print '\n### ' + addr + '\naddr|count|count*\n---|---|---'
     for daytime in addr_dict[addr]:
         if not daytime == 'total':
-            print daytime, '|', '*' * int(1.0 * addr_dict[addr][daytime] / addr_dict[addr]['total'] * 300)
+            print daytime, '|', addr_dict[addr][daytime], '|', 'I' * int(1.0 * addr_dict[addr][daytime] / addr_dict[addr]['total'] * 500)
 
 
 # print "## titles"
@@ -147,11 +147,11 @@ for prefer in prefer_dict:
     print "\n## " + prefer
     for reason in prefer_dict[prefer].keys():
         print "\n### " + prefer + ": " + reason
-        print "\n" + reason + "|weight|count"
-        print "---|---|---"
+        print "\n" + reason + "|weight|count|weight*"
+        print "---|---|---|---"
         title_dict = sorted(prefer_dict[prefer][reason].iteritems(), cmp_weight, key=lambda d:d[1], reverse = True)
         for title,detail in title_dict:
-            print title, '|', detail['weight'], '|', detail['count']
+            print title, '|', detail['weight'], '|', detail['count'], '|', 'I' * int(detail['weight'] / 2 * 100)
 
 
 # age_dict = sorted(global_dict['age'].iteritems(), key=lambda d:d[1], reverse = True)

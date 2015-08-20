@@ -77,7 +77,7 @@ for addr,detail in addr_list:
 	 1.0 * detail['total'] / detail['count'], "|",\
      detail['total'] / addrs[addr]
 
-print '\n### age\ntotal|count|total/count|total/占比\n---|---|---|---'
+print '\n## age\ntotal|count|total/count|total/占比\n---|---|---|---'
 def cmp_age(val1, val2):
     return cmp(val1,val2)
 age_list = sorted(age_dict.iteritems(), cmp_age, key=lambda d:d[0], reverse = True)
@@ -88,7 +88,7 @@ for age,detail in age_list:
 	 1.0 * detail['total'] / detail['count'], "|",\
      detail['total'] / ages[age]
 
-print '\n### gender\ntotal|count|total/count|total/占比\n---|---|---|---'
+print '\n## gender\ntotal|count|total/count|total/占比\n---|---|---|---'
 def cmp_total_gender(val1, val2):
     return cmp(val1['total'] / genders[val1['key']],
             val2['total'] / genders[val2['key']]
