@@ -3,7 +3,7 @@
 import sys
 import time
 
-n = 10000000 #000
+n = 1000000#0000
 title_dict = {}
 global_dict = {}
 global_dict = {
@@ -32,14 +32,17 @@ for line in open("event_3.index"):
     addr = arr[1]
     age = arr[3]
     gender = arr[4]
-    daytime = time.strptime(arr[0][12:22], '%H:%M:%S')[3] * 3600 #+  time.strptime(arr[0][12:22], '%H:%M:%S')[4] * 60
+    daytime = time.strptime(arr[0][12:22], '%H:%M:%S')[3] #* 3600 #+  time.strptime(arr[0][12:22], '%H:%M:%S')[4] * 60
 
     if addr != 'NULL':
         if not addr in addr_dict:
-            addr_dict[addr] = {}
+            addr_dict[addr] = {
+                    'total' : 0
+                    }
         if not daytime in addr_dict[addr]:
             addr_dict[addr][daytime] = 0
         addr_dict[addr][daytime] += 1
+        addr_dict[addr]['total'] += 1
 
     if title != 'NULL':
         if not title in title_dict:
@@ -83,12 +86,13 @@ for line in open("event_3.index"):
     if(n == 0):
         break
 
+print '## ' + str(daytime)
 for addr in addr_dict:
-    print addr
+    print '\n### ' + addr + '\naddr|count\n---|---'
     for daytime in addr_dict[addr]:
-        print daytime, addr_dict[addr][daytime]
+        if not daytime == 'total':
+            print daytime, '|', '*' * int(1.0 * addr_dict[addr][daytime] / addr_dict[addr]['total'] * 300)
 
-sys.exit()
 
 # print "## titles"
 for title in title_dict:

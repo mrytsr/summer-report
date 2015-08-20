@@ -90,7 +90,9 @@ for age,detail in age_list:
 
 print '\n### gender\ntotal|count|total/count|total/占比\n---|---|---|---'
 def cmp_total_gender(val1, val2):
-    return cmp(val1['total'] / genders[val1['key']], val2['total'] / genders[val2['key']])
+    return cmp(val1['total'] / genders[val1['key']],
+            val2['total'] / genders[val2['key']]
+            )
 gender_list = sorted(gender_dict.iteritems(), cmp_total_gender, key=lambda d:d[1], reverse = True)
 for gender,detail in gender_list:
     print gender, "|",\
