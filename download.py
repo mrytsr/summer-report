@@ -1,8 +1,9 @@
 #!/usr/bin/env pypy
 #coding:utf-8
 import sys
+import time
 
-n=100000000
+n = 10000000 #000
 title_dict = {}
 global_dict = {}
 global_dict = {
@@ -20,6 +21,8 @@ prefer_dict = {
         'addr' : {},
         }
 
+addr_dict = { }
+
 def cmp_weight(val1, val2):
     return cmp(val1['weight'], val2['weight'])
 
@@ -29,8 +32,16 @@ for line in open("event_3.index"):
     addr = arr[1]
     age = arr[3]
     gender = arr[4]
+    daytime = time.strptime(arr[0][12:22], '%H:%M:%S')[3] * 3600 #+  time.strptime(arr[0][12:22], '%H:%M:%S')[4] * 60
 
-    if(title != 'NULL'):
+    if addr != 'NULL':
+        if not addr in addr_dict:
+            addr_dict[addr] = {}
+        if not daytime in addr_dict[addr]:
+            addr_dict[addr][daytime] = 0
+        addr_dict[addr][daytime] += 1
+
+    if title != 'NULL':
         if not title in title_dict:
             title_dict[title] = {'count': 0, 
                     'age' : {}, 
@@ -69,8 +80,15 @@ for line in open("event_3.index"):
             global_dict['addr_count'] += 1
 
     n -= 1
-    if(n == n+1):
+    if(n == 0):
         break
+
+for addr in addr_dict:
+    print addr
+    for daytime in addr_dict[addr]:
+        print daytime, addr_dict[addr][daytime]
+
+sys.exit()
 
 # print "## titles"
 for title in title_dict:
