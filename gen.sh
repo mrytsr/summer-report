@@ -16,13 +16,16 @@ cat ./dataset/0813/appshare_log.aps_data_eventlog.csv.esc |awk -F',' '{if($6=="\
 cat ./dataset/appshare.aps_biz_order.csv.esc |awk -F',' '{if($4!="\"12个月VIP会员\""&&$4!="\"充值\"")print $30,$27,$5,$33}' > ./shm/order.csv
 
 # 1. gen audio_name_taxo
-awk -F'","' '{printf "%s\" \"%s\" \"%s\"\n",$1,$3,$37}' dataset/aps_audio.csv.esc |sort> audio_name_taxo.index
+awk -F'","' '{gsub(/ /,"-",$3); printf "%s\" \"%s\" \"%s\"\n",$1,$3,$37}' dataset/appshare.aps_audio.csv.esc |sort> audio_name_taxo.index
+
+# 1. gen device_model.index
+cat dataset/appshare.aps_device.csv.esc |awk -F'","' '{gsub(/ /,"-",$3); gsub(/ /,"-",$4); printf "\"%s\" \"%s,%s,%s,%s\"\n",$6,$3,$4,$8,$9}' |sort -k1 > device_model.index
 
 # 2. gen event_audio
-join -o1.1 1.2 1.4 1.5 2.2 2.3 --nocheck-order -13 <(cat ./shm/download.csv|sort -k3) audio_name_taxo.index > event_audio.index
+join -o1.1 1.2 1.4 1.5 2.2 2.3 --nocheck-order -13 <(cat ./shm/download.csv|sort -k3) audio_name_taxo.index |sort -k1 > event_audio.index
 
 # 3 gen order.index
 join --nocheck-order -a1 -e\"NULL\" -o1.2 1.3 1.4 1.5 2.2 2.3 <(join --nocheck-order -a1 -e\"NULL\" -o 1.2 1.3 1.4 1.5 2.2 <(cat ./shm/order.csv|sort -k1) device_addr.index|sort -k1) member_year_gender.index > order.index
 
-# 3. gen event_3
-join -a1 -e\"NULL\" -o1.3 1.4 1.2 1.1 2.2 2.3 1.5 1.6  <(join -e\"NULL\" -a1 -o1.2 2.2 1.3 1.4 1.5 1.6 <(sort -k1 event_audio.index) device_addr.index|sort -k1) member_year_gender.index > event_3.index
+# 3. gen download.index
+join -a1 -e\"NULL\" -o1.3 1.4 1.2 1.1 2.2 2.3 1.5 1.6 1.7 <(join -e\"NULL\" -a1 -o1.2 1.3 1.4 1.5 1.6 1.7 2.2 <(join -e\"NULL\" -a1 -o1.1 1.2 2.2 1.3 1.4 1.5 1.6 event_audio.index device_addr.index) device_model.index|sort -k1) member_year_gender.index > download.index
