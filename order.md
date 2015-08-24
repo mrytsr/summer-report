@@ -1,6 +1,6 @@
 
-### addr
-total|count|total/count|total/占比|total/占比*
+## addr
+addr|total|count|total/count|total/占比|total/占比*
 ---|---|---|---|---|---
 上海市 | 1502749 | 2396 | 627.190734558 | 67 | IIIIIIIIIIIII
 北京市 | 1760525 | 3556 | 495.085770529 | 65 | IIIIIIIIIIIII
@@ -37,7 +37,7 @@ total|count|total/count|total/占比|total/占比*
 台湾省 | 11173 | 28 | 399.035714286 | 2 | 
 
 ## age
-total|count|total/count|total/占比|total/占比*
+age|total|count|total/count|total/占比|total/占比*
 ---|---|---|---|---|---
 1 | 1065021 | 2784 | 382.550646552 | 53 | IIIIIIIIII
 2 | 771666 | 2090 | 369.218181818 | 33 | IIIIII
@@ -56,7 +56,7 @@ total|count|total/count|total/占比|total/占比*
 15 | 172900 | 410 | 421.707317073 | 261 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
 ## gender
-total|count|total/count|total/占比|total/占比*
+gender|total|count|total/count|total/占比|total/占比*
 ---|---|---|---|---|---
 1 | 31482591 | 67563 | 465.973846632 | 331 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 2 | 21316012 | 47430 | 449.420451191 | 244 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII

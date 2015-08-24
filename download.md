@@ -1,7 +1,7 @@
 ['"2015-08-10 09:30:04', 'NULL', '0', 'NULL', 'NULL', '\xe5\x84\xbf\xe7\xab\xa5\xe7\x89\x88\xe6\x96\xb0\xe7\xba\xa6\xe5\x9c\xa3\xe7\xbb\x8f\xe6\x95\x85\xe4\xba\x8b5 ', 'android,GT-I9082i,800,4.1.2"\n']
-## addr和时间的相关性
+# addr和时间的相关性
 
-### 山东省
+## 山东省
 addr|count|count*
 ---|---|---
 0 | 413 | IIIIIIIII
@@ -29,7 +29,7 @@ addr|count|count*
 22 | 1811 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 23 | 918 | IIIIIIIIIIIIIIIIIIII
 
-### 安徽省
+## 安徽省
 addr|count|count*
 ---|---|---
 0 | 55 | II
@@ -57,7 +57,7 @@ addr|count|count*
 22 | 765 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 23 | 204 | IIIIIIIIII
 
-### 山西省
+## 山西省
 addr|count|count*
 ---|---|---
 0 | 176 | IIIIIIIIIIIII
@@ -85,7 +85,7 @@ addr|count|count*
 22 | 557 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 23 | 356 | IIIIIIIIIIIIIIIIIIIIIIIIII
 
-### 云南省
+## 云南省
 addr|count|count*
 ---|---|---
 0 | 249 | IIIIIIIIIIIIIIIIIII
@@ -113,7 +113,7 @@ addr|count|count*
 22 | 353 | IIIIIIIIIIIIIIIIIIIIIIIIIII
 23 | 711 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
-### 陕西省
+## 陕西省
 addr|count|count*
 ---|---|---
 0 | 136 | IIII
@@ -141,7 +141,7 @@ addr|count|count*
 22 | 1395 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 23 | 713 | IIIIIIIIIIIIIIIIIIIIIIII
 
-### 上海市
+## 上海市
 addr|count|count*
 ---|---|---
 0 | 44 | IIIII
@@ -169,7 +169,7 @@ addr|count|count*
 22 | 358 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 23 | 73 | IIIIIIII
 
-### 广西壮族自治区
+## 广西壮族自治区
 addr|count|count*
 ---|---|---
 0 | 183 | IIIIIIIIIIIIII
@@ -197,7 +197,7 @@ addr|count|count*
 22 | 615 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 23 | 445 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
-### 重庆市
+## 重庆市
 addr|count|count*
 ---|---|---
 0 | 356 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
@@ -225,7 +225,7 @@ addr|count|count*
 22 | 395 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 23 | 96 | IIIIIIIIIIII
 
-### 江苏省
+## 江苏省
 addr|count|count*
 ---|---|---
 0 | 185 | IIIII
@@ -253,7 +253,7 @@ addr|count|count*
 22 | 1268 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 23 | 565 | IIIIIIIIIIIIIIIII
 
-### 黑龙江省
+## 黑龙江省
 addr|count|count*
 ---|---|---
 0 | 48 | IIIII
@@ -281,7 +281,7 @@ addr|count|count*
 22 | 254 | IIIIIIIIIIIIIIIIIIIIIIIIII
 23 | 68 | IIIIIII
 
-### 江西省
+## 江西省
 addr|count|count*
 ---|---|---
 0 | 88 | IIIIII
@@ -309,7 +309,7 @@ addr|count|count*
 22 | 377 | IIIIIIIIIIIIIIIIIIIIIIIIII
 23 | 210 | IIIIIIIIIIIIII
 
-### 浙江省
+## 浙江省
 addr|count|count*
 ---|---|---
 0 | 72 | III
@@ -337,7 +337,7 @@ addr|count|count*
 22 | 668 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 23 | 218 | IIIIIIIII
 
-### 天津市
+## 天津市
 addr|count|count*
 ---|---|---
 0 | 0 | 
@@ -365,7 +365,7 @@ addr|count|count*
 22 | 124 | IIIIIIIIIIIIIIIIIIIIIIIIIIII
 23 | 16 | III
 
-### 西藏自治区
+## 西藏自治区
 addr|count|count*
 ---|---|---
 0 | 1 | IIIIIIIIIIIIIIII
@@ -393,7 +393,7 @@ addr|count|count*
 22 | 2 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 23 | 0 | 
 
-### 香港特别行政区
+## 香港特别行政区
 addr|count|count*
 ---|---|---
 0 | 2 | I
@@ -421,7 +421,7 @@ addr|count|count*
 22 | 42 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 23 | 41 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
-### 宁夏回族自治区
+## 宁夏回族自治区
 addr|count|count*
 ---|---|---
 0 | 62 | IIIIIIIIIIIIIIIIII
@@ -449,7 +449,7 @@ addr|count|count*
 22 | 24 | IIIIIII
 23 | 163 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
-### 湖北省
+## 湖北省
 addr|count|count*
 ---|---|---
 0 | 301 | IIIIIIIIII
@@ -477,7 +477,7 @@ addr|count|count*
 22 | 1195 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 23 | 645 | IIIIIIIIIIIIIIIIIIIIIII
 
-### 甘肃省
+## 甘肃省
 addr|count|count*
 ---|---|---
 0 | 3 | 
@@ -505,7 +505,7 @@ addr|count|count*
 22 | 505 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 23 | 134 | IIIIIIIIII
 
-### 青海省
+## 青海省
 addr|count|count*
 ---|---|---
 0 | 12 | IIIIIIIIIIIIII
@@ -533,7 +533,7 @@ addr|count|count*
 22 | 62 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 23 | 1 | I
 
-### 四川省
+## 四川省
 addr|count|count*
 ---|---|---
 0 | 120 | IIIII
@@ -561,7 +561,7 @@ addr|count|count*
 22 | 838 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 23 | 462 | IIIIIIIIIIIIIIIIIIII
 
-### 辽宁省
+## 辽宁省
 addr|count|count*
 ---|---|---
 0 | 191 | IIIIIIIIIIII
@@ -589,7 +589,7 @@ addr|count|count*
 22 | 335 | IIIIIIIIIIIIIIIIIIIII
 23 | 141 | IIIIIIIII
 
-### 台湾省
+## 台湾省
 addr|count|count*
 ---|---|---
 0 | 105 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
@@ -617,7 +617,7 @@ addr|count|count*
 22 | 42 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 23 | 50 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
-### 福建省
+## 福建省
 addr|count|count*
 ---|---|---
 0 | 52 | III
@@ -645,7 +645,7 @@ addr|count|count*
 22 | 712 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 23 | 323 | IIIIIIIIIIIIIIIIIIII
 
-### 吉林省
+## 吉林省
 addr|count|count*
 ---|---|---
 0 | 5 | 
@@ -673,7 +673,7 @@ addr|count|count*
 22 | 225 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 23 | 35 | IIIII
 
-### 贵州省
+## 贵州省
 addr|count|count*
 ---|---|---
 0 | 118 | IIIIIIIIIIIIIIIIII
@@ -701,7 +701,7 @@ addr|count|count*
 22 | 190 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 23 | 124 | IIIIIIIIIIIIIIIIIII
 
-### 广东省
+## 广东省
 addr|count|count*
 ---|---|---
 0 | 500 | IIIIIIII
@@ -729,7 +729,7 @@ addr|count|count*
 22 | 2268 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 23 | 1625 | IIIIIIIIIIIIIIIIIIIIIIIIIII
 
-### 新疆维吾尔自治区
+## 新疆维吾尔自治区
 addr|count|count*
 ---|---|---
 0 | 232 | IIIIIIIIIIIIIIIIIIIIIIII
@@ -757,7 +757,7 @@ addr|count|count*
 22 | 340 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 23 | 498 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
-### 湖南省
+## 湖南省
 addr|count|count*
 ---|---|---
 0 | 145 | IIIII
@@ -785,7 +785,7 @@ addr|count|count*
 22 | 954 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 23 | 560 | IIIIIIIIIIIIIIIIIIII
 
-### 河南省
+## 河南省
 addr|count|count*
 ---|---|---
 0 | 170 | III
@@ -813,7 +813,7 @@ addr|count|count*
 22 | 2247 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 23 | 907 | IIIIIIIIIIIIIIIII
 
-### 海南省
+## 海南省
 addr|count|count*
 ---|---|---
 0 | 99 | IIIIIIIIIIIIIIIIIIIIIIIII
@@ -841,7 +841,7 @@ addr|count|count*
 22 | 257 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 23 | 86 | IIIIIIIIIIIIIIIIIIIII
 
-### 内蒙古自治区
+## 内蒙古自治区
 addr|count|count*
 ---|---|---
 0 | 22 | II
@@ -869,7 +869,7 @@ addr|count|count*
 22 | 397 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 23 | 309 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
-### 北京市
+## 北京市
 addr|count|count*
 ---|---|---
 0 | 44 | II
@@ -897,7 +897,7 @@ addr|count|count*
 22 | 854 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 23 | 443 | IIIIIIIIIIIIIIIIIIIIII
 
-### 河北省
+## 河北省
 addr|count|count*
 ---|---|---
 0 | 201 | IIIIIIII
@@ -924,9 +924,9 @@ addr|count|count*
 21 | 1244 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 22 | 955 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 23 | 541 | IIIIIIIIIIIIIIIIIIIII
-## age和时间的相关性
+# age和时间的相关性
 
-### 2002
+## 2002
 age|count|count*
 ---|---|---
 0 | 27 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
@@ -954,7 +954,7 @@ age|count|count*
 22 | 0 | 
 23 | 1 | IIIII
 
-### 2003
+## 2003
 age|count|count*
 ---|---|---
 0 | 0 | 
@@ -982,7 +982,7 @@ age|count|count*
 22 | 9 | IIIIIIIIIIIIIIII
 23 | 8 | IIIIIIIIIIIIII
 
-### 2000
+## 2000
 age|count|count*
 ---|---|---
 0 | 0 | 
@@ -1010,7 +1010,7 @@ age|count|count*
 22 | 0 | 
 23 | 0 | 
 
-### 2006
+## 2006
 age|count|count*
 ---|---|---
 0 | 28 | III
@@ -1038,7 +1038,7 @@ age|count|count*
 22 | 187 | IIIIIIIIIIIIIIIIIIIIIIIII
 23 | 198 | IIIIIIIIIIIIIIIIIIIIIIIIIII
 
-### 2007
+## 2007
 age|count|count*
 ---|---|---
 0 | 87 | IIIIIII
@@ -1066,7 +1066,7 @@ age|count|count*
 22 | 418 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 23 | 128 | IIIIIIIIIII
 
-### 2004
+## 2004
 age|count|count*
 ---|---|---
 0 | 7 | IIIIIIIIIIII
@@ -1094,7 +1094,7 @@ age|count|count*
 22 | 76 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 23 | 6 | IIIIIIIIII
 
-### 2005
+## 2005
 age|count|count*
 ---|---|---
 0 | 23 | IIIIIIIII
@@ -1122,7 +1122,7 @@ age|count|count*
 22 | 49 | IIIIIIIIIIIIIIIIIII
 23 | 45 | IIIIIIIIIIIIIIIIII
 
-### 2014
+## 2014
 age|count|count*
 ---|---|---
 0 | 79 | III
@@ -1150,7 +1150,7 @@ age|count|count*
 22 | 738 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 23 | 426 | IIIIIIIIIIIIIIIIIII
 
-### 2008
+## 2008
 age|count|count*
 ---|---|---
 0 | 40 | II
@@ -1178,7 +1178,7 @@ age|count|count*
 22 | 543 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 23 | 355 | IIIIIIIIIIIIIIIIIIIII
 
-### 2009
+## 2009
 age|count|count*
 ---|---|---
 0 | 151 | IIIIIIIII
@@ -1206,7 +1206,7 @@ age|count|count*
 22 | 895 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 23 | 551 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
-### 2011
+## 2011
 age|count|count*
 ---|---|---
 0 | 112 | IIIIII
@@ -1234,7 +1234,7 @@ age|count|count*
 22 | 869 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 23 | 536 | IIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
-### 2010
+## 2010
 age|count|count*
 ---|---|---
 0 | 99 | IIII
@@ -1262,7 +1262,7 @@ age|count|count*
 22 | 990 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 23 | 625 | IIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
-### 2013
+## 2013
 age|count|count*
 ---|---|---
 0 | 170 | IIIIIIIIIII
@@ -1290,7 +1290,7 @@ age|count|count*
 22 | 600 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 23 | 391 | IIIIIIIIIIIIIIIIIIIIIIIIII
 
-### 2012
+## 2012
 age|count|count*
 ---|---|---
 0 | 372 | IIIIIIIIIIIIIIIII
@@ -1317,6 +1317,7 @@ age|count|count*
 21 | 838 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 22 | 787 | IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 23 | 453 | IIIIIIIIIIIIIIIIIIIII
+# 下载和addr,gender,age,deviceinfo的相关性
 
 ## addr
 

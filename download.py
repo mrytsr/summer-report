@@ -164,22 +164,22 @@ for line in open("download.index"):
     if(n == 0):
         break
 
-print '## ' + 'addr和时间的相关性'
+print '# addr和时间的相关性'
 for addr in addr_dict:
-    print '\n### ' + addr + '\naddr|count|count*\n---|---|---'
+    print '\n## ' + addr + '\naddr|count|count*\n---|---|---'
     for daytime in addr_dict[addr]:
         if not daytime == 'total':
             print daytime, '|', addr_dict[addr][daytime], '|', 'I' * int(1.0 * addr_dict[addr][daytime] / addr_dict[addr]['total'] * 500)
 
-print '## ' + 'age和时间的相关性'
+print '# age和时间的相关性'
 for age in age_dict:
-    print '\n### ' + age + '\nage|count|count*\n---|---|---'
+    print '\n## ' + age + '\nage|count|count*\n---|---|---'
     for daytime in age_dict[age]:
         if not daytime == 'total':
             print daytime, '|', age_dict[age][daytime], '|', 'I' * int(1.0 * age_dict[age][daytime] / age_dict[age]['total'] * 400)
 
 
-# print "## titles"
+print "# 下载和addr,gender,age,deviceinfo的相关性"
 for title in title_dict:
     if title_dict[title]['age_count'] < 30:
         continue
